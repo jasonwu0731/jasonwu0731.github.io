@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Jason Wu"
 description              : &description "MPhil Student at HKUST"
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         : "https://www.facebook.com/jasonwu0731"
   foursquare       :
-  github           : "https://github.com/jasonwu0731"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
