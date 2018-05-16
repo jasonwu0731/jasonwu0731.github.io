@@ -21,7 +21,7 @@ About Me
 
 * I received B.S. in Electrical Engineering from [National Taiwan University](http://www.ntu.edu.tw/english/) in 2016. As an undergrad researcher, I worked with Prof. [An-Yeu (Andy) Wu](http://access.ee.ntu.edu.tw/) in Access IC Lab, and [Dr. Jing-Sin Liu](http://www.iis.sinica.edu.tw/pages/liu/) in Academia Sinica, R.O.C.
 
-* My current research interests are emotion analysis, task-oriented dialog systems, and human-robot interactions. Specifically, 
+* My current research interests are emotion analysis, task-oriented dialog systems, and human-robot interactions.
 
 * Previously, I have also worked on speech recognition, visual question answering, compressive sensing, 5G communication, and IC design.
 
