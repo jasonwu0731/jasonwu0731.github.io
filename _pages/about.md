@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-News
+<!-- News
 ========
 * Apr 2018 : Our paper *Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems* by ACL 2018 
 * Jan 2018 : Our paper *End-to-End Dynamic Query Memory Network for Entity-Value Independent Task-oriented Dialog* by ICASSP 2018 
-* Nov 2017 : Our work *End-to-End Recurrent Entity Network for Entity-Value Independent Goal-Oriented Dialog Learning* got 2nd place in DSTC6 
+* Nov 2017 : Our work *End-to-End Recurrent Entity Network for Entity-Value Independent Goal-Oriented Dialog Learning* got 2nd place in DSTC6  -->
 
 
 About Me
