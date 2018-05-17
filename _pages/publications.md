@@ -7,7 +7,7 @@ author_profile: true
 ## Conference Papers
 
 <b>[Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems](https://jasonwu0731.github.io/publications/Mem2Seq)</b> <br>
-Andrea Madotto , <b>Chien-Sheng Wu</b>, Pascale Fung. <b>ACL 2018</b>.
+Andrea Madotto* , <b>Chien-Sheng Wu*</b>, Pascale Fung. <b>ACL 2018</b>.
 
 <b>[End-to-End Dynamic Query Memory Network for Entity-Value Independent Task-oriented Dialog](https://jasonwu0731.github.io/publications/DQMemNN)</b> <br>
 <b>Chien-Sheng Wu</b>, Andrea Madotto, Genta Winata, Pascale Fung. <b>ICASSP 2018</b>.
