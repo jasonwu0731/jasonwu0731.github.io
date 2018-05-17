@@ -1,10 +1,10 @@
 ---
-title: 
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-## Pulications
+## Conference Papers
 
 <b>[Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems](https://jasonwu0731.github.io/publications/Mem2Seq)</b> <br>
 Andrea Madotto , <b>Chien-Sheng Wu</b>, Pascale Fung. <b>ACL 2018.</b> 
