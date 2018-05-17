@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Jason Wu"
+name                     : &name "Chien-Sheng Wu"
 description              : &description "MPhil Student at HKUST"
 url                      : https://jasonwu0731.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "in/chien-sheng-jason-wu-0b8459a8/"
+  linkedin         : "chien-sheng-jason-wu-0b8459a8/"
   orcid            : 
   pinterest        :
   soundcloud       :
