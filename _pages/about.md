@@ -15,7 +15,7 @@ redirect_from:
 * Nov 2017 : Our work *End-to-End Recurrent Entity Network for Entity-Value Independent Goal-Oriented Dialog Learning* got 2nd place in DSTC6  -->
 
 <p align="center">
-  <img src="https://www.google.com.hk/search?q=hkust&source=lnms&tbm=isch&sa=X&ved=0ahUKEwimtZKE4ovbAhUJfrwKHQ8vARQQ_AUIDCgD&biw=1279&bih=676#imgdii=rXtrPseu7u_uBM:&imgrc=jhbGfj4DJfZSnM:" alt="Photo"/> 
+  <img src="https://jasonwu0731.github.io/images/HKUST.JPEG" alt="Photo"/> 
 </p>
 
 About Me
