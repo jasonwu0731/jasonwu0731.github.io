@@ -14,6 +14,7 @@ redirect_from:
 * Jan 2018 : Our paper *End-to-End Dynamic Query Memory Network for Entity-Value Independent Task-oriented Dialog* by ICASSP 2018 
 * Nov 2017 : Our work *End-to-End Recurrent Entity Network for Entity-Value Independent Goal-Oriented Dialog Learning* got 2nd place in DSTC6  -->
 
+![cover](https://github.com/jasonwu0731/jasonwu0731.github.io/blob/master/images/HKUST.JPEG)
 
 About Me
 ========
@@ -21,7 +22,7 @@ About Me
 
 * I received B.S. in Electrical Engineering from [National Taiwan University](http://www.ntu.edu.tw/english/) in 2016. As an undergrad researcher, I worked with Prof. [An-Yeu (Andy) Wu](http://access.ee.ntu.edu.tw/) in Access IC Lab, and [Dr. Jing-Sin Liu](http://www.iis.sinica.edu.tw/pages/liu/) in Academia Sinica, R.O.C.
 
-* My current research topics focus on emotion analysis, task-oriented dialog systems, and human-robot interactions. Previously, I have also worked on speech recognition, visual question answering, compressive sensing, 5G communication, and IC design.
+* My current research topics focus on [dialog systems](https://en.wikipedia.org/wiki/Dialog_system), [affective computing](https://en.wikipedia.org/wiki/Affective_computing), and [human-robot interactions](https://en.wikipedia.org/wiki/Human%E2%80%93robot_interaction). Previously, I have also worked on speech recognition, visual question answering, compressive sensing, 5G communication, and IC design.
 
 <!-- Dream Big, then try my best to Do Bigger. Please feel free to browse through my profile and contact me. -->
 
