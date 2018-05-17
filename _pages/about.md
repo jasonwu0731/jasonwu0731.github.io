@@ -14,7 +14,7 @@ redirect_from:
 * Jan 2018 : Our paper *End-to-End Dynamic Query Memory Network for Entity-Value Independent Task-oriented Dialog* by ICASSP 2018 
 * Nov 2017 : Our work *End-to-End Recurrent Entity Network for Entity-Value Independent Goal-Oriented Dialog Learning* got 2nd place in DSTC6  -->
 
-![cover](https://github.com/jasonwu0731/jasonwu0731.github.io/blob/master/images/HKUST.JPEG)
+![cover](https://www.google.com.hk/search?q=hkust&source=lnms&tbm=isch&sa=X&ved=0ahUKEwimtZKE4ovbAhUJfrwKHQ8vARQQ_AUIDCgD&biw=1279&bih=676#imgdii=rXtrPseu7u_uBM:&imgrc=jhbGfj4DJfZSnM:)
 
 About Me
 ========
