@@ -16,8 +16,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: https://github.com/jasonwu0731/jasonwu0731.github.io/blob/master/files/shortcv-jasonwu.pdf
-    #/cv/
+    url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
