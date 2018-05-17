@@ -9,8 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-My <a href="https://github.com/jasonwu0731/jasonwu0731.github.io/blob/master/files/shortcv-jasonwu.pdf" target="_blank">short-CV</a>
-
-\includegraphics[page=1]{files/shortcv-jasonwu.pdf}
-
-![Alt](https://github.com/jasonwu0731/jasonwu0731.github.io/blob/master/files/shortcv-jasonwu.pdf)
+## <a href="https://github.com/jasonwu0731/jasonwu0731.github.io/blob/master/files/shortcv-jasonwu.pdf" target="_blank" style="color: #ff0000;">short-CV</a>  
