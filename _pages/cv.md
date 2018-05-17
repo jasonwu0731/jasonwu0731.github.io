@@ -6,4 +6,4 @@ author_profile: true
 
 {% include base_path %}
 
-## <a href="https://github.com/jasonwu0731/jasonwu0731.github.io/blob/master/files/shortcv-jasonwu.pdf" target="_blank" style="color: #ff0000;">short-CV</a>  
+## Check my short version resume<a href="https://github.com/jasonwu0731/jasonwu0731.github.io/blob/master/files/shortcv-jasonwu.pdf" target="_blank" style="color: #ff0000;">here</a>  
