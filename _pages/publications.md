@@ -28,7 +28,7 @@ P. Fung, D. Bertero, Y. Wan, A. Dey, R. Chan, F. Siddique, Y. Yang, <b>Chien-She
 <b>[JointRF/Baseband Grouping-based Codebook Design for Hybrid Beamforming in mmWave MIMO Systems](https://jasonwu0731.github.io/publications/ICSPCC16)</b> <br>
 <b>Chien-Sheng Wu</b>, Chiang-Hen Chen, Cheng-Rung Tsai, and An-Yeu (Andy) Wu. <i>ICSPCC 2016.</i>
 
-{% if author.googlescholar %}
+<!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
@@ -36,4 +36,4 @@ P. Fung, D. Bertero, Y. Wan, A. Dey, R. Chan, F. Siddique, Y. Yang, <b>Chien-She
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
