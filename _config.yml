@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About"
+title                    : "Chien-Sheng Wu"
 title_separator          : "-"
 name                     : &name "Chien-Sheng Wu"
 description              : &description "MPhil Student at HKUST"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chien-Sheng Jason Wu"
+  name             : "Jason Wu"
   avatar           : "jason_profile.jpg"
   bio              : "Deep Learning, Natural Language Processing, Graduate Researcher"
   location         : "Hong Kong"
