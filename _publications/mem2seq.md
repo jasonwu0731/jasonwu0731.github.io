@@ -8,7 +8,7 @@ venue: 'The Association for Computational Linguistics (ACL)'
 paperurl: 
 citation: 
 ---
-[[PDF]](https://arxiv.org/pdf/1804.08217.pdf) [[Code]](https://github.com/HLTCHKUST/Mem2Seq)) 
+[[PDF]](https://arxiv.org/pdf/1804.08217.pdf) [[Code]](https://github.com/HLTCHKUST/Mem2Seq)
 
 
 ## Abstract
