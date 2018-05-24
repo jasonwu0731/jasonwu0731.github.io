@@ -9,7 +9,6 @@ paperurl:
 citation: 
 ---
 [[PDF]](https://arxiv.org/abs/1605.04072)
-
 <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:daXR-Jq1KVUJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWwa6n-ntyh1_qKcPgzYV-FQL7FiHvNqY&scisf=4&ct=citation&cd=-1&hl=zh-TW" target="_blank">[BibTeX]</a> 
 
 ## Abstract
