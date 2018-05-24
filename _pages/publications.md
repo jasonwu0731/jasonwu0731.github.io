@@ -4,9 +4,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
 ## Conference Papers
 <b>[Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems](https://jasonwu0731.github.io/publications/Mem2Seq)</b> <br>
 Andrea Madotto* , <b>Chien-Sheng Wu*</b>, Pascale Fung. <i><b>ACL 2018</b></i>.
+[[PDF]](https://arxiv.org/pdf/1804.08217.pdf) [[Code]](https://github.com/HLTCHKUST/Mem2Seq)
+<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:KqL-T-pvx44J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWwa6CXfR7cJTfXmJX9eV3C0GR3v1tBpP&scisf=4&ct=citation&cd=-1&hl=zh-TW" target="_blank">[BibTeX]</a>
 
 <b>[End-to-End Dynamic Query Memory Network for Entity-Value Independent Task-oriented Dialog](https://jasonwu0731.github.io/publications/DQMemNN)</b> <br>
 <b>Chien-Sheng Wu</b>, Andrea Madotto, Genta Winata, Pascale Fung. <i><b>ICASSP 2018</b></i>.
@@ -28,13 +34,3 @@ P. Fung, D. Bertero, Y. Wan, A. Dey, R. Chan, F. Siddique, Y. Yang, <b>Chien-She
 
 <b>[Zara: A Virtual Interactive Dialogue System Incorporating Emotion, Sentiment and Personality Recognition](https://jasonwu0731.github.io/publications/Zara)</b> <br>
 P. Fung, A. Dey, F. Siddique, R. Lin, Y. Yang, D. Bertero, W. Yan, R. Yin, <b>Chien-Sheng Wu</b>. <i>COLING Demo 2016</i>.
-
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
