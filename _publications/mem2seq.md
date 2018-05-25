@@ -9,7 +9,7 @@ paperurl:
 citation: 
 ---
 [[PDF]](https://arxiv.org/pdf/1804.08217.pdf) [[Code]](https://github.com/HLTCHKUST/Mem2Seq)
-<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:KqL-T-pvx44J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWwa6CXfR7cJTfXmJX9eV3C0GR3v1tBpP&scisf=4&ct=citation&cd=-1&hl=zh-TW" target="_blank">[BibTeX]</a>  
+<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:KqL-T-pvx44J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWwd1d3pN2WZUe8vg-ZThlAqxwQcOyQGd&scisf=4&ct=citation&cd=-1&hl=en" target="_blank">[BibTeX]</a> 
 
 ## Abstract
 End-to-end task-oriented dialog systems usually suffer from the challenge of incorporating knowledge bases. In this paper, we propose a novel yet simple end-toend differentiable model called memoryto-sequence (Mem2Seq) to address this issue. Mem2Seq is the first neural generative model that combines the multihop attention over memories with the idea of pointer network. We empirically show how Mem2Seq controls each generation step, and how its multi-hop attention mechanism helps in learning correlations between memories. In addition, our model is quite general without complicated taskspecific designs. As a result, we show that Mem2Seq can be trained faster and attain the state-of-the-art performance on three different task-oriented dialog datasets
