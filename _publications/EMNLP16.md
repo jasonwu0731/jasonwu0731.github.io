@@ -9,7 +9,14 @@ paperurl:
 citation: 
 ---
 [[PDF]](http://aclweb.org/anthology/D16-1110) 
-<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:AL_PtWU_WIkJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWwd1nGS9cXWVwZS4wLDhmS78fDLPi8MJ&scisf=4&ct=citation&cd=-1&hl=en" target="_blank">[BibTeX]</a>  
+
+@inproceedings{bertero2016real,
+  title={Real-time speech emotion and sentiment recognition for interactive dialogue systems},
+  author={Bertero, Dario and Siddique, Farhad Bin and Wu, Chien-Sheng and Wan, Yan and Chan, Ricky Ho Yin and Fung, Pascale},
+  booktitle={Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing},
+  pages={1042--1047},
+  year={2016}
+}
 
 ## Abstract
 In this paper, we describe our approach of enabling an interactive dialogue system to recognize user emotion and sentiment in realtime. These modules allow otherwise conventional dialogue systems to have “empathy” and answer to the user while being aware of their emotion and intent. Emotion recognition from speech previously consists of feature engineering and machine learning where the first stage causes delay in decoding time. We describe a CNN model to extract emotion from raw speech input without feature engineering. This approach even achieves an impressive average of 65.7% accuracy on six emotion categories, a 4.5% improvement when compared to the conventional feature based SVM classification. A separate, CNN-based sentiment analysis module recognizes sentiments from speech recognition results, with 82.5 Fmeasure on human-machine dialogues when trained with out-of-domain data.
