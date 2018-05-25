@@ -4,13 +4,61 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find on <u><a href="{{author.googlescholar}}" target="_blank">my Google Scholar profile</a>.</u>
+You can also check my <u><a href="https://scholar.google.com.hk/citations?user=1G4GV2EAAAAJ&hl=en-TW" target="_blank">Google Scholar profile</a>.</u>
+
+/* The list of items */
+.biblist { }
+/* The item */
+.biblist li { }
+/* You can define custom styles for plstyle field here. */
+/*************************************
+ The box that contain BibTeX code
+ *************************************/
+div.noshow { display: none; }
+div.bibtex {
+	margin-right: 0%;
+	margin-top: 1.2em;
+	margin-bottom: 1em;
+	border: 1px solid silver;
+	padding: 0em 1em;
+	background: #ffffee;
+}
+div.bibtex pre { font-size: 75%; overflow: auto;  width: 100%; padding: 0em 0em;}</style>
+<script type="text/javascript">
+    <!--
+    // Toggle Display of BibTeX
+    function toggleBibtex(articleid) {
+        var bib = document.getElementById('bib_'+articleid);
+        if (bib) {
+            if(bib.className.indexOf('bibtex') != -1) {
+                bib.className.indexOf('noshow') == -1?bib.className = 'bibtex noshow':bib.className = 'bibtex';
+            }
+        } else {
+            return;
+        }
+    }
+-->
+</script>
 
 ## Conference Papers
 <b>[Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems](https://jasonwu0731.github.io/publications/Mem2Seq)</b> <br>
 Andrea Madotto* , <b>Chien-Sheng Wu*</b>, Pascale Fung. <i><b>ACL 2018 (long)</b></i>.
 [[PDF]](https://arxiv.org/pdf/1804.08217.pdf) [[Code]](https://github.com/HLTCHKUST/Mem2Seq)
 <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:KqL-T-pvx44J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWwd1d3pN2WZUe8vg-ZThlAqxwQcOyQGd&scisf=4&ct=citation&cd=-1&hl=en" target="_blank">[BibTeX]</a>
+<a href="javascript:toggleBibtex('Maninis2018')">[BibTeX]</a>
+<div id="bib_Maninis2018" class="bibtex noshow">
+<pre>
+@article{Maninis2018,
+  author = {Maninis, Kevis-Kokitsi and Pont-Tuset, Jordi and Arbel&aacute;ez, Pablo and Van Gool, Luc},
+  title = {Convolutional Oriented Boundaries: From Image Segmentation to High-Level Tasks},
+  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
+  year = {2018},
+  volume = {40},
+  number = {4},
+  pages = {819 - 833}
+}
+</pre>
+</div>
 
 <b>[End-to-End Dynamic Query Memory Network for Entity-Value Independent Task-oriented Dialog](https://jasonwu0731.github.io/publications/DQMemNN)</b> <br>
 <b>Chien-Sheng Wu</b>, Andrea Madotto, Genta Winata, Pascale Fung. <i><b>ICASSP 2018</b></i>.
