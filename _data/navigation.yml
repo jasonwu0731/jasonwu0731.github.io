@@ -17,8 +17,8 @@ main:
   - title: "Honors"
     url: /honors/
 
-  # - title: "CV"
-  #   url: /cv/
+  - title: "Contact"
+    url: /contact/
     
   # - title: "Guide"
   #   url: /markdown/
