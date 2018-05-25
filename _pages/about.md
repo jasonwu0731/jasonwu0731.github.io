@@ -24,7 +24,11 @@ redirect_from:
 
 * My current research topics focus on deep learning applications in [dialog systems](https://en.wikipedia.org/wiki/Dialog_system), [affective computing](https://en.wikipedia.org/wiki/Affective_computing), and [human-robot interactions](https://en.wikipedia.org/wiki/Human%E2%80%93robot_interaction). Previously, I have also worked on speech recognition, visual question answering, compressive sensing, 5G communication, and IC design.
 
-<!-- Dream Big, then try my best to Do Bigger. Please feel free to browse through my profile and contact me. -->
+You can download my CV [here]("./files/shortcv-jasonwu.pdf")
+
+<!-- <a href="files/shortcv-jasonwu.pdf" target="_blank">here</a>. -->
+
+<!-- Dream Big, then try my best to Do Bigger. Please feel free to browse through my profile and contact me.  style="color: #ff0000;" -->
 
 
 
