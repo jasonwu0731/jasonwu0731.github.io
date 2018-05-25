@@ -9,8 +9,7 @@ You can also check my <u><a href="https://scholar.google.com.hk/citations?user=1
 ## Conference Papers
 <b>[Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems](https://jasonwu0731.github.io/publications/Mem2Seq)</b> <br>
 Andrea Madotto* , <b>Chien-Sheng Wu*</b>, Pascale Fung. <i><b>ACL 2018 (long)</b></i>.
-[[PDF]](https://arxiv.org/pdf/1804.08217.pdf) [[Code]](https://github.com/HLTCHKUST/Mem2Seq)
-<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:KqL-T-pvx44J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWwd1d3pN2WZUe8vg-ZThlAqxwQcOyQGd&scisf=4&ct=citation&cd=-1&hl=en" target="_blank">[BibTeX]</a>
+[[PDF]](https://arxiv.org/pdf/1804.08217.pdf) [[Code]](https://github.com/HLTCHKUST/Mem2Seq) [[BibTeX]](publications/Mem2Seq)
 
 <b>[End-to-End Dynamic Query Memory Network for Entity-Value Independent Task-oriented Dialog](https://jasonwu0731.github.io/publications/DQMemNN)</b> <br>
 <b>Chien-Sheng Wu</b>, Andrea Madotto, Genta Winata, Pascale Fung. <i><b>ICASSP 2018</b></i>.
