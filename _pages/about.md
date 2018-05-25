@@ -12,13 +12,13 @@ redirect_from:
 ========
 * Apr 2018 : Our paper *Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems* by ACL 2018 
 * Jan 2018 : Our paper *End-to-End Dynamic Query Memory Network for Entity-Value Independent Task-oriented Dialog* by ICASSP 2018 
-* Nov 2017 : Our work *End-to-End Recurrent Entity Network for Entity-Value Independent Goal-Oriented Dialog Learning* got 2nd place in DSTC6  -->
-
-Welcome! I am [Chien-Sheng Jason Wu (吳建昇)](https://jasonwu0731.github.io) from Taiwan. Nice to meet you. Please feel free to browse my homepage and contact me. 
+* Nov 2017 : Our work *End-to-End Recurrent Entity Network for Entity-Value Independent Goal-Oriented Dialog Learning* got 2nd place in DSTC6  --> 
 
 <p align="center">
   <kbd><img src="https://jasonwu0731.github.io/images/HKUST.JPEG" alt="Photo"/></kbd>
 </p>
+
+Welcome! I am [Chien-Sheng Wu](https://jasonwu0731.github.io) (吳建昇) from Taiwan. Nice to meet you. Please feel free to browse my homepage and contact me.
 
 * I am a MPhil student in [Electronic & Computer Engineering](http://www.ece.ust.hk/ece.php) at [HKUST](http://www.ust.hk/zh-hant/), working with [Prof. Pascale Fung](http://www.ece.ust.hk/~pascale/) in [Human Language Technology Center](https://www.cse.ust.hk/~hltc/) (HLTC).
 
