@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also check my <u><a href="https://scholar.google.com.hk/citations?user=1G4GV2EAAAAJ&hl=en-TW" target="_blank">Google Scholar profile</a>.</u>
+You can also check my <u><a href="https://scholar.google.com.hk/citations?user=1G4GV2EAAAAJ&hl=en-TW" target="_blank">Google Scholar </a>profile.</u>
 
 ## Conference Papers
 <b>[Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems](https://jasonwu0731.github.io/publications/Mem2Seq)</b> <br>

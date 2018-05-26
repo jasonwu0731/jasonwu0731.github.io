@@ -22,7 +22,7 @@ Welcome! I am [Chien-Sheng Wu](https://jasonwu0731.github.io) (吳建昇) from T
 
 * I will start my deep learning research intern at [Salesforce AI Research](https://www.salesforce.com/products/einstein/ai-research/), Palo Alto CA, from August 2018.
 
-* I am a MPhil student in [Electronic & Computer Engineering](http://www.ece.ust.hk/ece.php) at [HKUST](http://www.ust.hk/zh-hant/), working with [Prof. Pascale Fung](http://www.ece.ust.hk/~pascale/) in [Center for AI Research (CAiRE)](http://www.vprg.ust.hk/rgs/eng/centers_n_institutes/centers.html) and [Human Language Technology Center](https://www.cse.ust.hk/~hltc/) (HLTC).
+* I am a MPhil student in [Electronic & Computer Engineering](http://www.ece.ust.hk/ece.php) at [HKUST](http://www.ust.hk/zh-hant/), working with [Prof. Pascale Fung](http://www.ece.ust.hk/~pascale/) in [Center for AI Research](http://www.vprg.ust.hk/rgs/eng/centers_n_institutes/centers.html) (CAiRE) and [Human Language Technology Center](https://www.cse.ust.hk/~hltc/) (HLTC).
 
 * I received B.S. in Electrical Engineering from [National Taiwan University](http://www.ntu.edu.tw/english/) in 2016. As an undergrad researcher, I worked with Prof. [An-Yeu (Andy) Wu](http://access.ee.ntu.edu.tw/) in Access IC Lab, and [Dr. Jing-Sin Liu](http://www.iis.sinica.edu.tw/pages/liu/) in Academia Sinica, R.O.C.
 
