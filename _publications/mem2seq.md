@@ -11,7 +11,7 @@ citation:
 
 [[PDF]](https://arxiv.org/pdf/1804.08217.pdf) [[Code]](https://github.com/HLTCHKUST/Mem2Seq)
 
-<pre>
+<pre style="background-color: rgb(230,230,230);white-space: pre-wrap;">
 <font size="1">
 @article{madotto2018mem2seq,
   title={Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems},
