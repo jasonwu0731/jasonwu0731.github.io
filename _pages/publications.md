@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also check my <u><a href="https://scholar.google.com.hk/citations?user=1G4GV2EAAAAJ&hl=en-TW" target="_blank">Google Scholar </a>profile.</u>
+You can also check my <u><a href="https://scholar.google.com.hk/citations?user=1G4GV2EAAAAJ&hl=en-TW" target="_blank">Google Scholar </a></u>profile.
 
 ## Conference Papers
 <b>[Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems](https://jasonwu0731.github.io/publications/Mem2Seq)</b> <br>
@@ -35,6 +35,14 @@ P. Fung, D. Bertero, Y. Wan, A. Dey, R. Chan, F. Siddique, Y. Yang, <b>Chien-She
 [[PDF]](http://access.ee.ntu.edu.tw/Publications/Conference/CA147_2016.pdf) [[BibTeX]](/publications/ICSPCC16)
 
 ## Workshop/Demo Papers
+<b>[Bilingual Character Representation for Efficiently Addressing Out-of-Vocabulary Words in Code-Switching Named Entity Recognition](https://jasonwu0731.github.io/publications/codeswitch1)</b> <br>
+Genta Indra Winata, <b>Chien-Sheng Wu</b>, Madotto Andrea, Pascale Fung <i>ACL Code-Switching Workshop, 2018</i>.
+[[PDF]](https://arxiv.org/pdf/1805.12061.pdf) [[BibTeX]](/publications/codeswitch1)
+
+<b>[Code-Switching Language Modeling using Syntax-Aware Multi-Task Learning](https://jasonwu0731.github.io/publications/codeswitch2)</b> <br>
+Genta Indra Winata, Madotto Andrea, <b>Chien-Sheng Wu</b>, Pascale Fung <i>ACL Code-Switching Workshop, 2018</i>.
+[[PDF]](https://arxiv.org/pdf/1805.12070.pdf) [[BibTeX]](/publications/codeswitch2)
+
 <b>[End-to-End Recurrent Entity Network for Entity-Value Independent Goal-Oriented Dialog Learning](https://jasonwu0731.github.io/publications/DSTC6)</b> <br>
 <b>Chien-Sheng Wu</b>, Andrea Madotto, Genta Winata, Pascale Fung. <i>DSTC6</i>.
 [[PDF]](http://workshop.colips.org/dstc6/papers/track1_paper02_wu.pdf) [[Code]](https://github.com/jasonwu0731/RecurrentEntityNetwork) [[BibTeX]](/publications/DSTC6)
