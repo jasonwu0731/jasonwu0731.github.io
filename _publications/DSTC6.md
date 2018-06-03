@@ -10,7 +10,7 @@ citation:
 ---
 [[PDF]](http://workshop.colips.org/dstc6/papers/track1_paper02_wu.pdf) [[Code]](https://github.com/jasonwu0731/RecurrentEntityNetwork)
 
-<pre>
+<pre style="background-color: rgb(230,230,230);white-space: pre-wrap;">
 <font size="1">
 @article{wuend,
   title={End-to-End Recurrent Entity Network for Entity-Value Independent Goal-Oriented Dialog Learning},

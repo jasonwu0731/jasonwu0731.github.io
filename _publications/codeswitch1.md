@@ -10,7 +10,7 @@ citation:
 ---
 [[PDF]](https://arxiv.org/pdf/1805.12061.pdf)
 
-<pre>
+<pre style="background-color: rgb(230,230,230);white-space: pre-wrap;">
 <font size="1">
 @article{CS1,
     title={Bilingual Character Representation for Efficiently Addressing Out-of-Vocabulary Words in Code-Switching Named Entity Recognition},

@@ -10,7 +10,7 @@ citation:
 ---
 [[PDF]](https://arxiv.org/abs/1605.04072)
 
-<pre>
+<pre style="background-color: rgb(230,230,230);white-space: pre-wrap;">
 <font size="1">
 @article{fung2016towards,
   title={Towards empathetic human-robot interactions},

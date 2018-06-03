@@ -10,7 +10,7 @@ citation:
 ---
 [[PDF]](https://arxiv.org/pdf/1805.12070.pdf)
 
-<pre>
+<pre style="background-color: rgb(230,230,230);white-space: pre-wrap;">
 <font size="1">
 @article{CS2,
     title={Code-Switching Language Modeling using Syntax-Aware Multi-Task Learning},

@@ -10,7 +10,7 @@ citation:
 ---
 [[PDF]](http://access.ee.ntu.edu.tw/Publications/Conference/CA147_2016.pdf)
 
-<pre>
+<pre style="background-color: rgb(230,230,230);white-space: pre-wrap;">
 <font size="1">
 @inproceedings{wu2016joint,
   title={Joint RF/baseband grouping-based codebook design for hybrid beamforming in mmWave MIMO systems},

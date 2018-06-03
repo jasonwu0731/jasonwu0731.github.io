@@ -10,7 +10,7 @@ citation:
 ---
 [[PDF]](https://ieeexplore.ieee.org/document/8324741/)
 
-<pre>
+<pre style="background-color: rgb(230,230,230);white-space: pre-wrap;">
 <font size="1">
 @inproceedings{wu2017simulations,
   title={Simulations for time-optimal trajectory planning along parametric polynomial lane-change curves for a unicycle},

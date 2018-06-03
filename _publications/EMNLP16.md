@@ -10,7 +10,7 @@ citation:
 ---
 [[PDF]](http://aclweb.org/anthology/D16-1110) 
 
-<pre>
+<pre style="background-color: rgb(230,230,230);white-space: pre-wrap;">
 <font size="1">
 @inproceedings{bertero2016real,
   title={Real-time speech emotion and sentiment recognition for interactive dialogue systems},
