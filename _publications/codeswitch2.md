@@ -11,14 +11,14 @@ citation:
 [[PDF]](https://arxiv.org/pdf/1805.12070.pdf)
 
 <pre>
-<small>
+<font size="1">
 @article{CS2,
     title={Code-Switching Language Modeling using Syntax-Aware Multi-Task Learning},
     author={Genta Indra Winata, Madotto Andrea, Chien-Sheng Wu, Pascale Fung},
     publisher = {3rd Workshop in Computational Approaches in Linguistic Code-switching},
     year = {2018}
 }
-</small>
+</font>
 </pre>
 
 ## Abstract
