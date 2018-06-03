@@ -11,10 +11,12 @@ citation:
 [[PDF]](http://workshop.colips.org/dstc6/papers/track1_paper02_wu.pdf) [[Code]](https://github.com/jasonwu0731/RecurrentEntityNetwork)
 
 <pre>
+<font size="1">
 @article{wuend,
   title={End-to-End Recurrent Entity Network for Entity-Value Independent Goal-Oriented Dialog Learning},
   author={Wu, Chien-Sheng and Madotto, Andrea and Winata, Genta Indra and Fung, Pascale}
 }
+</font>
 </pre>
 
 ## Abstract

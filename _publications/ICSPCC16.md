@@ -11,6 +11,7 @@ citation:
 [[PDF]](http://access.ee.ntu.edu.tw/Publications/Conference/CA147_2016.pdf)
 
 <pre>
+<font size="1">
 @inproceedings{wu2016joint,
   title={Joint RF/baseband grouping-based codebook design for hybrid beamforming in mmWave MIMO systems},
   author={Wu, Chien-Sheng and Chen, Chiang-Hen and Tsai, Cheng-Rung and Wu, An-Yeu},
@@ -19,6 +20,7 @@ citation:
   year={2016},
   organization={IEEE}
 }
+</font>
 </pre>
 
 ## Abstract

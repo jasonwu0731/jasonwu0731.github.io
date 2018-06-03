@@ -11,6 +11,7 @@ citation:
 [[PDF]](https://ieeexplore.ieee.org/document/8324741/)
 
 <pre>
+<font size="1">
 @inproceedings{wu2017simulations,
   title={Simulations for time-optimal trajectory planning along parametric polynomial lane-change curves for a unicycle},
   author={Wu, Chien-Sheng and Chiu, Zih-Yun and Liu, Jing-Sin},
@@ -19,6 +20,7 @@ citation:
   year={2017},
   organization={IEEE}
 }
+</font>
 </pre>
 
 ## Abstract

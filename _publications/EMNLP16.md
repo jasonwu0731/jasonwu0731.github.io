@@ -11,6 +11,7 @@ citation:
 [[PDF]](http://aclweb.org/anthology/D16-1110) 
 
 <pre>
+<font size="1">
 @inproceedings{bertero2016real,
   title={Real-time speech emotion and sentiment recognition for interactive dialogue systems},
   author={Bertero, Dario and Siddique, Farhad Bin and Wu, Chien-Sheng and Wan, Yan and Chan, Ricky Ho Yin and Fung, Pascale},
@@ -18,6 +19,7 @@ citation:
   pages={1042--1047},
   year={2016}
 }
+</font>
 </pre>
 
 ## Abstract

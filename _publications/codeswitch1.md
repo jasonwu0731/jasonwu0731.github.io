@@ -11,12 +11,14 @@ citation:
 [[PDF]](https://arxiv.org/pdf/1805.12061.pdf)
 
 <pre>
+<font size="1">
 @article{CS1,
     title={Bilingual Character Representation for Efficiently Addressing Out-of-Vocabulary Words in Code-Switching Named Entity Recognition},
     author={Genta Indra Winata, Chien-Sheng Wu, Madotto Andrea, Pascale Fung},
     publisher = {3rd Workshop in Computational Approaches in Linguistic Code-switching},
     year = {2018}
 }
+</font>
 </pre>
 
 ## Abstract

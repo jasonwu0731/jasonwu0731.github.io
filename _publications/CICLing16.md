@@ -11,12 +11,14 @@ citation:
 [[PDF]](https://arxiv.org/abs/1605.04072)
 
 <pre>
+<font size="1">
 @article{fung2016towards,
   title={Towards empathetic human-robot interactions},
   author={Fung, Pascale and Bertero, Dario and Wan, Yan and Dey, Anik and Chan, Ricky Ho Yin and Siddique, Farhad Bin and Yang, Yang and Wu, Chien-Sheng and Lin, Ruixi},
   journal={arXiv preprint arXiv:1605.04072},
   year={2016}
 }
+</font>
 </pre>
 
 ## Abstract

@@ -11,6 +11,7 @@ citation:
 [[PDF]](https://pdfs.semanticscholar.org/8fb0/4e09b5516ce9967947abf8f971ca560cedee.pdf?_ga=2.221745304.1298280617.1496641607-1145227445.1484936456)
 
 <pre>
+<font size="1">
 @inproceedings{fung2016zara,
   title={Zara: A Virtual Interactive Dialogue System Incorporating Emotion, Sentiment and Personality Recognition},
   author={Fung, Pascale and Dey, Anik and Siddique, Farhad Bin and Lin, Ruixi and Yang, Yang and Bertero, Dario and Wan, Yan and Chan, Ricky Ho Yin and Wu, Chien-Sheng},
@@ -18,6 +19,7 @@ citation:
   pages={278--281},
   year={2016}
 }
+</font>
 </pre>
 
 ## Abstract
