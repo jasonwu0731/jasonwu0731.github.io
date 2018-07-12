@@ -8,7 +8,7 @@ You can also check my <u><a href="https://scholar.google.com.hk/citations?user=1
 
 ## Conference Papers
 <b>[Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems](https://jasonwu0731.github.io/publications/Mem2Seq)</b> <br>
-Andrea Madotto* , <b>Chien-Sheng Wu*</b>, Pascale Fung. <i><b>ACL 2018 (long)</b></i>.
+<b>Chien-Sheng Wu*</b>, Andrea Madotto*, Pascale Fung. <i><b>ACL 2018 (long)</b></i>.
 [[PDF]](https://arxiv.org/pdf/1804.08217.pdf) [[Code]](https://github.com/HLTCHKUST/Mem2Seq) [[BibTeX]](/publications/Mem2Seq)
 
 <b>[Empathetic Dialog Systems](https://jasonwu0731.github.io/publications/LREC18)</b> <br>
