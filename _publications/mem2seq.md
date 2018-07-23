@@ -13,11 +13,17 @@ citation:
 
 <pre style="background-color: rgb(230,230,230);white-space: pre-wrap;">
 <font size="1">
-@article{madotto2018mem2seq,
-  title={Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems},
-  author={Madotto, Andrea and Wu, Chien-Sheng and Fung, Pascale},
-  journal={arXiv preprint arXiv:1804.08217},
-  year={2018}
+@InProceedings{P18-1136,
+  author = 	"Madotto, Andrea
+		and Wu, Chien-Sheng
+		and Fung, Pascale",
+  title = 	"Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems",
+  booktitle = 	"Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  year = 	"2018",
+  publisher = 	"Association for Computational Linguistics",
+  pages = 	"1468--1478",
+  location = 	"Melbourne, Australia",
+  url = 	"http://aclweb.org/anthology/P18-1136"
 }
 </font>
 </pre>
