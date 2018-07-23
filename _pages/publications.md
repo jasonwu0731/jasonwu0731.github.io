@@ -8,7 +8,7 @@ You can also check my <u><a href="https://scholar.google.com.hk/citations?user=1
 
 ## Conference Papers
 <b>[Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems](https://jasonwu0731.github.io/publications/Mem2Seq)</b> <br>
-<b>Chien-Sheng Wu*</b>, Andrea Madotto*, Pascale Fung. <i><b>ACL 2018 (long)</b></i>.
+<b>Chien-Sheng Wu</b>\*, Andrea Madotto\*, Pascale Fung. <i><b>ACL 2018 (long)</b></i>.
 [[PDF]](https://arxiv.org/pdf/1804.08217.pdf) [[Code]](https://github.com/HLTCHKUST/Mem2Seq) [[BibTeX]](/publications/Mem2Seq)
 
 <b>[Empathetic Dialog Systems](https://jasonwu0731.github.io/publications/LREC18)</b> <br>
@@ -43,7 +43,7 @@ Genta Indra Winata, Madotto Andrea, <b>Chien-Sheng Wu</b>, Pascale Fung <i>ACL C
 [[PDF]](https://arxiv.org/pdf/1805.12070.pdf) [[BibTeX]](/publications/codeswitch2)
 
 <b>[End-to-End Recurrent Entity Network for Entity-Value Independent Goal-Oriented Dialog Learning](https://jasonwu0731.github.io/publications/DSTC6)</b> <br>
-<b>Chien-Sheng Wu</b>, Andrea Madotto, Genta Winata, Pascale Fung. <i>DSTC6</i>.
+<b>Chien-Sheng Wu</b>\*, Andrea Madotto\*, Genta Winata, Pascale Fung. <i>DSTC6</i>.
 [[PDF]](http://workshop.colips.org/dstc6/papers/track1_paper02_wu.pdf) [[Code]](https://github.com/jasonwu0731/RecurrentEntityNetwork) [[BibTeX]](/publications/DSTC6)
 
 <b>[Zara: A Virtual Interactive Dialogue System Incorporating Emotion, Sentiment and Personality Recognition](https://jasonwu0731.github.io/publications/Zara)</b> <br>
