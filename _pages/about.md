@@ -18,7 +18,7 @@ redirect_from:
   <kbd><img src="https://jasonwu0731.github.io/images/HKUST.JPEG" alt="Photo"/></kbd>
 </p>
 
-Welcome! I am [Chien-Sheng Wu](https://jasonwu0731.github.io) (吳建昇) from Taiwan. Nice to meet you. Please feel free to browse my homepage and contact me.
+Welcome! I am [Chien-Sheng Wu](https://jasonwu0731.github.io) (吳建昇) from Taiwan. Nice to meet you. Please feel free to browse my homepage and contact me. Download my CV <a href="files/academiccv-jasonwu.pdf" target="_blank">here</a>.
 
 * I will start my deep learning research intern at [Salesforce AI Research](https://www.salesforce.com/products/einstein/ai-research/), Palo Alto CA, from August 2018.
 
@@ -28,7 +28,6 @@ Welcome! I am [Chien-Sheng Wu](https://jasonwu0731.github.io) (吳建昇) from T
 
 * My current research topics focus on deep learning applications in [dialog systems](https://en.wikipedia.org/wiki/Dialog_system), [affective computing](https://en.wikipedia.org/wiki/Affective_computing), and [human-robot interactions](https://en.wikipedia.org/wiki/Human%E2%80%93robot_interaction). Previously, I have also worked on speech recognition, visual question answering, compressive sensing, 5G communication, and IC design.
 
-You can download my CV <a href="files/shortcv-jasonwu.pdf" target="_blank">here</a>.
 
 <!-- Dream Big, then try my best to Do Bigger. Please feel free to browse through my profile and contact me.  style="color: #ff0000;" -->
 
