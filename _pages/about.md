@@ -20,9 +20,15 @@ redirect_from:
 
 Welcome! I am [Chien-Sheng Wu](https://jasonwu0731.github.io) (吳建昇) from Taiwan. Nice to meet you. Please feel free to browse my homepage and contact me. Download my CV <a href="files/academiccv-jasonwu.pdf" target="_blank">here</a>.
 
+<img src="https://jasonwu0731.github.io/images/salesforce-research.png" width="200">
+
 * I will start my deep learning research intern at [Salesforce AI Research](https://www.salesforce.com/products/einstein/ai-research/), Palo Alto CA, from August 2018.
 
+<img src="https://jasonwu0731.github.io/images/logo_ust.png" width="200">   <img src="https://jasonwu0731.github.io/images/logo_caire.jpg" width="200">   <img src="https://jasonwu0731.github.io/images/logo_hltc.jpg" width="80">
+
 * I am a MPhil student in [Electronic & Computer Engineering](http://www.ece.ust.hk/ece.php) at [HKUST](http://www.ust.hk/zh-hant/), working with [Prof. Pascale Fung](http://www.ece.ust.hk/~pascale/) in [Center for AI Research](http://www.vprg.ust.hk/rgs/eng/centers_n_institutes/centers.html) (CAiRE) and [Human Language Technology Center](https://www.cse.ust.hk/~hltc/) (HLTC).
+
+<img src="https://jasonwu0731.github.io/images/logo_ntu.png" width="200">
 
 * I received B.S. in Electrical Engineering from [National Taiwan University](http://www.ntu.edu.tw/english/) in 2016. As an undergrad researcher, I worked with Prof. [An-Yeu (Andy) Wu](http://access.ee.ntu.edu.tw/) in Access IC Lab, and [Dr. Jing-Sin Liu](http://www.iis.sinica.edu.tw/pages/liu/) in Academia Sinica, R.O.C.
 
