@@ -19,10 +19,6 @@ redirect_from:
 </p>
 
 Welcome! I am [Chien-Sheng Wu](https://jasonwu0731.github.io) (吳建昇) from Taiwan. Nice to meet you. Please feel free to browse my homepage and contact me. Download my CV <a href="files/academiccv-jasonwu.pdf" target="_blank">here</a>.
-  
-<img src="https://jasonwu0731.github.io/images/salesforce-research.png" width="100"> | <img src="https://jasonwu0731.github.io/images/salesforce-research.png" width="100"> | <img src="https://jasonwu0731.github.io/images/salesforce-research.png" width="100">
---|:--:|--
-A | B | C
 
 * I will start my deep learning research intern at [Salesforce AI Research](https://www.salesforce.com/products/einstein/ai-research/), Palo Alto CA, from August 2018.
 
