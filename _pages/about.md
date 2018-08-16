@@ -18,7 +18,7 @@ redirect_from:
   <kbd><img src="https://jasonwu0731.github.io/images/HKUST.JPEG" alt="Photo"/></kbd>
 </p>
 
-Welcome! I am [Chien-Sheng Wu](https://jasonwu0731.github.io) (吳建昇) from Taiwan. Nice to meet you. Please feel free to browse my homepage and contact me. Download my CV <a href="files/academiccv-jasonwu.pdf" target="_blank">here</a>.
+Welcome! I am [Chien-Sheng (Jason) Wu](https://jasonwu0731.github.io) (吳建昇) from Taiwan. Nice to meet you. Please feel free to browse my homepage and contact me. Download my CV <a href="files/academiccv-jasonwu.pdf" target="_blank">here</a>.
 
 <p align="center">
 <img src="https://jasonwu0731.github.io/images/salesforce-research.png" width="200">
