@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chien-Sheng Wu"
+title                    : "Jason Wu"
 title_separator          : "-"
-name                     : &name "Chien-Sheng Wu"
+name                     : &name "Jason Wu"
 description              : &description "MPhil Student at HKUST"
 url                      : https://jasonwu0731.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jason Wu"
+  name             : "Chien-Sheng Wu"
   avatar           : "jason_profile.jpg"
   bio              : "Deep Learning, Natural Language Processing, Graduate Researcher"
   location         : "Hong Kong"
