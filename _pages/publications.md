@@ -7,8 +7,13 @@ author_profile: true
 My current research topics focus on deep learning applications in [dialog systems](https://en.wikipedia.org/wiki/Dialog_system), [affective computing](https://en.wikipedia.org/wiki/Affective_computing), and [human-robot interactions](https://en.wikipedia.org/wiki/Human%E2%80%93robot_interaction). Previously, I have also worked on speech recognition, visual question answering, compressive sensing, and IC design.
 
 You can also check my <u><a href="https://scholar.google.com.hk/citations?user=1G4GV2EAAAAJ&hl=en-TW" target="_blank">Google Scholar</a></u> profile.
+(* denotes equal contribution)
 
 ## Conference Papers
+
+<b>[Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems](https://jasonwu0731.github.io/publications/emnlp18)</b> <br>
+<b>Chien-Sheng Wu</b>\*, Nayeon Lee\*, Pascale Fung. <i><b>EMNLP 2018 (short)</b></i>.
+
 <b>[Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems](https://jasonwu0731.github.io/publications/Mem2Seq)</b> <br>
 <b>Chien-Sheng Wu</b>\*, Andrea Madotto\*, Pascale Fung. <i><b>ACL 2018 (long)</b></i>.
 [[PDF]](https://arxiv.org/pdf/1804.08217.pdf) [[Code]](https://github.com/HLTCHKUST/Mem2Seq) [[BibTeX]](/publications/Mem2Seq)
@@ -36,8 +41,12 @@ P. Fung, D. Bertero, Y. Wan, A. Dey, R. Chan, F. Siddique, Y. Yang, <b>Chien-She
 [[PDF]](http://access.ee.ntu.edu.tw/Publications/Conference/CA147_2016.pdf) [[BibTeX]](/publications/ICSPCC16)
 
 ## Workshop/Demo Papers
+<b>[Emo2Vec: Learning Generalized Emotion Representation by Multi-task Training](https://jasonwu0731.github.io/publications/emo2vec)</b> <br>
+Peng Xu, Andrea Madotto, <b>Chien-Sheng Wu</b>, JiHo Park, Pascale Fung <i>EMNLP Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis, 2018</i>.
+[[PDF]](https://arxiv.org/pdf/1809.04505.pdf) [[BibTeX]](/publications/emo2vec)
+
 <b>[Bilingual Character Representation for Efficiently Addressing Out-of-Vocabulary Words in Code-Switching Named Entity Recognition](https://jasonwu0731.github.io/publications/codeswitch1)</b> <br>
-Genta Indra Winata, <b>Chien-Sheng Wu</b>, Madotto Andrea, Pascale Fung <i>ACL Code-Switching Workshop, 2018</i>.
+Genta Winata, <b>Chien-Sheng Wu</b>, Madotto Andrea, Pascale Fung <i>ACL Code-Switching Workshop, 2018</i>.
 [[PDF]](https://arxiv.org/pdf/1805.12061.pdf) [[BibTeX]](/publications/codeswitch1)
 
 <b>[Code-Switching Language Modeling using Syntax-Aware Multi-Task Learning](https://jasonwu0731.github.io/publications/codeswitch2)</b> <br>
