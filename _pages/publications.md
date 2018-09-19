@@ -11,7 +11,7 @@ You can also check my <u><a href="https://scholar.google.com.hk/citations?user=1
 
 ## Conference Papers
 
-<b>[Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems](https://jasonwu0731.github.io/publications/emnlp18)</b> <br>
+<b>[Improving Large-Scale Fact-Checking using Decomposable Attention Models and Lexical Tagging](https://jasonwu0731.github.io/publications/emnlp18)</b> <br>
 <b>Chien-Sheng Wu</b>\*, Nayeon Lee\*, Pascale Fung. <i><b>EMNLP 2018 (short)</b></i>.
 
 <b>[Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems](https://jasonwu0731.github.io/publications/Mem2Seq)</b> <br>
@@ -42,15 +42,15 @@ P. Fung, D. Bertero, Y. Wan, A. Dey, R. Chan, F. Siddique, Y. Yang, <b>Chien-She
 
 ## Workshop/Demo Papers
 <b>[Emo2Vec: Learning Generalized Emotion Representation by Multi-task Training](https://jasonwu0731.github.io/publications/emo2vec)</b> <br>
-Peng Xu, Andrea Madotto, <b>Chien-Sheng Wu</b>, JiHo Park, Pascale Fung <i>EMNLP Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis, 2018</i>.
+Peng Xu, Andrea Madotto, <b>Chien-Sheng Wu</b>, JiHo Park, Pascale Fung. <i>EMNLP Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis, 2018</i>.
 [[PDF]](https://arxiv.org/pdf/1809.04505.pdf) [[BibTeX]](/publications/emo2vec)
 
 <b>[Bilingual Character Representation for Efficiently Addressing Out-of-Vocabulary Words in Code-Switching Named Entity Recognition](https://jasonwu0731.github.io/publications/codeswitch1)</b> <br>
-Genta Winata, <b>Chien-Sheng Wu</b>, Madotto Andrea, Pascale Fung <i>ACL Code-Switching Workshop, 2018</i>.
+Genta Winata, <b>Chien-Sheng Wu</b>, Madotto Andrea, Pascale Fung. <i>ACL Code-Switching Workshop, 2018</i>.
 [[PDF]](https://arxiv.org/pdf/1805.12061.pdf) [[BibTeX]](/publications/codeswitch1)
 
 <b>[Code-Switching Language Modeling using Syntax-Aware Multi-Task Learning](https://jasonwu0731.github.io/publications/codeswitch2)</b> <br>
-Genta Indra Winata, Madotto Andrea, <b>Chien-Sheng Wu</b>, Pascale Fung <i>ACL Code-Switching Workshop, 2018</i>.
+Genta Indra Winata, Madotto Andrea, <b>Chien-Sheng Wu</b>, Pascale Fung. <i>ACL Code-Switching Workshop, 2018</i>.
 [[PDF]](https://arxiv.org/pdf/1805.12070.pdf) [[BibTeX]](/publications/codeswitch2)
 
 <b>[End-to-End Recurrent Entity Network for Entity-Value Independent Goal-Oriented Dialog Learning](https://jasonwu0731.github.io/publications/DSTC6)</b> <br>
