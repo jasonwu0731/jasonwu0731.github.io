@@ -24,7 +24,7 @@ Welcome! I am [Chien-Sheng (Jason) Wu](https://jasonwu0731.github.io) (吳建昇
 <img src="https://jasonwu0731.github.io/images/salesforce-research.png" width="200">
 </p>
 
-* Currectly, I am doing my internship at [Salesforce Research](https://www.salesforce.com/products/einstein/ai-research/), Palo Alto CA.
+* Currectly, I am doing my internship at [Salesforce Research](https://www.salesforce.com/products/einstein/ai-research/) (MetaMind), Palo Alto, CA.
 
 <p align="center"><img src="https://jasonwu0731.github.io/images/logo_ust.png" width="200">   <img src="https://jasonwu0731.github.io/images/logo_caire.jpg" width="200">   <img src="https://jasonwu0731.github.io/images/logo_hltc.jpg" width="80"></p>
   
