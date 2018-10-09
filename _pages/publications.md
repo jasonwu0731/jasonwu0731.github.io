@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-My current research topics focus on deep learning applications in [dialog systems](https://en.wikipedia.org/wiki/Dialog_system), [affective computing](https://en.wikipedia.org/wiki/Affective_computing), and [human-robot interactions](https://en.wikipedia.org/wiki/Human%E2%80%93robot_interaction). Previously, I have also worked on speech recognition, visual question answering, compressive sensing, and IC design.
+My current research topics focus on deep learning applications in [dialogue systems](https://en.wikipedia.org/wiki/Dialog_system), [affective computing](https://en.wikipedia.org/wiki/Affective_computing), and [human-robot interactions](https://en.wikipedia.org/wiki/Human%E2%80%93robot_interaction). Previously, I have also worked on speech recognition, visual question answering, compressive sensing, path planning and IC design.
 
 You can also check my <u><a href="https://scholar.google.com.hk/citations?user=1G4GV2EAAAAJ&hl=en-TW" target="_blank">Google Scholar</a></u> profile.
 (* denotes equal contribution)
