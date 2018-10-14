@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 * **Postgraduate Student Scholarships**:
-Hong Kong University of Science and Technology. 2017.
+Hong Kong University of Science and Technology. 2017, 2018.
 
 * **Irving T. Ho Memorial Scholarship**: 
 Awarded to 3 undergrad students for outstanding academic performance and research potential. 
