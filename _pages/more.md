@@ -10,8 +10,9 @@ author_profile: true
 * Activity Director, [NTU Wuling Student Association](https://www.facebook.com/ntuwuling/), 2014. 
 
 ## Work Experiences 
-* Teaching Assistant, Building Interactive Intelligent Systems, Spring 2018.
-* R&D Intern, Raydium Semiconductor Corporation, Summer 2015.
+* Research Intern, Salesforce Research (MetaMind), California USA, Fall 2018.
+* Teaching Assistant, Building Interactive Intelligent Systems, Hong Kong, Spring 2018.
+* R&D Intern, Raydium Semiconductor Corporation, Taiwan, Summer 2015.
 
 ## Selected Past Projects
 * RealSteel Fight Game, Embedded System Lab, 2016. 
