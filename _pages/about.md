@@ -24,11 +24,11 @@ Welcome! I am [Chien-Sheng (Jason) Wu](https://jasonwu0731.github.io) (吳建昇
 <img src="https://jasonwu0731.github.io/images/salesforce-research.png" width="200">
 </p>
 
-* Currectly, I am doing my internship at [Salesforce Research](https://www.salesforce.com/products/einstein/ai-research/) (MetaMind), Palo Alto, CA.
+* Currectly, I am doing my internship at [Salesforce Research](https://einstein.ai/) (MetaMind), Palo Alto, CA.
 
 <p align="center"><img src="https://jasonwu0731.github.io/images/logo_ust.png" width="200">   <img src="https://jasonwu0731.github.io/images/logo_caire.jpg" width="200">   <img src="https://jasonwu0731.github.io/images/logo_hltc.jpg" width="80"></p>
   
-* I am a MPhil student in [Electronic & Computer Engineering](http://www.ece.ust.hk/ece.php) at [HKUST](http://www.ust.hk/zh-hant/), working with [Prof. Pascale Fung](http://www.ece.ust.hk/~pascale/) in [Center for AI Research](http://www.vprg.ust.hk/rgs/eng/centers_n_institutes/centers.html) (CAiRE) and [Human Language Technology Center](https://www.cse.ust.hk/~hltc/) (HLTC).
+* I am a MPhil student in [Electronic & Computer Engineering](http://www.ece.ust.hk/ece.php) at [HKUST](http://www.ust.hk/zh-hant/), working with [Prof. Pascale Fung](http://www.ece.ust.hk/~pascale/) in [Center for AI Research](http://caire-dev-d8.sites1.ust.hk/) (CAiRE) and [Human Language Technology Center](https://www.cse.ust.hk/~hltc/) (HLTC).
 
 <p align="center"><img src="https://jasonwu0731.github.io/images/logo_ntu.png" width="200">   <img src="https://jasonwu0731.github.io/images/logo_as.svg" width="80"></p>
 
