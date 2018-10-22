@@ -12,10 +12,10 @@ You can also check my <u><a href="https://scholar.google.com.hk/citations?user=1
 ## Conference Papers
 
 <b>[Improving Large-Scale Fact-Checking using Decomposable Attention Models and Lexical Tagging](https://jasonwu0731.github.io/publications/emnlp18)</b> <br>
-Chien-Sheng Wu\*, N Lee\*, P Fung. <i><b>EMNLP 2018 (short)</b></i>.
+Chien-Sheng Wu\*, N Lee\*, P Fung. <i>EMNLP 2018 (short)</i>.
 
 <b>[Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems](https://jasonwu0731.github.io/publications/Mem2Seq)</b> <br>
-Chien-Sheng Wu\*, A Madotto\*, P Fung. <i><b>ACL 2018 (long)</b></i>.
+Chien-Sheng Wu\*, A Madotto\*, P Fung. <i>ACL 2018 (long)</i>.
 [[PDF]](https://arxiv.org/pdf/1804.08217.pdf) [[Code]](https://github.com/HLTCHKUST/Mem2Seq) [[BibTeX]](/publications/Mem2Seq)
 
 <b>[Empathetic Dialog Systems](https://jasonwu0731.github.io/publications/LREC18)</b> <br>
@@ -23,11 +23,11 @@ P Fung, D Bertero, P Xu, JH Park, Chien-Sheng Wu, A Madotto. <i>LREC 2018</i>.
 [[PDF]](http://lrec2018.lrec-conf.org/media/filer_public/2018/05/03/pascale_fungempathetic_dialog_systems.pdf)
 
 <b>[End-to-End Dynamic Query Memory Network for Entity-Value Independent Task-oriented Dialog](https://jasonwu0731.github.io/publications/DQMemNN)</b> <br>
-Chien-Sheng Wu, A Madotto, G Winata, P Fung. <i><b>ICASSP 2018</b></i>.
+Chien-Sheng Wu, A Madotto, G Winata, P Fung. <i>ICASSP 2018</i>.
 [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8461426) [[BibTeX]](/publications/DQMemNN)
 
 <b>[Real-Time Speech Emotion and Sentiment Recognition for Interactive Dialogue Systems](https://jasonwu0731.github.io/publications/EMNLP16)</b> <br>
-D Bertero, F Siddique, Chien-Sheng Wu, Y Wan, R Chan and P Fung. <i><b>EMNLP  2016 (short)</b></i>.
+D Bertero, F Siddique, Chien-Sheng Wu, Y Wan, R Chan and P Fung. <i>EMNLP  2016 (short)</i>.
 [[PDF]](http://aclweb.org/anthology/D16-1110) [[BibTeX]](/publications/EMNLP16)
 
 <b>[Towards Empathetic Human-Robot Interactions](https://jasonwu0731.github.io/publications/CICLing16)</b> <br>
