@@ -21,16 +21,16 @@ redirect_from:
 Welcome! I am [Chien-Sheng (Jason) Wu](https://jasonwu0731.github.io) (吳建昇) from Taiwan. Nice to meet you. Please feel free to browse my homepage and contact me. Download my CV <a href="files/AcademicCV_JasonWu.pdf" target="_blank">here</a>.
 
 <p align="center">
-<img src="https://jasonwu0731.github.io/images/salesforce-research.png" width="200">
+<img src="https://jasonwu0731.github.io/images/salesforce-research.png" width="150">
 </p>
 
 * Currectly, I am doing my internship at [Salesforce Research](https://einstein.ai/) (MetaMind), Palo Alto, CA.
 
-<p align="center"><img src="https://jasonwu0731.github.io/images/logo_ust.png" width="200">   <img src="https://jasonwu0731.github.io/images/logo_caire.jpg" width="200">   <img src="https://jasonwu0731.github.io/images/logo_hltc.jpg" width="80"></p>
+<p align="center"><img src="https://jasonwu0731.github.io/images/logo_ust.png" width="150">   <img src="https://jasonwu0731.github.io/images/logo_caire.jpg" width="150">   <img src="https://jasonwu0731.github.io/images/logo_hltc.jpg" width="60"></p>
   
-* I am a MPhil student in [Electronic & Computer Engineering](http://www.ece.ust.hk/ece.php) at [HKUST](http://www.ust.hk/zh-hant/), working with [Prof. Pascale Fung](http://www.ece.ust.hk/~pascale/) in [Center for AI Research](http://caire-dev-d8.sites1.ust.hk/) (CAiRE) and [Human Language Technology Center](https://www.cse.ust.hk/~hltc/) (HLTC).
+* I am a MPhil student in [Electronic & Computer Engineering](http://www.ece.ust.hk/ece.php) at [HKUST](http://www.ust.hk/zh-hant/), working with [Prof. Pascale Fung](http://www.ece.ust.hk/~pascale/) in [Center for AI Research](https://caire.ust.hk/) (CAiRE) and [Human Language Technology Center](https://www.cse.ust.hk/~hltc/) (HLTC).
 
-<p align="center"><img src="https://jasonwu0731.github.io/images/logo_ntu.png" width="200">   <img src="https://jasonwu0731.github.io/images/logo_as.svg" width="80"></p>
+<p align="center"><img src="https://jasonwu0731.github.io/images/logo_ntu.png" width="150">   <img src="https://jasonwu0731.github.io/images/logo_as.svg" width="60"></p>
 
 * I received B.S. in Electrical Engineering from [National Taiwan University](http://www.ntu.edu.tw/english/) in 2016. As an undergrad researcher, I worked with Prof. [An-Yeu (Andy) Wu](http://access.ee.ntu.edu.tw/) in Access IC Lab, and [Dr. Jing-Sin Liu](http://www.iis.sinica.edu.tw/pages/liu/) in Academia Sinica, R.O.C.
 
