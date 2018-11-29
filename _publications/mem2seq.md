@@ -9,7 +9,7 @@ paperurl:
 citation: 
 ---
 
-[[PDF]](https://arxiv.org/pdf/1804.08217.pdf) [[Code]](https://github.com/HLTCHKUST/Mem2Seq)
+[[PDF]](https://arxiv.org/pdf/1804.08217.pdf) [[Poster]](/files/mem2seq-poster) [[Code]](https://github.com/HLTCHKUST/Mem2Seq)
 
 <pre style="background-color: rgb(230,230,230);white-space: pre-wrap;">
 <font size="1">

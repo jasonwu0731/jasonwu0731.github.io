@@ -19,10 +19,9 @@ redirect_from:
 </p>
 
 ## News
-- 12/2018: Oral presentation of global-to-local memory pointer networks at [NeurIPS ConvAI](http://alborz-geramifard.com/workshops/nips18-Conversational-AI/Main.html) workshop (Montreal, Canada). [[Slides]()][[Code]()]
-- 08/2018: Large-scale fact-checking paper is accepted by [EMNLP](http://emnlp2018.org/) (Brussels, Belgium). [[Poster](/files/EMNLP2018_Poster.pdf)]
-- 04/2018: Memory-to-Sequence (Mem2Seq) model is accepted by [ACL](https://acl2018.org/) (Melbourne, Australia). [[Poster](/files/mem2seq-poster.pdf)][[Code](https://github.com/HLTCHKUST/Mem2Seq)]
-
+- 12/2018: Oral presentation of global-to-local memory pointer networks at [NeurIPS ConvAI](http://alborz-geramifard.com/workshops/nips18-Conversational-AI/Main.html) workshop (Montreal, Canada). [[Info]]()
+- 08/2018: Large-scale fact-checking paper is accepted by [EMNLP](http://emnlp2018.org/) (Brussels, Belgium). [[Info]](/publications/emnlp18)
+- 04/2018: Memory-to-Sequence (Mem2Seq) model is accepted by [ACL](https://acl2018.org/) (Melbourne, Australia). [[Info]](/publications/Mem2Seq)
 ## Welcome!
 I am [Chien-Sheng (Jason) Wu](https://jasonwu0731.github.io) (吳建昇) from Taiwan. Nice to meet you. Please feel free to browse my homepage and contact me. Download my CV <a href="files/AcademicCV_JasonWu.pdf" target="_blank">here</a>.
 
