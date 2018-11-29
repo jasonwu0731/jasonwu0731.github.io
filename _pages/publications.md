@@ -12,11 +12,11 @@ You can also check my <u><a href="https://scholar.google.com.hk/citations?user=1
 ## Conference Papers
 
 <b>[Improving Large-Scale Fact-Checking using Decomposable Attention Models and Lexical Tagging](https://jasonwu0731.github.io/publications/emnlp18)</b> <br>
-Chien-Sheng Wu\*, N Lee\*, P Fung. <i>EMNLP 2018 (short)</i>.
+Chien-Sheng Wu\*, N Lee\*, P Fung. <i>EMNLP 2018 (short)</i>. [[PDF]](http://aclweb.org/anthology/D18-1143) [[Poster]](/files/EMNLP2018_Poster.pdf) [[BibTeX]](/publications/emnlp18)
 
 <b>[Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems](https://jasonwu0731.github.io/publications/Mem2Seq)</b> <br>
 Chien-Sheng Wu\*, A Madotto\*, P Fung. <i>ACL 2018 (long)</i>.
-[[PDF]](https://arxiv.org/pdf/1804.08217.pdf) [[Code]](https://github.com/HLTCHKUST/Mem2Seq) [[BibTeX]](/publications/Mem2Seq)
+[[PDF]](https://arxiv.org/pdf/1804.08217.pdf) [[Poster]](/files/mem2seq-poster) [[Code]](https://github.com/HLTCHKUST/Mem2Seq) [[BibTeX]](/publications/Mem2Seq)
 
 <b>[Empathetic Dialog Systems](https://jasonwu0731.github.io/publications/LREC18)</b> <br>
 P Fung, D Bertero, P Xu, JH Park, Chien-Sheng Wu, A Madotto. <i>LREC 2018</i>.
