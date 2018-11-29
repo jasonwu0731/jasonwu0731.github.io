@@ -21,14 +21,15 @@ redirect_from:
 
 ***
 
-### News
+## News
 - 12/2018: Oral presentation of global-to-local memory pointer networks at [NeurIPS ConvAI](http://alborz-geramifard.com/workshops/nips18-Conversational-AI/Main.html) workshop (Montreal, Canada). [[Slides]()][[Code]()]
 - 08/2018: Large-scale fact-checking paper is accepted by EMNLP (Brussels, Belgium). [[Poster](/files/EMNLP2018_Poster.pdf)]
 - 04/2018: Memory-to-Sequence (Mem2Seq) model is accepted by ACL (Melbourne, Australia). [[Poster](/files/mem2seq-poster.pdf)][[Code](https://github.com/HLTCHKUST/Mem2Seq)]
 
 ***
 
-Welcome! I am [Chien-Sheng (Jason) Wu](https://jasonwu0731.github.io) (吳建昇) from Taiwan. Nice to meet you. Please feel free to browse my homepage and contact me. Download my CV <a href="files/AcademicCV_JasonWu.pdf" target="_blank">here</a>.
+## Welcome!
+I am [Chien-Sheng (Jason) Wu](https://jasonwu0731.github.io) (吳建昇) from Taiwan. Nice to meet you. Please feel free to browse my homepage and contact me. Download my CV <a href="files/AcademicCV_JasonWu.pdf" target="_blank">here</a>.
 
 <p align="center">
 <img src="https://jasonwu0731.github.io/images/salesforce-research.png" width="150">
