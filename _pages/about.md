@@ -18,15 +18,10 @@ redirect_from:
   <kbd><img src="https://jasonwu0731.github.io/images/HKUST.JPEG" alt="Photo"/></kbd>
 </p>
 
-
-***
-
 ## News
 - 12/2018: Oral presentation of global-to-local memory pointer networks at [NeurIPS ConvAI](http://alborz-geramifard.com/workshops/nips18-Conversational-AI/Main.html) workshop (Montreal, Canada). [[Slides]()][[Code]()]
 - 08/2018: Large-scale fact-checking paper is accepted by [EMNLP](http://emnlp2018.org/) (Brussels, Belgium). [[Poster](/files/EMNLP2018_Poster.pdf)]
 - 04/2018: Memory-to-Sequence (Mem2Seq) model is accepted by [ACL](https://acl2018.org/) (Melbourne, Australia). [[Poster](/files/mem2seq-poster.pdf)][[Code](https://github.com/HLTCHKUST/Mem2Seq)]
-
-***
 
 ## Welcome!
 I am [Chien-Sheng (Jason) Wu](https://jasonwu0731.github.io) (吳建昇) from Taiwan. Nice to meet you. Please feel free to browse my homepage and contact me. Download my CV <a href="files/AcademicCV_JasonWu.pdf" target="_blank">here</a>.
@@ -44,8 +39,6 @@ I am [Chien-Sheng (Jason) Wu](https://jasonwu0731.github.io) (吳建昇) from Ta
 <p align="center"><img src="https://jasonwu0731.github.io/images/logo_ntu.png" width="150">   <img src="https://jasonwu0731.github.io/images/logo_as.svg" width="60"></p>
 
 * I received B.S. in Electrical Engineering from [National Taiwan University](http://www.ntu.edu.tw/english/) in 2016. As an undergrad researcher, I worked with Prof. [An-Yeu (Andy) Wu](http://access.ee.ntu.edu.tw/) in Access IC Lab, and Dr. [Jing-Sin Liu](http://www.iis.sinica.edu.tw/pages/liu/) in Academia Sinica, R.O.C.
-
-***
 
 <!-- Dream Big, then try my best to Do Bigger. Please feel free to browse through my profile and contact me.  style="color: #ff0000;" -->
 
