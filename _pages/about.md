@@ -23,8 +23,8 @@ redirect_from:
 
 ## News
 - 12/2018: Oral presentation of global-to-local memory pointer networks at [NeurIPS ConvAI](http://alborz-geramifard.com/workshops/nips18-Conversational-AI/Main.html) workshop (Montreal, Canada). [[Slides]()][[Code]()]
-- 08/2018: Large-scale fact-checking paper is accepted by EMNLP (Brussels, Belgium). [[Poster](/files/EMNLP2018_Poster.pdf)]
-- 04/2018: Memory-to-Sequence (Mem2Seq) model is accepted by ACL (Melbourne, Australia). [[Poster](/files/mem2seq-poster.pdf)][[Code](https://github.com/HLTCHKUST/Mem2Seq)]
+- 08/2018: Large-scale fact-checking paper is accepted by [EMNLP](http://emnlp2018.org/) (Brussels, Belgium). [[Poster](/files/EMNLP2018_Poster.pdf)]
+- 04/2018: Memory-to-Sequence (Mem2Seq) model is accepted by [ACL](https://acl2018.org/) (Melbourne, Australia). [[Poster](/files/mem2seq-poster.pdf)][[Code](https://github.com/HLTCHKUST/Mem2Seq)]
 
 ***
 
