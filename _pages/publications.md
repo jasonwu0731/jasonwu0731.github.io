@@ -47,7 +47,7 @@ Chien-Sheng Wu, CH Chen, CR Tsai, and AY Wu. <i>ICSPCC 2016</i>.
 ## Workshop/Demo Papers
 <b>[Global-to-local Memory Pointer Networks for Task-Oriented Dialogue](/publications/nips18)</b> <br>
 Chien-Sheng Wu, C Xiong, R Socher. <i>NeurIPS Workshop on Conversational AI 2018</i>. (Oral)
-[[PDF]](http://alborz-geramifard.com/workshops/nips18-Conversational-AI/Papers/18convai-Global-to-local%20Memory%20Pointer.pdf) 
+[[PDF]](http://alborz-geramifard.com/workshops/nips18-Conversational-AI/Papers/18convai-Global-to-local%20Memory%20Pointer.pdf) [[Slide]](/files/GLMP@NeurIPS 2018.pdf)
 
 <b>[Emo2Vec: Learning Generalized Emotion Representation by Multi-task Training](/publications/emo2vec)</b> <br>
 P Xu, A Madotto, Chien-Sheng Wu, JH Park, P Fung. <i>EMNLP Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis, 2018</i>.
