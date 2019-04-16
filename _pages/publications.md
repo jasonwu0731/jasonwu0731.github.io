@@ -13,7 +13,7 @@ You can also check my <u><a href="https://scholar.google.com.hk/citations?user=1
 ## Conference Papers
 <b>[Global-to-local Memory Pointer Networks for Task-Oriented Dialogue](/publications/nips18)</b> <br>
 Chien-Sheng Wu, C Xiong, R Socher. <i>NeurIPS Workshop on Conversational AI 2018</i> (Oral) and <i>ICLR</i> 2019. 
-[[PDF]](http://alborz-geramifard.com/workshops/nips18-Conversational-AI/Papers/18convai-Global-to-local%20Memory%20Pointer.pdf) [[Slide]](/files/GLMP@NeurIPS 2018.pdf)
+[[PDF]](http://alborz-geramifard.com/workshops/nips18-Conversational-AI/Papers/18convai-Global-to-local%20Memory%20Pointer.pdf) [[Slide]](/files/GLMP@NeurIPS 2018.pdf) [[BibTeX]](/publications/nips18)
 
 <b>[Improving Large-Scale Fact-Checking using Decomposable Attention Models and Lexical Tagging](https://jasonwu0731.github.io/publications/emnlp18)</b> <br>
 Chien-Sheng Wu\*, N Lee\*, P Fung. <i>EMNLP 2018 (short)</i>. [[PDF]](http://aclweb.org/anthology/D18-1143) [[Poster]](/files/EMNLP2018_Poster.pdf) [[BibTeX]](/publications/emnlp18)
