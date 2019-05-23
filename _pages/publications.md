@@ -80,6 +80,6 @@ P Fung, A Dey, F Siddique, R Lin, Y Yang, D Bertero, W Yan, R Yin, Chien-Sheng W
 ## Thesis
 
 <b>[Learning to Memorize in Neural Task-Oriented Dialogue Systems](https://arxiv.org/abs/1905.07687)</b> <br>
-Chien-Sheng Wu <i>HKUST MPhil Thesis 2019</i>.
+Chien-Sheng Wu. <i>HKUST MPhil Thesis 2019</i>.
 
 
