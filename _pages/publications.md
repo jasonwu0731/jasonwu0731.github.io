@@ -74,3 +74,12 @@ Chien-Sheng Wu\*, A Madotto\*, G Winata, P Fung. <i>DSTC6</i>.
 <b>[Zara: A Virtual Interactive Dialogue System Incorporating Emotion, Sentiment and Personality Recognition](/publications/Zara)</b> <br>
 P Fung, A Dey, F Siddique, R Lin, Y Yang, D Bertero, W Yan, R Yin, Chien-Sheng Wu. <i>COLING Demo 2016</i>.
 [[PDF]](https://pdfs.semanticscholar.org/8fb0/4e09b5516ce9967947abf8f971ca560cedee.pdf?_ga=2.221745304.1298280617.1496641607-1145227445.1484936456) [[BibTeX]](/publications/Zara)
+
+
+
+## Thesis
+
+<b>[Learning to Memorize in Neural Task-Oriented Dialogue Systems](https://arxiv.org/abs/1905.07687)</b> <br>
+Chien-Sheng Wu <i>HKUST 2019</i>.
+
+
