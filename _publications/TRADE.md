@@ -16,10 +16,10 @@ citation:
 @InProceedings{WuTradeDST2019,
   author = 	"Wu, Chien-Sheng
 		and Madotto, Andrea
-    and Ehsan Hosseini-Asl
-    and Caiming Xiong 
-    and Richard Socher
-		and Fung, Pascale",
+    		and Hosseini-Asl, Ehsan 
+    		and Xiong, Caiming 
+    		and Socher, Richard
+    		and Fung, Pascale",
   title = 	"Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems",
   booktitle = 	"Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
   year = 	"2019",
