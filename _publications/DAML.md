@@ -19,7 +19,7 @@ citation:
     and Wu, Chien-Sheng
 		and Fung, Pascale",
   title = 	"Personalizing Dialogue Agents via Meta-Learning",
-  booktitle = 	"Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  booktitle = 	"Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics",
   year = 	"2019",
   publisher = 	"Association for Computational Linguistics"
 }
