@@ -12,11 +12,11 @@ You can also check my <u><a href="https://scholar.google.com.hk/citations?user=1
 
 ## Conference Papers
 
-<b>[Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems]()</b> <br>
-Chien-Sheng Wu, A Madotto, E Hosseini-Asl, C Xiong, R Socher, P Fung. <i>ACL 2019 (long)</i>.
+<b>[Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems](/publications/TRADE)</b> <br>
+Chien-Sheng Wu, A Madotto, E Hosseini-Asl, C Xiong, R Socher, P Fung. <i>ACL 2019 (long)</i>. [[PDF]](https://arxiv.org/abs/1905.08743) [[Code]](https://github.com/jasonwu0731/trade-dst) [[BibTeX]](/publications/TRADE)
 
-<b>[Personalizing Dialogue Agents via Meta-Learning]()</b> <br>
-A Madotto, Z Lin, Chien-Sheng Wu, P Fung. <i>ACL 2019 (short)</i>.
+<b>[Personalizing Dialogue Agents via Meta-Learning](/publications/DAML)</b> <br>
+A Madotto, Z Lin, Chien-Sheng Wu, P Fung. <i>ACL 2019 (short)</i>. [[PDF]](https://arxiv.org/abs/1905.10033) [[Code]](https://github.com/HLTCHKUST/PAML) [[BibTeX]](/publications/DAML)
 
 <b>[Global-to-local Memory Pointer Networks for Task-Oriented Dialogue](/publications/nips18)</b> <br>
 Chien-Sheng Wu, C Xiong, R Socher. <i>NeurIPS Workshop on Conversational AI 2018</i> (Oral) and <i>ICLR</i> 2019. 
