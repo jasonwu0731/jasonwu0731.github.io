@@ -10,6 +10,12 @@ You can also check my <u><a href="https://scholar.google.com.hk/citations?user=1
 (* denotes equal contribution)
 
 
+## Thesis
+
+<b>[Learning to Memorize in Neural Task-Oriented Dialogue Systems]()</b> <br>
+Chien-Sheng Wu. <i>HKUST MPhil Thesis 2019</i>.  [[PDF]](https://arxiv.org/abs/1905.07687) [[Slides]]()
+
+
 ## Conference Papers
 
 <b>[Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems](/publications/trade)</b> <br>
@@ -77,9 +83,5 @@ P Fung, A Dey, F Siddique, R Lin, Y Yang, D Bertero, W Yan, R Yin, Chien-Sheng W
 
 
 
-## Thesis
-
-<b>[Learning to Memorize in Neural Task-Oriented Dialogue Systems](https://arxiv.org/abs/1905.07687)</b> <br>
-Chien-Sheng Wu. <i>HKUST MPhil Thesis 2019</i>.
 
 
