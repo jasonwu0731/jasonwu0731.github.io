@@ -29,8 +29,12 @@ Minister of Economics Affairs, Taiwan. 2015.
 
 ## Work Experiences 
 * Research Intern, Salesforce Research (MetaMind), California USA, Fall 2018.
-* Teaching Assistant, Building Interactive Intelligent Systems, Hong Kong, Spring 2018.
+* Teaching Assistant, Building Interactive Intelligent Systems, Hong Kong, Spring 2018, 2019.
 * R&D Intern, Raydium Semiconductor Corporation, Taiwan, Summer 2015.
+
+
+## Professional Activities
+Reviewer: EMNLP 19, ACL 19, NAACL 19, NLP4ConvAI 19, NLPCC 19, SEM 19, CSL Journal
 
 
 ## Selected Past Projects
