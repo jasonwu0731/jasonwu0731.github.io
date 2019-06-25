@@ -21,10 +21,10 @@ redirect_from:
 ## Welcome!
 
 <p align="center">
-  <img src="https://jasonwu0731.github.io/images/einstein-scroll.png" width="50">
-  <img src="https://jasonwu0731.github.io/images/salesforce.png" width="150"> 
-  <img src="https://jasonwu0731.github.io/images/logo_ust.png" width="150">
-  <img src="https://jasonwu0731.github.io/images/logo_ntu.png" width="150">
+  <img src="https://jasonwu0731.github.io/images/einstein-scroll.png" width="70" hspace="20">
+  <img src="https://jasonwu0731.github.io/images/salesforce.png" width="100" hspace="20"> 
+  <img src="https://jasonwu0731.github.io/images/logo_ust.png" width="150" hspace="20">
+  <img src="https://jasonwu0731.github.io/images/logo_ntu.png" width="150" hspace="20">
 </p>
 
 I am [Chien-Sheng (Jason) Wu](https://jasonwu0731.github.io) (吳建昇) from Taiwan. Currently I am a Research Scientist at [Salesforce Research](https://einstein.ai/). Please feel free to browse my homepage and contact me. 
