@@ -19,19 +19,22 @@ redirect_from:
 - 04/2018: Memory-to-Sequence (Mem2Seq) model is accepted by [ACL 2018](https://acl2018.org/) (Melbourne, Australia). [[Info]](/publications/Mem2Seq)
 
 ## Welcome!
-I am [Chien-Sheng (Jason) Wu](https://jasonwu0731.github.io) (吳建昇) from Taiwan. Nice to meet you. Please feel free to browse my homepage and contact me. Download my CV <a href="files/AcademicCV_JasonWu_052019.pdf" target="_blank">here</a>.
-
-<p align="center"><img src="https://jasonwu0731.github.io/images/logo_ust.png" width="150">   <img src="https://jasonwu0731.github.io/images/logo_caire.jpg" width="150">   <img src="https://jasonwu0731.github.io/images/logo_hltc.jpg" width="60"></p>
-  
-* I am a MPhil student in Electronic & Computer Engineering at [HKUST](http://www.ust.hk/zh-hant/), working with Prof. [Pascale Fung](http://www.ece.ust.hk/~pascale/) in [Center for AI Research](https://caire.ust.hk/) (CAiRE) and [Human Language Technology Center](https://www.cse.ust.hk/~hltc/) (HLTC).
 
 <p align="center">
-<img src="https://jasonwu0731.github.io/images/salesforce-research.png" width="150">
+  <img src="https://jasonwu0731.github.io/images/einstein-scroll.png" width="150">
+  <img src="https://jasonwu0731.github.io/images/salesforce-research.png" width="150"> 
+  <img src="https://jasonwu0731.github.io/images/logo_ust.png" width="150">
+  <img src="https://jasonwu0731.github.io/images/logo_ntu.png" width="150">
 </p>
 
-* Previosuly, I did my internship at [Salesforce Research](https://einstein.ai/) (MetaMind), Palo Alto (CA), working with Dr. [Caiming Xiong](http://www.stat.ucla.edu/~caiming/) and Dr. [Richard Socher](https://www.socher.org/) 
+I am [Chien-Sheng (Jason) Wu](https://jasonwu0731.github.io) (吳建昇) from Taiwan, and currently I am a Research Scientist at [Salesforce](https://einstein.ai/). Please feel free to browse my homepage and contact me. 
 
-<p align="center"><img src="https://jasonwu0731.github.io/images/logo_ntu.png" width="150">   <img src="https://jasonwu0731.github.io/images/logo_as.svg" width="60"></p>
+<!--Download my CV <a href="files/AcademicCV_JasonWu_052019.pdf" target="_blank">here</a>.-->
+<!-- <img src="https://jasonwu0731.github.io/images/logo_caire.jpg" width="150">   
+<img src="https://jasonwu0731.github.io/images/logo_hltc.jpg" width="60">
+<img src="https://jasonwu0731.github.io/images/logo_as.svg" width="60"> -->
+
+* I studied in Electronic & Computer Engineering at [HKUST](http://www.ust.hk/zh-hant/), working with Prof. [Pascale Fung](http://www.ece.ust.hk/~pascale/) in [Center for AI Research](https://caire.ust.hk/) (CAiRE) and [Human Language Technology Center](https://www.cse.ust.hk/~hltc/) (HLTC).
 
 * I received B.S. in Electrical Engineering from [National Taiwan University](http://www.ntu.edu.tw/english/) in 2016. As an undergrad researcher, I worked with Prof. [An-Yeu (Andy) Wu](http://access.ee.ntu.edu.tw/) in Access IC Lab, and Dr. [Jing-Sin Liu](http://www.iis.sinica.edu.tw/pages/liu/) in Academia Sinica, R.O.C.
 
