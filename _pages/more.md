@@ -4,6 +4,14 @@ title: "More"
 author_profile: true
 ---
 
+## Professional Activities
+Reviewer: EMNLP 19, ACL 19, NAACL 19, NLP4ConvAI 19, NLPCC 19, SEM 19, CSL Journal
+
+## Work Experiences 
+* Research Intern, Salesforce Research (MetaMind), California USA, Fall 2018.
+* Teaching Assistant, Building Interactive Intelligent Systems, Hong Kong, Spring 2018, 2019.
+* R&D Intern, Raydium Semiconductor Corporation, Taiwan, Summer 2015.
+
 ## Honors
 * **Postgraduate Student Scholarships**:
 Hong Kong University of Science and Technology. 2017, 2018.
@@ -25,16 +33,6 @@ Minister of Economics Affairs, Taiwan. 2015.
 * Activity Director, [NTUEE Student Association](https://www.facebook.com/ntuee.org/) , 2015.
     * Lead 50+ students to organize 10+ activities for 1000+ NTUEE students.
 * Activity Director, [NTU Wuling Student Association](https://www.facebook.com/ntuwuling/), 2014. 
-
-
-## Work Experiences 
-* Research Intern, Salesforce Research (MetaMind), California USA, Fall 2018.
-* Teaching Assistant, Building Interactive Intelligent Systems, Hong Kong, Spring 2018, 2019.
-* R&D Intern, Raydium Semiconductor Corporation, Taiwan, Summer 2015.
-
-
-## Professional Activities
-Reviewer: EMNLP 19, ACL 19, NAACL 19, NLP4ConvAI 19, NLPCC 19, SEM 19, CSL Journal
 
 
 ## Selected Past Projects
