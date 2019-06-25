@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <kbd><img src="https://jasonwu0731.github.io/images/HKUST.JPEG" alt="Photo"/></kbd>
+  <kbd><img src="https://jasonwu0731.github.io/images/IMG_9466.JPG" alt="Photo"/></kbd>
 </p>
 
 ## News
