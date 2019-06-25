@@ -27,14 +27,14 @@ redirect_from:
   <img src="https://jasonwu0731.github.io/images/logo_ntu.png" width="150">
 </p>
 
-I am [Chien-Sheng (Jason) Wu](https://jasonwu0731.github.io) (吳建昇) from Taiwan, and currently I am a Research Scientist at [Salesforce](https://einstein.ai/). Please feel free to browse my homepage and contact me. 
+I am [Chien-Sheng (Jason) Wu](https://jasonwu0731.github.io) (吳建昇) from Taiwan. Currently I am a Research Scientist at [Salesforce Research](https://einstein.ai/). Please feel free to browse my homepage and contact me. 
 
 <!--Download my CV <a href="files/AcademicCV_JasonWu_052019.pdf" target="_blank">here</a>.-->
 <!-- <img src="https://jasonwu0731.github.io/images/logo_caire.jpg" width="150">   
 <img src="https://jasonwu0731.github.io/images/logo_hltc.jpg" width="60">
 <img src="https://jasonwu0731.github.io/images/logo_as.svg" width="60"> -->
 
-* I studied in Electronic & Computer Engineering at [HKUST](http://www.ust.hk/zh-hant/), working with Prof. [Pascale Fung](http://www.ece.ust.hk/~pascale/) in [Center for AI Research](https://caire.ust.hk/) (CAiRE) and [Human Language Technology Center](https://www.cse.ust.hk/~hltc/) (HLTC).
+* I studied in Electronic & Computer Engineering at [Hong Kong University of Science and Technology](http://www.ust.hk/zh-hant/) (HKUST), working with Prof. [Pascale Fung](http://www.ece.ust.hk/~pascale/) in [Center for AI Research](https://caire.ust.hk/) (CAiRE) and [Human Language Technology Center](https://www.cse.ust.hk/~hltc/) (HLTC).
 
 * I received B.S. in Electrical Engineering from [National Taiwan University](http://www.ntu.edu.tw/english/) in 2016. As an undergrad researcher, I worked with Prof. [An-Yeu (Andy) Wu](http://access.ee.ntu.edu.tw/) in Access IC Lab, and Dr. [Jing-Sin Liu](http://www.iis.sinica.edu.tw/pages/liu/) in Academia Sinica, R.O.C.
 
