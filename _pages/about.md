@@ -21,8 +21,8 @@ redirect_from:
 ## Welcome!
 
 <p align="center">
-  <img src="https://jasonwu0731.github.io/images/einstein-scroll.png" width="150">
-  <img src="https://jasonwu0731.github.io/images/salesforce-research.png" width="150"> 
+  <img src="https://jasonwu0731.github.io/images/einstein-scroll.png" width="50">
+  <img src="https://jasonwu0731.github.io/images/salesforce.png" width="150"> 
   <img src="https://jasonwu0731.github.io/images/logo_ust.png" width="150">
   <img src="https://jasonwu0731.github.io/images/logo_ntu.png" width="150">
 </p>
