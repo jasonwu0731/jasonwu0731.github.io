@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jason Wu"
 title_separator          : "-"
 name                     : &name "Jason Wu"
-description              : &description "MPhil Student at HKUST"
+description              : &description "Research Scientist at Salesforce"
 url                      : https://jasonwu0731.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jasonwu0731/jasonwu0731.github.io"
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Chien-Sheng Wu"
   avatar           : "jason_profile_2.jpg"
-  bio              : "Deep Learning, Natural Language Processing, Graduate Researcher"
-  location         : "Taiwan"
+  bio              : "Deep Learning, Natural Language Processing, Conversational AI"
+  location         : 
   employer         :
   googlescholar    : "https://scholar.google.com.hk/citations?user=1G4GV2EAAAAJ&hl=en-TW"
-  email            : "jason.wu@connect.ust.hk"
+  email            : "jasonwu830731@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         : "jasonwu0731"
   foursquare       :
-  github           : 
+  github           : "jasonwu0731"
   google_plus      :
   keybase          :
   instagram        :

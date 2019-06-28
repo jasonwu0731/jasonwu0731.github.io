@@ -23,8 +23,7 @@ School of Engineering, Hong Kong University of Science and Technology. 2016.
 * **First Prize Student Paper Award**: 
 IEEE ICSPCC. 2016.
 * **First Prize Hackthon Team**: 
-132 students from 34 universities across China, Taiwan, and Hong Kong. 
-Microsoft Research Asia (MSRA). 2015.
+34 universities across China, Taiwan, and Hong Kong. Microsoft Research Asia (MSRA). 2015.
 * **First Prize GetFresh Creativity Competition**:  
 Minister of Economics Affairs, Taiwan. 2015.
 
