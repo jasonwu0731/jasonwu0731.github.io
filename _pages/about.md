@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
-  <kbd><img src="https://jasonwu0731.github.io/images/IMG_9466.JPG" alt="Photo"/></kbd>
-</p>
-
 ## News
 - 07/2019: Our TRADE paper is presented as the [Outstanding Paper](http://www.acl2019.org/EN/winners-of-acl-2019-best-paper-awards.xhtml) at ACL 2019!
 - 05/2019: Two papers are accepted by [ACL 2019](http://www.acl2019.org/EN/index.xhtml) (Florence, Italy), one for multi-domain dialogue state tracking and the other for dialogue meta-learning [[Info](/publications)]. 
@@ -41,7 +37,9 @@ I am [Chien-Sheng (Jason) Wu](https://jasonwu0731.github.io) (吳建昇) from Ta
 
 <!-- Dream Big, then try my best to Do Bigger. Please feel free to browse through my profile and contact me.  style="color: #ff0000;" -->
 
-
+<p align="center">
+  <kbd><img src="https://jasonwu0731.github.io/images/IMG_9466.JPG" alt="Photo"/></kbd>
+</p>
 
 <!-- For more info
 ------
