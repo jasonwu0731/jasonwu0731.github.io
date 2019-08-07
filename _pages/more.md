@@ -5,14 +5,21 @@ author_profile: true
 ---
 
 ## Professional Activities
-Reviewer: EMNLP 19, ACL 19, NAACL 19, NLP4ConvAI 19, NLPCC 19, SEM 19, CSL Journal
+Reviewer: EMNLP 19, ACL 19, NAACL 19, ACL-NLP4ConvAI 19, NLPCC 19, SEM 19, CSL Journal
+Program Committee: ACL-NLP4ConvAI 19
 
 ## Work Experiences 
 * Research Intern, Salesforce Research (MetaMind), California USA, Fall 2018.
 * Teaching Assistant, Building Interactive Intelligent Systems, Hong Kong, Spring 2018, 2019.
 * R&D Intern, Raydium Semiconductor Corporation, Taiwan, Summer 2015.
 
-## Honors
+## Honors & Award
+* **Outstanding Paper Award**:
+Association for Computational Linguistics (ACL). 2019.
+	* Awarded to 5 papers among 660 accepted papers. [[link]](http://www.acl2019.org/EN/winners-of-acl-2019-best-paper-awards.xhtml)
+* **Best Paper Award**:
+NLP for Conversational AI Worshop at Association for Computational Linguistics (ACL). 2019.
+	* Awarded to 3 papers among 25 accepted papers. [[link]](https://sites.google.com/view/nlp4convai/accepted-papers?authuser=0)
 * **Postgraduate Student Scholarships**:
 Hong Kong University of Science and Technology. 2017, 2018.
 * **Irving T. Ho Memorial Scholarship**: 
