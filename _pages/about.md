@@ -13,7 +13,7 @@ redirect_from:
 </p>
 
 ## News
-- 07/2019: Our TRADE paper is presented as the [Outstanding Paper](http://www.acl2019.org/EN/winners-of-acl-2019-best-paper-awards.xhtml) at ACL 2019. 
+- 07/2019: Our TRADE paper is presented as the [Outstanding Paper](http://www.acl2019.org/EN/winners-of-acl-2019-best-paper-awards.xhtml) at ACL 2019!
 - 05/2019: Two papers are accepted by [ACL 2019](http://www.acl2019.org/EN/index.xhtml) (Florence, Italy), one for multi-domain dialogue state tracking and the other for dialogue meta-learning [[Info](/publications)]. 
 - 12/2018: Global-to-local memory pointer network is presented at [NeurIPS ConvAI](http://alborz-geramifard.com/workshops/nips18-Conversational-AI/Main.html) (Montreal, Canada) and [ICLR 2019](https://iclr.cc/Conferences/2019) (New Orleans, US). [[Info]](/publications/nips18) 
 - 08/2018: Large-scale fact-checking paper is accepted by [EMNLP 2018](http://emnlp2018.org/) (Brussels, Belgium). [[Info]](/publications/emnlp18)
