@@ -19,7 +19,7 @@ Chien-Sheng Wu. <i>HKUST MPhil Thesis 2019</i>.  [[PDF]](https://arxiv.org/abs/1
 ## Conference Papers
 
 <b>[Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems](/publications/trade)</b> <br>
-Chien-Sheng Wu, A Madotto, E Hosseini-Asl, C Xiong, R Socher, P Fung. <i>ACL 2019 (Oral, long, <b>OutStanding Paper Award)</b></i>. [[PDF]](https://arxiv.org/abs/1905.08743) [[Code]](https://github.com/jasonwu0731/trade-dst) [[BibTeX]](/publications/trade) [[Slides]](/files/TRADE-DST-ACL-2019.pdf) [[Video]](http://www.livecongress.it/aol/indexSA.php?id=4989C85D&ticket=)
+Chien-Sheng Wu, A Madotto, E Hosseini-Asl, C Xiong, R Socher, P Fung. <i>ACL 2019 (Oral, long, <b>Outstanding Paper Award [top 1%])</b></i>. [[PDF]](https://arxiv.org/abs/1905.08743) [[Code]](https://github.com/jasonwu0731/trade-dst) [[BibTeX]](/publications/trade) [[Slides]](/files/TRADE-DST-ACL-2019.pdf) [[Video]](http://www.livecongress.it/aol/indexSA.php?id=4989C85D&ticket=)
 
 <b>[Personalizing Dialogue Agents via Meta-Learning](/publications/DAML)</b> <br>
 A Madotto, Z Lin, Chien-Sheng Wu, P Fung. <i>ACL 2019 (short)</i>. [[PDF]](https://arxiv.org/abs/1905.10033) [[Code]](https://github.com/HLTCHKUST/PAML) [[BibTeX]](/publications/DAML)
