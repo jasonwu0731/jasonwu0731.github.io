@@ -10,12 +10,6 @@ You can also check my <u><a href="https://scholar.google.com.hk/citations?user=1
 (* denotes equal contribution)
 
 
-## Thesis
-
-<b>[Learning to Memorize in Neural Task-Oriented Dialogue Systems]()</b> <br>
-Chien-Sheng Wu. <i>HKUST MPhil Thesis 2019</i>.  [[PDF]](https://arxiv.org/abs/1905.07687) [[Slides]](/files/JasonWuMPhilThesisPresentation.pdf)
-
-
 ## Conference Papers
 
 <b>[Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems](/publications/trade)</b> <br>
@@ -61,6 +55,11 @@ Chien-Sheng Wu, CH Chen, CR Tsai, and AY Wu. <i>ICSPCC 2016</i>.
 
 
 ## Workshop/Demo Papers
+
+<b>[Getting To Know You: User Attribute Extraction from Dialogues](/publications/GettingToKnowYou)</b> <br>
+Chien-Sheng Wu, A Madotto, Z Lin, P Xu, P Fung. <i>ACL Workshop on NLP for Conversational AI, 2019</i>.
+[[PDF]](https://arxiv.org/abs/1908.04621) [[BibTeX]](/publications/GettingToKnowYou)
+
 <b>[Emo2Vec: Learning Generalized Emotion Representation by Multi-task Training](/publications/emo2vec)</b> <br>
 P Xu, A Madotto, Chien-Sheng Wu, JH Park, P Fung. <i>EMNLP Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis, 2018</i>.
 [[PDF]](https://arxiv.org/pdf/1809.04505.pdf) [[BibTeX]](/publications/emo2vec)
@@ -82,6 +81,9 @@ P Fung, A Dey, F Siddique, R Lin, Y Yang, D Bertero, W Yan, R Yin, Chien-Sheng W
 [[PDF]](https://pdfs.semanticscholar.org/8fb0/4e09b5516ce9967947abf8f971ca560cedee.pdf?_ga=2.221745304.1298280617.1496641607-1145227445.1484936456) [[BibTeX]](/publications/Zara)
 
 
+## Thesis
 
+<b>[Learning to Memorize in Neural Task-Oriented Dialogue Systems]()</b> <br>
+Chien-Sheng Wu. <i>HKUST MPhil Thesis 2019</i>.  [[PDF]](https://arxiv.org/abs/1905.07687) [[Slides]](/files/JasonWuMPhilThesisPresentation.pdf)
 
 
