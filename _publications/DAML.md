@@ -13,7 +13,7 @@ citation:
 
 <pre style="background-color: rgb(230,230,230);white-space: pre-wrap;">
 <font size="1">
-@InProceedings{WuTradeDST2019,
+@InProceedings{MadottoPAML,
   author = 	"Madotto, Andrea
     and Lin, ZhaoJiang
     and Wu, Chien-Sheng
