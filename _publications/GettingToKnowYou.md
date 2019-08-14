@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/GettingToKnowYou
 excerpt: 
 date: 2019-08-01
-venue: 'The 1st Worshop on NLP for Conversational AI, ACL 2019'
+venue: 'The 1st Workshop on NLP for Conversational AI, ACL 2019'
 paperurl: 
 citation: 
 ---
