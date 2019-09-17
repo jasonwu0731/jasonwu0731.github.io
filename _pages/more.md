@@ -6,7 +6,6 @@ author_profile: true
 
 ## Professional Activities
 * Reviewer: EMNLP 19, ACL 19, NAACL 19, ACL-NLP4ConvAI 19, NLPCC 19, SEM 19, CSL Journal
-* Program Committee: ACL-NLP4ConvAI 19
 
 ## Work Experiences 
 * Research Intern, Salesforce Research (MetaMind), California USA, Fall 2018.
