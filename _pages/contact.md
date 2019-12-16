@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 ## Email
-jason.wu@connect.ust.hk <br>
+wu.jason@salesforce.com <br>
 jasonwu830731@gmail.com
 
 ## Office

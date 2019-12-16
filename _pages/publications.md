@@ -12,6 +12,9 @@ You can also check my <u><a href="https://scholar.google.com.hk/citations?user=1
 
 ## Conference Papers
 
+<b>[Code-switched language models using neural based synthetic data from parallel sentences](/publications/conll19)</b> <br>
+G Winata, A Madotto, Chien-Sheng Wu, P Fung. <i>CoNLL 2019 (long)</i>. [[PDF]](https://arxiv.org/abs/1909.08582) [[BibTeX]](/publications/conll19)
+
 <b>[Clickbait? Sensational Headline Generation with Auto-tuned Reinforcement Learning](/publications/senHeadline)</b> <br>
 P Xu, Chien-Sheng Wu, A Madotto, P Fung. <i>EMNLP 2019 (long)</i>. [[PDF]](https://arxiv.org/abs/1909.03582) [[Code]](https://github.com/HLTCHKUST/sensational_headline) [[BibTeX]](/publications/senHeadline)
 
@@ -58,6 +61,9 @@ Chien-Sheng Wu, CH Chen, CR Tsai, and AY Wu. <i>ICSPCC 2016</i>.
 
 
 ## Workshop/Demo Papers
+
+<b>[Attention over Parameters for Dialogue Systems](/publications/aop)</b> <br>
+A Madotto, Z Lin, Chien-Sheng Wu, J Shin, P Fung. <i>NeurIPS ConvAI Workshop, 2019 (Oral, long, <b>Best Paper Award) [1 out of 30 accepted papers]</b></i>. [[PDF]]() [[Code]]() [[BibTeX]]() [[Slides]]() [[Video]]()
 
 <b>[Getting To Know You: User Attribute Extraction from Dialogues](/publications/GettingToKnowYou)</b> <br>
 Chien-Sheng Wu, A Madotto, Z Lin, P Xu, P Fung. <i>ACL Workshop on NLP for Conversational AI, 2019</i>.

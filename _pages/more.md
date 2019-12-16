@@ -5,14 +5,12 @@ author_profile: true
 ---
 
 ## Professional Activities
-* Reviewer: EMNLP 19, ACL 19, NAACL 19, ACL-NLP4ConvAI 19, NLPCC 19, SEM 19, CSL Journal
-
-## Work Experiences 
-* Research Intern, Salesforce Research (MetaMind), California USA, Fall 2018.
-* Teaching Assistant, Building Interactive Intelligent Systems, Hong Kong, Spring 2018, 2019.
-* R&D Intern, Raydium Semiconductor Corporation, Taiwan, Summer 2015.
+* Reviewer: TASL Journal, AAAI 19, EMNLP 19, ACL 19, NAACL 19, ACL-NLP4ConvAI 19, NLPCC 19, SEM 19, CSL Journal
 
 ## Honors & Award
+* **Best Paper Award**:
+Conversational AI Worshop at Conference on Neural Information Processing Systems (NeurIPS). 2019.
+	* Awarded to 1 paper among 30 accepted papers. [[link]](http://alborz-geramifard.com/workshops/neurips19-Conversational-AI/Main.html)
 * **Outstanding Paper Award**:
 Association for Computational Linguistics (ACL). 2019.
 	* Awarded to 5 papers among 660 accepted papers. [[link]](http://www.acl2019.org/EN/winners-of-acl-2019-best-paper-awards.xhtml)
@@ -32,6 +30,12 @@ IEEE ICSPCC. 2016.
 34 universities across China, Taiwan, and Hong Kong. Microsoft Research Asia (MSRA). 2015.
 * **First Prize GetFresh Creativity Competition**:  
 Minister of Economics Affairs, Taiwan. 2015.
+
+
+## Work Experiences 
+* Research Intern, Salesforce Research (MetaMind), California USA, Fall 2018.
+* Teaching Assistant, Building Interactive Intelligent Systems, Hong Kong, Spring 2018, 2019.
+* R&D Intern, Raydium Semiconductor Corporation, Taiwan, Summer 2015.
 
 
 ## Leadership Experiences
