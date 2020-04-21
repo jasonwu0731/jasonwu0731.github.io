@@ -10,7 +10,18 @@ You can also check my <u><a href="https://scholar.google.com.hk/citations?user=1
 (* denotes equal contribution)
 
 
-## Conference Papers
+### 2020 
+
+<b>[Explicit Memory Tracker with Coarse-to-Fine Reasoning for Conversational Machine Reading](/publications/EMT)</b> <br>
+Y Gao, Chien-Sheng Wu, S Joty, C Xiong, R Socher,I King, M Lyu, and S Hoi. <i>ACL 2020 (long)</i>. [[PDF]]() [[BibTeX]](/publications/EMT)
+
+<b>[Getting To Know You: User Attribute Extraction from Dialog](/publications/GettingToKnowYou)</b> <br>
+Chien-Sheng Wu, A Madotto, Z Lin, P Xu, P Fung. <i>LREC, 2020 (Oral, long) </i>. [[PDF]](https://arxiv.org/abs/1908.04621) [[BibTeX]](/publications/GettingToKnowYou)
+
+### 2019
+
+<b>[Attention over Parameters for Dialogue Systems](/publications/aop)</b> <br>
+A Madotto, Z Lin, Chien-Sheng Wu, J Shin, P Fung. <i>NeurIPS ConvAI Workshop, 2019 (Oral, long, <b>Best Paper Award) [1 out of 30 accepted papers]</b></i>. [[PDF]]() [[Code]]() [[BibTeX]]() [[Slides]]() [[Video]]()
 
 <b>[Code-switched language models using neural based synthetic data from parallel sentences](/publications/conll19)</b> <br>
 G Winata, A Madotto, Chien-Sheng Wu, P Fung. <i>CoNLL 2019 (long)</i>. [[PDF]](https://arxiv.org/abs/1909.08582) [[BibTeX]](/publications/conll19)
@@ -28,6 +39,11 @@ A Madotto, Z Lin, Chien-Sheng Wu, P Fung. <i>ACL 2019 (short)</i>. [[PDF]](https
 Chien-Sheng Wu, C Xiong, R Socher. <i>NeurIPS Workshop on Conversational AI 2018</i> (Oral) and <i>ICLR</i> 2019. 
 [[PDF]](https://arxiv.org/abs/1901.04713) [[Slide]](/files/GLMP@NeurIPS 2018.pdf) [[Code]](https://github.com/jasonwu0731/GLMP) [[BibTeX]](/publications/nips18)
 
+<b>[Learning to Memorize in Neural Task-Oriented Dialogue Systems]()</b> <br>
+Chien-Sheng Wu. <i>HKUST MPhil Thesis 2019</i>.  [[PDF]](https://arxiv.org/abs/1905.07687) [[Slides]](/files/JasonWuMPhilThesisPresentation.pdf)
+
+### 2018
+
 <b>[Improving Large-Scale Fact-Checking using Decomposable Attention Models and Lexical Tagging](https://jasonwu0731.github.io/publications/emnlp18)</b> <br>
 Chien-Sheng Wu\*, N Lee\*, P Fung. <i>EMNLP 2018 (short)</i>. [[PDF]](http://aclweb.org/anthology/D18-1143) [[Poster]](/files/EMNLP2018_Poster.pdf) [[BibTeX]](/publications/emnlp18)
 
@@ -42,6 +58,29 @@ P Fung, D Bertero, P Xu, JH Park, Chien-Sheng Wu, A Madotto. <i>LREC 2018</i>.
 <b>[End-to-End Dynamic Query Memory Network for Entity-Value Independent Task-oriented Dialog](https://jasonwu0731.github.io/publications/DQMemNN)</b> <br>
 Chien-Sheng Wu, A Madotto, G Winata, P Fung. <i>ICASSP 2018</i>.
 [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8461426) [[BibTeX]](/publications/DQMemNN)
+
+<b>[Emo2Vec: Learning Generalized Emotion Representation by Multi-task Training](/publications/emo2vec)</b> <br>
+P Xu, A Madotto, Chien-Sheng Wu, JH Park, P Fung. <i>EMNLP Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis, 2018</i>.
+[[PDF]](https://arxiv.org/pdf/1809.04505.pdf) [[BibTeX]](/publications/emo2vec)
+
+<b>[Bilingual Character Representation for Efficiently Addressing Out-of-Vocabulary Words in Code-Switching Named Entity Recognition](/publications/codeswitch1)</b> <br>
+G Winata, Chien-Sheng Wu, A Madotto, P Fung. <i>ACL Code-Switching Workshop, 2018</i>.
+[[PDF]](https://arxiv.org/pdf/1805.12061.pdf) [[BibTeX]](/publications/codeswitch1)
+
+<b>[Code-Switching Language Modeling using Syntax-Aware Multi-Task Learning](/publications/codeswitch2)</b> <br>
+G Winata, A Madotto, Chien-Sheng Wu, P Fung. <i>ACL Code-Switching Workshop, 2018</i>.
+[[PDF]](https://arxiv.org/pdf/1805.12070.pdf) [[BibTeX]](/publications/codeswitch2)
+
+
+### 2017
+
+<b>[End-to-End Recurrent Entity Network for Entity-Value Independent Goal-Oriented Dialog Learning](/publications/DSTC6)</b> <br>
+Chien-Sheng Wu\*, A Madotto\*, G Winata, P Fung. <i>DSTC6</i>.
+[[PDF]](http://workshop.colips.org/dstc6/papers/track1_paper02_wu.pdf) [[Code]](https://github.com/jasonwu0731/RecurrentEntityNetwork) [[BibTeX]](/publications/DSTC6)
+
+<b>[Zara: A Virtual Interactive Dialogue System Incorporating Emotion, Sentiment and Personality Recognition](/publications/Zara)</b> <br>
+P Fung, A Dey, F Siddique, R Lin, Y Yang, D Bertero, W Yan, R Yin, Chien-Sheng Wu. <i>COLING Demo 2016</i>.
+[[PDF]](https://pdfs.semanticscholar.org/8fb0/4e09b5516ce9967947abf8f971ca560cedee.pdf?_ga=2.221745304.1298280617.1496641607-1145227445.1484936456) [[BibTeX]](/publications/Zara)
 
 <b>[Real-Time Speech Emotion and Sentiment Recognition for Interactive Dialogue Systems](https://jasonwu0731.github.io/publications/EMNLP16)</b> <br>
 D Bertero, F Siddique, Chien-Sheng Wu, Y Wan, R Chan and P Fung. <i>EMNLP  2016 (short)</i>.
@@ -60,35 +99,5 @@ Chien-Sheng Wu, CH Chen, CR Tsai, and AY Wu. <i>ICSPCC 2016</i>.
 
 
 
-## Workshop/Demo Papers
-
-<b>[Attention over Parameters for Dialogue Systems](/publications/aop)</b> <br>
-A Madotto, Z Lin, Chien-Sheng Wu, J Shin, P Fung. <i>NeurIPS ConvAI Workshop, 2019 (Oral, long, <b>Best Paper Award) [1 out of 30 accepted papers]</b></i>. [[PDF]]() [[Code]]() [[BibTeX]]() [[Slides]]() [[Video]]()
-
-<b>[Emo2Vec: Learning Generalized Emotion Representation by Multi-task Training](/publications/emo2vec)</b> <br>
-P Xu, A Madotto, Chien-Sheng Wu, JH Park, P Fung. <i>EMNLP Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis, 2018</i>.
-[[PDF]](https://arxiv.org/pdf/1809.04505.pdf) [[BibTeX]](/publications/emo2vec)
-
-<b>[Bilingual Character Representation for Efficiently Addressing Out-of-Vocabulary Words in Code-Switching Named Entity Recognition](/publications/codeswitch1)</b> <br>
-G Winata, Chien-Sheng Wu, A Madotto, P Fung. <i>ACL Code-Switching Workshop, 2018</i>.
-[[PDF]](https://arxiv.org/pdf/1805.12061.pdf) [[BibTeX]](/publications/codeswitch1)
-
-<b>[Code-Switching Language Modeling using Syntax-Aware Multi-Task Learning](/publications/codeswitch2)</b> <br>
-G Winata, A Madotto, Chien-Sheng Wu, P Fung. <i>ACL Code-Switching Workshop, 2018</i>.
-[[PDF]](https://arxiv.org/pdf/1805.12070.pdf) [[BibTeX]](/publications/codeswitch2)
-
-<b>[End-to-End Recurrent Entity Network for Entity-Value Independent Goal-Oriented Dialog Learning](/publications/DSTC6)</b> <br>
-Chien-Sheng Wu\*, A Madotto\*, G Winata, P Fung. <i>DSTC6</i>.
-[[PDF]](http://workshop.colips.org/dstc6/papers/track1_paper02_wu.pdf) [[Code]](https://github.com/jasonwu0731/RecurrentEntityNetwork) [[BibTeX]](/publications/DSTC6)
-
-<b>[Zara: A Virtual Interactive Dialogue System Incorporating Emotion, Sentiment and Personality Recognition](/publications/Zara)</b> <br>
-P Fung, A Dey, F Siddique, R Lin, Y Yang, D Bertero, W Yan, R Yin, Chien-Sheng Wu. <i>COLING Demo 2016</i>.
-[[PDF]](https://pdfs.semanticscholar.org/8fb0/4e09b5516ce9967947abf8f971ca560cedee.pdf?_ga=2.221745304.1298280617.1496641607-1145227445.1484936456) [[BibTeX]](/publications/Zara)
-
-
-## Thesis
-
-<b>[Learning to Memorize in Neural Task-Oriented Dialogue Systems]()</b> <br>
-Chien-Sheng Wu. <i>HKUST MPhil Thesis 2019</i>.  [[PDF]](https://arxiv.org/abs/1905.07687) [[Slides]](/files/JasonWuMPhilThesisPresentation.pdf)
 
 
