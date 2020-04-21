@@ -65,10 +65,6 @@ Chien-Sheng Wu, CH Chen, CR Tsai, and AY Wu. <i>ICSPCC 2016</i>.
 <b>[Attention over Parameters for Dialogue Systems](/publications/aop)</b> <br>
 A Madotto, Z Lin, Chien-Sheng Wu, J Shin, P Fung. <i>NeurIPS ConvAI Workshop, 2019 (Oral, long, <b>Best Paper Award) [1 out of 30 accepted papers]</b></i>. [[PDF]]() [[Code]]() [[BibTeX]]() [[Slides]]() [[Video]]()
 
-<b>[Getting To Know You: User Attribute Extraction from Dialogues](/publications/GettingToKnowYou)</b> <br>
-Chien-Sheng Wu, A Madotto, Z Lin, P Xu, P Fung. <i>ACL Workshop on NLP for Conversational AI, 2019</i>.
-[[PDF]](https://arxiv.org/abs/1908.04621) [[BibTeX]](/publications/GettingToKnowYou)
-
 <b>[Emo2Vec: Learning Generalized Emotion Representation by Multi-task Training](/publications/emo2vec)</b> <br>
 P Xu, A Madotto, Chien-Sheng Wu, JH Park, P Fung. <i>EMNLP Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis, 2018</i>.
 [[PDF]](https://arxiv.org/pdf/1809.04505.pdf) [[BibTeX]](/publications/emo2vec)
