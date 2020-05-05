@@ -13,7 +13,7 @@ citation:
 
 <pre style="background-color: rgb(230,230,230);white-space: pre-wrap;">
 <font size="1">
-@article{WuGetting2019,
+@article{GaoExplicit2020,
         title={Explicit Memory Tracker with Coarse-to-Fine Reasoning for Conversational Machine Reading},
         author={Gao, Yifan 
           and Wu, Chien-Sheng
