@@ -13,18 +13,19 @@ citation:
 
 <pre style="background-color: rgb(230,230,230);white-space: pre-wrap;">
 <font size="1">
-@article{GaoExplicit2020,
-        title={Explicit Memory Tracker with Coarse-to-Fine Reasoning for Conversational Machine Reading},
-        author={Gao, Yifan 
+@InProceedings{GaoExplicit2020,
+  author = 	"Gao, Yifan 
           and Wu, Chien-Sheng
           and Joty, Shafiq
           and Xiong, Caiming
           and Socher, Richard
           and King, Irwin 
           and Lyu, Michael R.
-          and Hoi, Steven C.H.},
-        journal={ACL},
-        year={2020}
+          and Hoi, Steven C.H.",
+  title = 	"Explicit Memory Tracker with Coarse-to-Fine Reasoning for Conversational Machine Reading",
+  booktitle = 	"Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  year = 	"2020",
+  publisher = 	"Association for Computational Linguistics"
 }
 </font>
 </pre>
