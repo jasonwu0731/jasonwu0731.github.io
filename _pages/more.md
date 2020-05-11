@@ -5,7 +5,16 @@ author_profile: true
 ---
 
 ## Professional Activities
-* Program Committee / Reviewer: ACL 20, TASL Journal, AAAI 19, EMNLP 19, ACL 19, NAACL 19, ACL-NLP4ConvAI 19, NLPCC 19, SEM 19, CSL Journal
+* Program Committee / Reviewer: 
+	* TASL Journal
+	* CSL Journal
+	* ACL 20, 19
+	* AAAI 19, 
+	* EMNLP 20, 19
+	* NAACL 19 
+	* NLPCC 19
+	* SEM 19 
+	* ACL-NLP4ConvAI 20, 19 
 
 ## Honors & Award
 * **Best Paper Award**:
