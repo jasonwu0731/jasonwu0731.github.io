@@ -19,7 +19,7 @@ E Hosseini-Asl, B McCann, C Wu, S Yavuz, and R Socher <i>Arxiv</i>. [[PDF]](http
 C Wu, S Hoi, R Socher, and C Xiong. <i>Arxiv</i>. [[PDF]](https://arxiv.org/abs/2004.06871) [[BibTeX]](/publications/ToD-BERT)
 
 <b>[Explicit Memory Tracker with Coarse-to-Fine Reasoning for Conversational Machine Reading](/publications/EMT)</b> <br>
-Y Gao, C Wu, S Joty, C Xiong, R Socher,I King, M Lyu, and S Hoi. <i>ACL 2020 (long)</i>. [[PDF]]() [[BibTeX]](/publications/EMT)
+Y Gao, C Wu, S Joty, C Xiong, R Socher,I King, M Lyu, and S Hoi. <i>ACL 2020 (long)</i>. [[PDF]](https://arxiv.org/abs/2005.12484) [[BibTeX]](/publications/EMT)
 
 <b>[Getting To Know You: User Attribute Extraction from Dialog](/publications/GettingToKnowYou)</b> <br>
 C Wu, A Madotto, Z Lin, P Xu, P Fung. <i>LREC, 2020 (Oral, long) </i>. [[PDF]](https://arxiv.org/abs/1908.04621) [[BibTeX]](/publications/GettingToKnowYou)
