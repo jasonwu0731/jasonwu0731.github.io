@@ -12,8 +12,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  - title: "Blog"
+    url: "https://medium.com/@jason.wu830731"
   
   # - title: "Honors"
   #   url: /honors/
