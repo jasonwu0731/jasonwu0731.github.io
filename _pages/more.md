@@ -4,18 +4,6 @@ title: "More"
 author_profile: true
 ---
 
-## Professional Activities
-* Program Committee / Reviewer: 
-	* TASL Journal
-	* CSL Journal
-	* ACL 20, 19
-	* AAAI 19, 
-	* EMNLP 20, 19
-	* NAACL 19 
-	* NLPCC 19
-	* SEM 19 
-	* ACL-NLP4ConvAI 20, 19 
-
 ## Honors & Award
 * **Best Paper Award**:
 Conversational AI Worshop at Conference on Neural Information Processing Systems (NeurIPS). 2019.
@@ -40,20 +28,25 @@ IEEE ICSPCC. 2016.
 * **First Prize GetFresh Creativity Competition**:  
 Minister of Economics Affairs, Taiwan. 2015.
 
+## Professional Activities
+* Program Committee / Reviewer: 
+	* TASL Journal
+	* CSL Journal
+	* ACL 20, 19
+	* AAAI 20, 19
+	* EMNLP 20, 19
+	* NAACL 19 
+	* NLPCC 19
+	* SEM 19 
+	* ACL-NLP4ConvAI 20, 19 
+	* KDD-Converse 20
 
-## Work Experiences 
+<!--## Work Experiences 
 * Research Intern, Salesforce Research (MetaMind), California USA, Fall 2018.
 * Teaching Assistant, Building Interactive Intelligent Systems, Hong Kong, Spring 2018, 2019.
-* R&D Intern, Raydium Semiconductor Corporation, Taiwan, Summer 2015.
+* R&D Intern, Raydium Semiconductor Corporation, Taiwan, Summer 2015.-->
 
-
-## Leadership Experiences
-* Activity Director, [NTUEE Student Association](https://www.facebook.com/ntuee.org/) , 2015.
-    * Lead 50+ students to organize 10+ activities for 1000+ NTUEE students.
-* Activity Director, [NTU Wuling Student Association](https://www.facebook.com/ntuwuling/), 2014. 
-
-
-## Selected Past Projects
+## Selected Student Projects
 * RealSteel Fight Game, Embedded System Lab, 2016. 
     * The project is written in Qt, QML, C++ using V-Play Engine with Raspberry Pi, Arduino and MPU-6050 6-DOF sensors. It is a interactive boxing game for two players.
     * Check my [Demo Video](https://www.youtube.com/watch?v=jziXI6g9NkU&feature=youtu.be).
@@ -61,6 +54,12 @@ Minister of Economics Affairs, Taiwan. 2015.
 * PaperNet, Web Programming Lab, 2016. 
     * This project is written in nodejs, React, Webpack, and mysql. It can automatically retrieve the referred and cited papers from your query, and visualize the structure via a directed graph.
     * Check my [Demo Video](https://www.youtube.com/watch?v=Q-Kp7wJ6xl8&t=33s).
+
+## Leadership Experiences
+* Activity Director, [NTUEE Student Association](https://www.facebook.com/ntuee.org/) , 2015.
+    * Lead 50+ students to organize 10+ activities for 1000+ NTUEE students.
+* Activity Director, [NTU Wuling Student Association](https://www.facebook.com/ntuwuling/), 2014. 
+
 
 <!-- ## Others
 Reviewer: CSL -->
