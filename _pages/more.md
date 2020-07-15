@@ -29,7 +29,7 @@ IEEE ICSPCC. 2016.
 Minister of Economics Affairs, Taiwan. 2015.
 
 ## Professional Activities
-* Program Committee / Reviewer: 
+* Program Committee / Discussion Leader/ Reviewer: 
 	* TASL Journal
 	* CSL Journal
 	* ACL 20, 19
@@ -38,6 +38,7 @@ Minister of Economics Affairs, Taiwan. 2015.
 	* NeurIPS 20
 	* NAACL 19 
 	* COLING 20
+	* SIGDial 20 
 	* NLPCC 20, 19
 	* SEM 19 
 	* ACL-NLP4ConvAI 20, 19 
