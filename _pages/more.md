@@ -35,8 +35,10 @@ Minister of Economics Affairs, Taiwan. 2015.
 	* ACL 20, 19
 	* AAAI 20, 19
 	* EMNLP 20, 19
+	* NeurIPS 20
 	* NAACL 19 
-	* NLPCC 19
+	* COLING 20
+	* NLPCC 20, 19
 	* SEM 19 
 	* ACL-NLP4ConvAI 20, 19 
 	* KDD-Converse 20
