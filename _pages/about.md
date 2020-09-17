@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 ## News
+- 09/2020: Five new papers accepted by [EMNLP 2020](https://2020.emnlp.org/), more details [here](/publications)
 - 04/2020: New SOTA on conversational machine reading with [EMT](/publications) model at ACL 2020! 
 - 12/2019: Our AoP paper got [Best Paper Award](http://alborz-geramifard.com/workshops/neurips19-Conversational-AI/Main.html) at NeurIPS ConvAI workshop!
 - 07/2019: Our TRADE paper is presented as the [Outstanding Paper](http://www.acl2019.org/EN/winners-of-acl-2019-best-paper-awards.xhtml) at ACL 2019!
@@ -26,7 +27,7 @@ redirect_from:
   <img src="https://jasonwu0731.github.io/images/logo_ntu.png" width="150" hspace="20">
 </p>
 
-I am [Chien-Sheng (Jason) Wu](https://jasonwu0731.github.io) (吳建昇) from Taiwan. I am a Research Scientist at [Salesforce Research](https://einstein.ai/). Please feel free to browse my homepage and contact me. 
+I am [Chien-Sheng (Jason) Wu](https://jasonwu0731.github.io) (吳建昇) from Taiwan. I am a Research Scientist at [Salesforce AI](https://einstein.ai/). Please feel free to browse my homepage and contact me. 
 
 <!--Download my CV <a href="files/AcademicCV_JasonWu_052019.pdf" target="_blank">here</a>.-->
 <!-- <img src="https://jasonwu0731.github.io/images/logo_caire.jpg" width="150">   

@@ -12,11 +12,27 @@ You can also check my <u><a href="https://scholar.google.com.hk/citations?user=1
 
 ### 2020 
 
+<b>[ToD-BERT: Pre-trained Natural Language Understanding for Task-Oriented Dialogues](/publications/ToD-BERT)</b> <br>
+C Wu, S Hoi, R Socher, and C Xiong. <i>EMNLP 2020 (long)</i>. [[PDF]](https://arxiv.org/abs/2004.06871) [[BibTeX]](/publications/ToD-BERT)
+
+<b>[Probing Task-Oriented Dialogue Representation from Language Models](/publications/TOD-Probe)</b> <br>
+C Wu and C Xiong. <i>EMNLP 2020 (long)</i>. 
+<!-- [[PDF]]() [[BibTeX]](/publications/TOD-Probe) -->
+
+<b>[Discourse-Aware Entailment Reasoning Network for Conversational Machine Reading](/publications/DISCERN)</b> <br>
+Y Gao, C Wu, J Li, S Joty, S Hoiu, C Xiong, I King, and M Lyu. <i>EMNLP 2020 (long)</i>. 
+<!-- [[PDF]]() [[BibTeX]](/publications/DISCERN) -->
+
+<b>[Discriminative Nearest Neighbor Few-Shot Intent Detection by Transferring Natural Language Inference](/publications/FS-Intent)</b> <br>
+J Zhang, K Hashimoto, W Liu, C Wu, Y Wan, P Yu, R Socher and C Xiong. <i>EMNLP 2020 (long)</i>. 
+<!-- [[PDF]]() [[BibTeX]](/publications/FS-Intent) -->
+
+<b>[Improving Limited Labeled Dialogue State Tracking with Self-Supervision](/publications/FS-DST)</b> <br>
+C Wu, S Hoi and C Xiong. <i>EMNLP-findings 2020 (long)</i>. 
+<!-- [[PDF]]() [[BibTeX]](/publications/FS-DST) -->
+
 <b>[A Simple Language Model for Task-Oriented Dialogue](/publications/STOD)</b> <br>
 E Hosseini-Asl, B McCann, C Wu, S Yavuz, and R Socher <i>Arxiv</i>. [[PDF]](https://arxiv.org/abs/2005.00796) [[BibTeX]](/publications/STOD)
-
-<b>[ToD-BERT: Pre-trained Natural Language Understanding for Task-Oriented Dialogues](/publications/ToD-BERT)</b> <br>
-C Wu, S Hoi, R Socher, and C Xiong. <i>Arxiv</i>. [[PDF]](https://arxiv.org/abs/2004.06871) [[BibTeX]](/publications/ToD-BERT)
 
 <b>[Explicit Memory Tracker with Coarse-to-Fine Reasoning for Conversational Machine Reading](/publications/EMT)</b> <br>
 Y Gao, C Wu, S Joty, C Xiong, R Socher,I King, M Lyu, and S Hoi. <i>ACL 2020 (long)</i>. [[PDF]](https://arxiv.org/abs/2005.12484) [[BibTeX]](/publications/EMT)
