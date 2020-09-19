@@ -40,9 +40,9 @@ I am [Chien-Sheng (Jason) Wu](https://jasonwu0731.github.io) (吳建昇) from Ta
 
 <!-- Dream Big, then try my best to Do Bigger. Please feel free to browse through my profile and contact me.  style="color: #ff0000;" -->
 
-<p align="center">
+<!-- <p align="center">
   <kbd><img src="https://jasonwu0731.github.io/images/IMG_9466.JPG" alt="Photo"/></kbd>
-</p>
+</p> -->
 
 <!-- For more info
 ------
