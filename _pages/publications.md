@@ -32,7 +32,7 @@ C Wu, S Hoi and C Xiong. <i>EMNLP-findings 2020 (long)</i>.
 <!-- [[PDF]]() [[BibTeX]](/publications/FS-DST) -->
 
 <b>[A Simple Language Model for Task-Oriented Dialogue](/publications/STOD)</b> <br>
-E Hosseini-Asl, B McCann, C Wu, S Yavuz, and R Socher <i>NeurIPS 2020 (long, <b>Spotlight</b>)</i>. [[PDF]](https://arxiv.org/abs/2005.00796) [[BibTeX]](/publications/STOD) [Code](https://github.com/salesforce/simpletod)
+E Hosseini-Asl, B McCann, C Wu, S Yavuz, and R Socher. <i>NeurIPS 2020 (long, <b>Spotlight</b>)</i>. [[PDF]](https://arxiv.org/abs/2005.00796) [[BibTeX]](/publications/STOD) [Code](https://github.com/salesforce/simpletod)
 
 <b>[Explicit Memory Tracker with Coarse-to-Fine Reasoning for Conversational Machine Reading](/publications/EMT)</b> <br>
 Y Gao, C Wu, S Joty, C Xiong, R Socher,I King, M Lyu, and S Hoi. <i>ACL 2020 (long)</i>. [[PDF]](https://arxiv.org/abs/2005.12484) [[BibTeX]](/publications/EMT)
