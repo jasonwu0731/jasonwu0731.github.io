@@ -12,6 +12,9 @@ You can also check my <u><a href="https://scholar.google.com.hk/citations?user=1
 
 ### 2020 
 
+<b>[GraPPa: Grammar-Augmented Pre-Training for Table Semantic Parsing]()</b> <br> 
+<i>under review</i>. [[PDF]]()
+
 <b>[ToD-BERT: Pre-trained Natural Language Understanding for Task-Oriented Dialogues](/publications/ToD-BERT)</b> <br>
 C Wu, S Hoi, R Socher, and C Xiong. <i>EMNLP 2020 (long)</i>. [[PDF]](https://arxiv.org/abs/2004.06871) [[BibTeX]](/publications/ToD-BERT)
 
@@ -64,6 +67,10 @@ C Wu, C Xiong, R Socher. <i>NeurIPS Workshop on Conversational AI 2018</i> (Oral
 <b>[Learning to Memorize in Neural Task-Oriented Dialogue Systems]()</b> <br>
 C Wu. <i>HKUST MPhil Thesis 2019</i>.  [[PDF]](https://arxiv.org/abs/1905.07687) [[Slides]](/files/JasonWuMPhilThesisPresentation.pdf)
 
+<b>[Code-switched language models using neural based synthetic data from parallel sentences]()</b> <br>
+G Winata, A Madotto, C Wu, P Fung. <i>ACL 2019</i>.
+[[PDF]](https://www.aclweb.org/anthology/K19-1026.pdf)
+
 ### 2018
 
 <b>[Improving Large-Scale Fact-Checking using Decomposable Attention Models and Lexical Tagging](https://jasonwu0731.github.io/publications/emnlp18)</b> <br>
@@ -94,7 +101,7 @@ G Winata, A Madotto, C Wu, P Fung. <i>ACL Code-Switching Workshop, 2018</i>.
 [[PDF]](https://arxiv.org/pdf/1805.12070.pdf) [[BibTeX]](/publications/codeswitch2)
 
 
-### 2017
+### - 2017
 
 <b>[End-to-End Recurrent Entity Network for Entity-Value Independent Goal-Oriented Dialog Learning](/publications/DSTC6)</b> <br>
 C Wu\*, A Madotto\*, G Winata, P Fung. <i>DSTC6</i>.
@@ -120,6 +127,10 @@ C Wu, CH Chen, CR Tsai, and AY Wu. <i>ICSPCC 2016</i>.
 [[PDF]](http://access.ee.ntu.edu.tw/Publications/Conference/CA147_2016.pdf) [[BibTeX]](/publications/ICSPCC16)
 
 
+### Arxiv
 
+<b>[End-to-end Automatic Code-Switching Speech Recognition]()</b> <br>
+G Winata, A Madotto, C Wu, P Fung. <i>ACL 2019</i>.
+[[PDF]](https://arxiv.org/abs/1810.12620)
 
 
