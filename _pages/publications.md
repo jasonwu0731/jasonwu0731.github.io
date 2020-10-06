@@ -13,7 +13,7 @@ You can also check my <u><a href="https://scholar.google.com.hk/citations?user=1
 ### 2020 
 
 <b>[GraPPa: Grammar-Augmented Pre-Training for Table Semantic Parsing]()</b> <br> 
-<i>under review</i>. [[PDF]]()
+<i>under review</i>. 
 
 <b>[ToD-BERT: Pre-trained Natural Language Understanding for Task-Oriented Dialogues](/publications/ToD-BERT)</b> <br>
 C Wu, S Hoi, R Socher, and C Xiong. <i>EMNLP 2020 (long)</i>. [[PDF]](https://arxiv.org/abs/2004.06871) [[BibTeX]](/publications/ToD-BERT)
