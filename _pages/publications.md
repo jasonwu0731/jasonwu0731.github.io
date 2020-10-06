@@ -130,7 +130,6 @@ C Wu, CH Chen, CR Tsai, and AY Wu. <i>ICSPCC 2016</i>.
 ### Arxiv
 
 <b>[End-to-end Automatic Code-Switching Speech Recognition]()</b> <br>
-G Winata, A Madotto, C Wu, P Fung. <i>ACL 2019</i>.
-[[PDF]](https://arxiv.org/abs/1810.12620)
+G Winata, A Madotto, C Wu, P Fung. [[PDF]](https://arxiv.org/abs/1810.12620)
 
 
