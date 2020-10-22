@@ -26,8 +26,8 @@ C Wu and C Xiong. <i>EMNLP 2020 (long)</i>.
 Y Gao, C Wu, J Li, S Joty, S Hoiu, C Xiong, I King, and M Lyu. <i>EMNLP 2020 (long)</i>. 
 <!-- [[PDF]]() [[BibTeX]](/publications/DISCERN) -->
 
-<b>[Discriminative Nearest Neighbor Few-Shot Intent Detection by Transferring Natural Language Inference](/publications/FS-Intent)</b> <br>
-J Zhang, K Hashimoto, W Liu, C Wu, Y Wan, P Yu, R Socher and C Xiong. <i>EMNLP 2020 (long)</i>. 
+<b>[DISCERN: Discriminative Nearest Neighbor Few-Shot Intent Detection by Transferring Natural Language Inference](/publications/FS-Intent)</b> <br>
+J Zhang, K Hashimoto, W Liu, C Wu, Y Wan, P Yu, R Socher and C Xiong. <i>EMNLP 2020 (long)</i>. [[PDF]](https://arxiv.org/abs/2010.01838) 
 <!-- [[PDF]]() [[BibTeX]](/publications/FS-Intent) -->
 
 <b>[Improving Limited Labeled Dialogue State Tracking with Self-Supervision](/publications/FS-DST)</b> <br>
