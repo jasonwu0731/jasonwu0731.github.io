@@ -16,22 +16,22 @@ You can also check my <u><a href="https://scholar.google.com.hk/citations?user=1
 <i>Arxiv</i>. [[PDF]](https://arxiv.org/abs/2009.13845)
 
 <b>[ToD-BERT: Pre-trained Natural Language Understanding for Task-Oriented Dialogues](/publications/ToD-BERT)</b> <br>
-C Wu, S Hoi, R Socher, and C Xiong. <i>EMNLP 2020 (long)</i>. [[PDF]](https://arxiv.org/abs/2004.06871) [[BibTeX]](/publications/ToD-BERT)
+C Wu, S Hoi, R Socher, and C Xiong. <i>EMNLP 2020 (long)</i>. [[PDF]](https://arxiv.org/abs/2004.06871) [[BibTeX]](/publications/ToD-BERT) [[Code]](https://github.com/jasonwu0731/ToD-BERT) [[Slide]](/files/TODBERT-EMNLP-Presentation.pdf)
 
 <b>[Probing Task-Oriented Dialogue Representation from Language Models](/publications/TOD-Probe)</b> <br>
-C Wu and C Xiong. <i>EMNLP 2020 (long)</i>. 
+C Wu and C Xiong. <i>EMNLP 2020 (long)</i>. [[PDF]](https://arxiv.org/pdf/2010.13912.pdf)
 <!-- [[PDF]]() [[BibTeX]](/publications/TOD-Probe) -->
 
 <b>[Discourse-Aware Entailment Reasoning Network for Conversational Machine Reading](/publications/DISCERN)</b> <br>
-Y Gao, C Wu, J Li, S Joty, S Hoiu, C Xiong, I King, and M Lyu. <i>EMNLP 2020 (long)</i>. 
+Y Gao, C Wu, J Li, S Joty, S Hoiu, C Xiong, I King, and M Lyu. <i>EMNLP 2020 (long)</i>.  [[PDF]](https://arxiv.org/abs/2010.01838)
 <!-- [[PDF]]() [[BibTeX]](/publications/DISCERN) -->
 
 <b>[DISCERN: Discriminative Nearest Neighbor Few-Shot Intent Detection by Transferring Natural Language Inference](/publications/FS-Intent)</b> <br>
-J Zhang, K Hashimoto, W Liu, C Wu, Y Wan, P Yu, R Socher and C Xiong. <i>EMNLP 2020 (long)</i>. [[PDF]](https://arxiv.org/abs/2010.01838) 
+J Zhang, K Hashimoto, W Liu, C Wu, Y Wan, P Yu, R Socher and C Xiong. <i>EMNLP 2020 (long)</i>. 
 <!-- [[PDF]]() [[BibTeX]](/publications/FS-Intent) -->
 
 <b>[Improving Limited Labeled Dialogue State Tracking with Self-Supervision](/publications/FS-DST)</b> <br>
-C Wu, S Hoi and C Xiong. <i>EMNLP-findings 2020 (long)</i>. 
+C Wu, S Hoi and C Xiong. <i>EMNLP-findings 2020 (long)</i>. [[PDF]](https://arxiv.org/pdf/2010.13920.pdf)
 <!-- [[PDF]]() [[BibTeX]](/publications/FS-DST) -->
 
 <b>[A Simple Language Model for Task-Oriented Dialogue](/publications/STOD)</b> <br>
