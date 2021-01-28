@@ -32,7 +32,7 @@ Please feel free to browse my homepage or contact me by email :)
 -->
 
 ## News
-- 01/2021: GraPPa is accpeted by [ICLR 2021](https://iclr.cc/Conferences/2021/Dates)
+- 01/2021: GraPPa, a table semantic parsing work, is accpeted by [ICLR 2021](https://iclr.cc/Conferences/2021/Dates)!
 - 09/2020: Five new papers accepted by [EMNLP 2020](https://2020.emnlp.org/), more details [here](/publications)
 - 04/2020: New SOTA on conversational machine reading with [EMT](/publications) model at ACL 2020! 
 - 12/2019: Our AoP paper got [Best Paper Award](http://alborz-geramifard.com/workshops/neurips19-Conversational-AI/Main.html) at NeurIPS ConvAI workshop!
