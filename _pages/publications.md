@@ -4,49 +4,60 @@ permalink: /publications/
 author_profile: true
 ---
 
-My current research topics focus on deep learning applications in [natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing), in particular, [dialogue systems](https://en.wikipedia.org/wiki/Dialog_system), [affective computing](https://en.wikipedia.org/wiki/Affective_computing), and [human-robot interactions](https://en.wikipedia.org/wiki/Human%E2%80%93robot_interaction). Previously, I have also worked on speech recognition, visual question answering, compressive sensing, path planning and IC design.
-
-You can also check my <u><a href="https://scholar.google.com.hk/citations?user=1G4GV2EAAAAJ&hl=en-TW" target="_blank">Google Scholar</a></u> profile.
+You can also check my <u><a href="https://scholar.google.com.hk/citations?user=1G4GV2EAAAAJ&hl" target="_blank">Google Scholar</a></u> profile.
 (* denotes equal contribution)
 
+### 2021
+
+<b>[QAConv: Question Answering on Informative Conversations]()</b> <br> 
+C Wu, A Madotto, W Liu, P Fung, C Xiong <i>Arxiv</i>. 
+[[PDF]](https://arxiv.org/abs/2105.06912) [[BibTeX]]() [[Code]](https://github.com/salesforce/QAConv)
+
+<b>[Controllable Abstractive Dialogue Summarization withSketch Supervision]()</b> <br> 
+C Wu\*, L Liu\*, W Liu, P Stenetorp, C Xiong <i>ACL-Findings 2021 (long)</i>. 
+[[PDF]]() [[BibTeX]]() [[Code]](https://github.com/salesforce/ConvSumm)
+
+<b>[GraPPa: Grammar-Augmented Pre-Training for Table Semantic Parsing](/publications/grappa)</b> <br> 
+T Yu, C Wu, X Lin, B Wang, Y Tan, X Yang, D Radev, R Socher, C Xiong <i>ICLR 2021</i>. 
+[[PDF]](https://arxiv.org/abs/2009.13845) [[BibTeX]](/publications/grappa)
 
 ### 2020 
-
-<b>[GraPPa: Grammar-Augmented Pre-Training for Table Semantic Parsing]()</b> <br> 
-<i>Arxiv</i>. [[PDF]](https://arxiv.org/abs/2009.13845)
 
 <b>[ToD-BERT: Pre-trained Natural Language Understanding for Task-Oriented Dialogues](/publications/ToD-BERT)</b> <br>
 C Wu, S Hoi, R Socher, and C Xiong. <i>EMNLP 2020 (long)</i>. [[PDF]](https://arxiv.org/abs/2004.06871) [[BibTeX]](/publications/ToD-BERT) [[Code]](https://github.com/jasonwu0731/ToD-BERT) [[Slide]](/files/TODBERT-EMNLP-Presentation.pdf)
 
-<b>[Probing Task-Oriented Dialogue Representation from Language Models](/publications/TOD-Probe)</b> <br>
-C Wu and C Xiong. <i>EMNLP 2020 (long)</i>. [[PDF]](https://arxiv.org/pdf/2010.13912.pdf)
-<!-- [[PDF]]() [[BibTeX]](/publications/TOD-Probe) -->
+<b>[Probing Task-Oriented Dialogue Representation from Language Models](/publications/tod_probe)</b> <br>
+C Wu and C Xiong. <i>EMNLP 2020 (long)</i>. 
+[[PDF]](https://arxiv.org/pdf/2010.13912.pdf) [[BibTeX]](/publications/tod_probe)
 
-<b>[Discourse-Aware Entailment Reasoning Network for Conversational Machine Reading](/publications/DISCERN)</b> <br>
-Y Gao, C Wu, J Li, S Joty, S Hoiu, C Xiong, I King, and M Lyu. <i>EMNLP 2020 (long)</i>.  [[PDF]](https://arxiv.org/abs/2010.01838)
-<!-- [[PDF]]() [[BibTeX]](/publications/DISCERN) -->
+<b>[DISCERN: Discourse-Aware Entailment Reasoning Network for Conversational Machine Reading](/publications/DISCERN)</b> <br>
+Y Gao, C Wu, J Li, S Joty, S Hoiu, C Xiong, I King, and M Lyu. <i>EMNLP 2020 (long)</i>. 
+[[PDF]](https://arxiv.org/abs/2010.01838)[[BibTeX]](/publications/DISCERN) [[Code]](https://github.com/Yifan-Gao/Discern)
 
-<b>[DISCERN: Discriminative Nearest Neighbor Few-Shot Intent Detection by Transferring Natural Language Inference](/publications/FS-Intent)</b> <br>
+<b>[Discriminative Nearest Neighbor Few-Shot Intent Detection by Transferring Natural Language Inference](/publications/FS-Intent)</b> <br>
 J Zhang, K Hashimoto, W Liu, C Wu, Y Wan, P Yu, R Socher and C Xiong. <i>EMNLP 2020 (long)</i>. 
-<!-- [[PDF]]() [[BibTeX]](/publications/FS-Intent) -->
+[[PDF]](https://www.aclweb.org/anthology/2020.emnlp-main.411/) [[BibTeX]](/publications/FS-Intent)
 
 <b>[Improving Limited Labeled Dialogue State Tracking with Self-Supervision](/publications/FS-DST)</b> <br>
 C Wu, S Hoi and C Xiong. <i>EMNLP-findings 2020 (long)</i>. [[PDF]](https://arxiv.org/pdf/2010.13920.pdf)
-<!-- [[PDF]]() [[BibTeX]](/publications/FS-DST) -->
+[[PDF]](https://www.aclweb.org/anthology/2020.findings-emnlp.400/) [[BibTeX]](/publications/FS-DST)
 
 <b>[A Simple Language Model for Task-Oriented Dialogue](/publications/STOD)</b> <br>
-E Hosseini-Asl, B McCann, C Wu, S Yavuz, and R Socher. <i>NeurIPS 2020 (long, <b>Spotlight</b>)</i>. [[PDF]](https://arxiv.org/abs/2005.00796) [[BibTeX]](/publications/STOD) [Code](https://github.com/salesforce/simpletod)
+E Hosseini-Asl, B McCann, C Wu, S Yavuz, and R Socher. <i>NeurIPS 2020 (long, <b>Spotlight</b>)</i>. 
+[[PDF]](https://arxiv.org/abs/2005.00796) [[BibTeX]](/publications/STOD) [Code](https://github.com/salesforce/simpletod)
 
 <b>[Explicit Memory Tracker with Coarse-to-Fine Reasoning for Conversational Machine Reading](/publications/EMT)</b> <br>
-Y Gao, C Wu, S Joty, C Xiong, R Socher,I King, M Lyu, and S Hoi. <i>ACL 2020 (long)</i>. [[PDF]](https://arxiv.org/abs/2005.12484) [[BibTeX]](/publications/EMT)
+Y Gao, C Wu, S Joty, C Xiong, R Socher,I King, M Lyu, and S Hoi. <i>ACL 2020 (long)</i>. 
+[[PDF]](https://arxiv.org/abs/2005.12484) [[BibTeX]](/publications/EMT)
 
 <b>[Getting To Know You: User Attribute Extraction from Dialog](/publications/GettingToKnowYou)</b> <br>
-C Wu, A Madotto, Z Lin, P Xu, P Fung. <i>LREC, 2020 (Oral, long) </i>. [[PDF]](https://arxiv.org/abs/1908.04621) [[BibTeX]](/publications/GettingToKnowYou)
+C Wu, A Madotto, Z Lin, P Xu, P Fung. <i>LREC, 2020 (Oral, long) </i>. 
+[[PDF]](https://arxiv.org/abs/1908.04621) [[BibTeX]](/publications/GettingToKnowYou)
 
 ### 2019
 
 <b>[Attention over Parameters for Dialogue Systems](/publications/aop)</b> <br>
-A Madotto, Z Lin, C Wu, J Shin, P Fung. <i>NeurIPS ConvAI Workshop, 2019 (Oral, long, <b>Best Paper Award) [1 out of 30 accepted papers]</b></i>. [[PDF]]() [[Code]]() [[BibTeX]]() [[Slides]]() [[Video]]()
+A Madotto, Z Lin, C Wu, J Shin, P Fung. <i>NeurIPS ConvAI Workshop, 2019 (Oral, long, <b>Best Paper Award) [1 out of 30 accepted papers]</b></i>. [[PDF]](https://arxiv.org/abs/2001.01871) [[BibTeX]](/publications/aop)
 
 <b>[Code-switched language models using neural based synthetic data from parallel sentences](/publications/conll19)</b> <br>
 G Winata, A Madotto, C Wu, P Fung. <i>CoNLL 2019 (long)</i>. [[PDF]](https://arxiv.org/abs/1909.08582) [[BibTeX]](/publications/conll19)
@@ -65,7 +76,8 @@ C Wu, C Xiong, R Socher. <i>NeurIPS Workshop on Conversational AI 2018</i> (Oral
 [[PDF]](https://arxiv.org/abs/1901.04713) [[Slide]](/files/GLMP@NeurIPS 2018.pdf) [[Code]](https://github.com/jasonwu0731/GLMP) [[BibTeX]](/publications/nips18)
 
 <b>[Learning to Memorize in Neural Task-Oriented Dialogue Systems]()</b> <br>
-C Wu. <i>HKUST MPhil Thesis 2019</i>.  [[PDF]](https://arxiv.org/abs/1905.07687) [[Slides]](/files/JasonWuMPhilThesisPresentation.pdf)
+C Wu. <i>HKUST MPhil Thesis 2019</i>.  
+[[PDF]](https://arxiv.org/abs/1905.07687) [[Slides]](/files/JasonWuMPhilThesisPresentation.pdf)
 
 <b>[Code-switched language models using neural based synthetic data from parallel sentences]()</b> <br>
 G Winata, A Madotto, C Wu, P Fung. <i>ACL 2019</i>.
@@ -100,6 +112,9 @@ G Winata, C Wu, A Madotto, P Fung. <i>ACL Code-Switching Workshop, 2018</i>.
 G Winata, A Madotto, C Wu, P Fung. <i>ACL Code-Switching Workshop, 2018</i>.
 [[PDF]](https://arxiv.org/pdf/1805.12070.pdf) [[BibTeX]](/publications/codeswitch2)
 
+<b>[End-to-end Automatic Code-Switching Speech Recognition]()</b> <br>
+G Winata, A Madotto, C Wu, P Fung. 
+[[PDF]](https://arxiv.org/abs/1810.12620)
 
 ### - 2017
 
@@ -125,11 +140,5 @@ P Fung, D Bertero, Y Wan, A Dey, R Chan, F Siddique, Y Yang, C Wu, R Lin. <i>CIC
 <b>[JointRF/Baseband Grouping-based Codebook Design for Hybrid Beamforming in mmWave MIMO Systems](https://jasonwu0731.github.io/publications/ICSPCC16)</b> <br>
 C Wu, CH Chen, CR Tsai, and AY Wu. <i>ICSPCC 2016</i>.
 [[PDF]](http://access.ee.ntu.edu.tw/Publications/Conference/CA147_2016.pdf) [[BibTeX]](/publications/ICSPCC16)
-
-
-### Arxiv
-
-<b>[End-to-end Automatic Code-Switching Speech Recognition]()</b> <br>
-G Winata, A Madotto, C Wu, P Fung. [[PDF]](https://arxiv.org/abs/1810.12620)
 
 

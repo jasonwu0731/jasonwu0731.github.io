@@ -12,6 +12,12 @@ citation:
 
 <pre style="background-color: rgb(230,230,230);white-space: pre-wrap;">
 <font size="1">
+@article{madotto2020attention,
+  title={Attention over parameters for dialogue systems},
+  author={Madotto, Andrea and Lin, Zhaojiang and Wu, Chien-Sheng and Shin, Jamin and Fung, Pascale},
+  journal={arXiv preprint arXiv:2001.01871},
+  year={2020}
+}
 </font>
 </pre>
 

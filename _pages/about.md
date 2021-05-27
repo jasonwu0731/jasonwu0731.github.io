@@ -17,26 +17,17 @@ redirect_from:
   <img src="https://jasonwu0731.github.io/images/logo_ntu.png" width="150" hspace="20">
 </p>
 
-Aloha, I am [Chien-Sheng (Jason) Wu](https://jasonwu0731.github.io) (吳建昇) from Taiwan and currently live in California. I am a senior research scientist at [Salesforce AI Research](https://einstein.ai/), working on machine learning and natural language processing. I studied ECE MPhil at [Hong Kong University of Science and Technology](http://www.ust.hk/zh-hant/) (HKUST) with Prof. [Pascale Fung](http://www.ece.ust.hk/~pascale/). I received EE Bachelor from [National Taiwan University](http://www.ntu.edu.tw/english/) (NTU). 
+Chien-Sheng (Jason) Wu (吳建昇) is a senior research scientist at [Salesforce AI](https://einstein.ai/). His research focuses on deep learning applications in [natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing) and [Conversational AI](). He earned his Mphil degree from Electronic & Computer Engineering at the Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk/)) and part of the Centre for Artificial Intelligence Research ([CAiRE](https://caire.ust.hk/)). He received the outstanding paper award in ACL (2019), and the best paper award in the NeurIPS ConvAI workshop (2019). He serves as program committee for various top conferences such as ACL/EMNLP/NeurIPS/ICLR/AAAI, and journals such as the IEEE/ACM Transactions on Audio Speech and Language Processing and Computer Speech and Languages.
 
-Please feel free to browse my homepage or contact me by email :)
-
-<!--Download my CV <a href="files/AcademicCV_JasonWu_052019.pdf" target="_blank">here</a>.-->
-<!-- <img src="https://jasonwu0731.github.io/images/logo_caire.jpg" width="150">   
-<img src="https://jasonwu0731.github.io/images/logo_hltc.jpg" width="60">
-<img src="https://jasonwu0731.github.io/images/logo_as.svg" width="60"> 
-
-<!--
-* I studied MPhil in Electronic & Computer Engineering at [Hong Kong University of Science and Technology](http://www.ust.hk/zh-hant/) (HKUST), working with Prof. [Pascale Fung](http://www.ece.ust.hk/~pascale/) in [Center for AI Research](https://caire.ust.hk/) (CAiRE) and [Human Language Technology Center](https://www.cse.ust.hk/~hltc/) (HLTC).
-* I received B.S. in Electrical Engineering from [National Taiwan University](http://www.ntu.edu.tw/english/) in 2016. As an undergrad researcher, I worked with Prof. [An-Yeu (Andy) Wu](http://access.ee.ntu.edu.tw/) in Access IC Lab, and Dr. [Jing-Sin Liu](http://www.iis.sinica.edu.tw/pages/liu/) in Academia Sinica, R.O.C.
--->
 
 ## News
-- 01/2021: GraPPa, a table semantic parsing work, is accpeted by [ICLR 2021](https://iclr.cc/Conferences/2021/Dates)!
-- 09/2020: Five new papers accepted by [EMNLP 2020](https://2020.emnlp.org/), more details [here](/publications)
-- 04/2020: New SOTA on conversational machine reading with [EMT](/publications) model at ACL 2020! 
-- 12/2019: Our AoP paper got [Best Paper Award](http://alborz-geramifard.com/workshops/neurips19-Conversational-AI/Main.html) at NeurIPS ConvAI workshop!
-- 07/2019: Our TRADE paper is presented as the [Outstanding Paper](http://www.acl2019.org/EN/winners-of-acl-2019-best-paper-awards.xhtml) at ACL 2019!
+- 04/2021: Controllable dialogue summarization work is accpeted by [ACL-Fingings 2021]().
+- 01/2021: GraPPa, a table semantic parsing work, is accpeted by [ICLR 2021](https://iclr.cc/Conferences/2021/Dates).
+- 09/2020: Five new papers accepted by [EMNLP 2020](https://2020.emnlp.org/), more details [here](/publications).
+- 04/2020: New SOTA on conversational machine reading with EMT model at [ACL 2020]().
+- 12/2019: AOP paper got [Best Paper Award](http://alborz-geramifard.com/workshops/neurips19-Conversational-AI/Main.html) at NeurIPS ConvAI workshop.
+- 07/2019: TRADE paper is presented as the [Outstanding Paper](http://www.acl2019.org/EN/winners-of-acl-2019-best-paper-awards.xhtml) at ACL 2019.
+
 <!--- - 05/2019: Two papers are accepted by [ACL 2019](http://www.acl2019.org/EN/index.xhtml) (Florence, Italy), one for multi-domain dialogue state tracking and the other for dialogue meta-learning [[Info](/publications)]. -->
 <!--- 12/2018: Global-to-local memory pointer network is presented at [NeurIPS ConvAI](http://alborz-geramifard.com/workshops/nips18-Conversational-AI/Main.html) (Montreal, Canada) and [ICLR 2019](https://iclr.cc/Conferences/2019) (New Orleans, US). [[Info]](/publications/nips18) -->
 <!-- - 08/2018: Large-scale fact-checking paper is accepted by [EMNLP 2018](http://emnlp2018.org/) (Brussels, Belgium). [[Info]](/publications/emnlp18) -->

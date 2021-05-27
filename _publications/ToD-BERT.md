@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/ToD-BERT
 excerpt: 
 date: 2020-04-25
-venue: 
+venue: 'The Conference on Empirical Methods in Natural Language Processing (EMNLP)'
 paperurl: 
 citation: 
 ---
