@@ -4,21 +4,21 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also check my <u><a href="https://scholar.google.com.hk/citations?user=1G4GV2EAAAAJ&hl" target="_blank">Google Scholar</a></u> profile.
+<u><a href="https://scholar.google.com.hk/citations?user=1G4GV2EAAAAJ&hl" target="_blank">Google Scholar</a></u> profile
 (* denotes equal contribution)
 
 ### 2021
 
 <b>[QAConv: Question Answering on Informative Conversations]()</b> <br> 
-C Wu, A Madotto, W Liu, P Fung, C Xiong <i>Arxiv</i>. 
+C Wu, A Madotto, W Liu, P Fung, C Xiong. <i>Arxiv</i>. 
 [[PDF]](https://arxiv.org/abs/2105.06912) [[BibTeX]]() [[Code]](https://github.com/salesforce/QAConv)
 
 <b>[Controllable Abstractive Dialogue Summarization withSketch Supervision]()</b> <br> 
-C Wu\*, L Liu\*, W Liu, P Stenetorp, C Xiong <i>ACL-Findings 2021 (long)</i>. 
+C Wu\*, L Liu\*, W Liu, P Stenetorp, C Xiong. <i>ACL-Findings 2021 (long)</i>. 
 [[PDF]]() [[BibTeX]]() [[Code]](https://github.com/salesforce/ConvSumm)
 
 <b>[GraPPa: Grammar-Augmented Pre-Training for Table Semantic Parsing](/publications/grappa)</b> <br> 
-T Yu, C Wu, X Lin, B Wang, Y Tan, X Yang, D Radev, R Socher, C Xiong <i>ICLR 2021</i>. 
+T Yu, C Wu, X Lin, B Wang, Y Tan, X Yang, D Radev, R Socher, C Xiong. <i>ICLR 2021</i>. 
 [[PDF]](https://arxiv.org/abs/2009.13845) [[BibTeX]](/publications/grappa)
 
 ### 2020 

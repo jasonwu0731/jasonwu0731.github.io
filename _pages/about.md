@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Welcome"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Welcome!
+<!-- ## Welcome! -->
 
 <p align="center">
   <img src="https://jasonwu0731.github.io/images/einstein-scroll.png" width="70" hspace="20">
@@ -17,7 +17,7 @@ redirect_from:
   <img src="https://jasonwu0731.github.io/images/logo_ntu.png" width="150" hspace="20">
 </p>
 
-Chien-Sheng (Jason) Wu (吳建昇) is a senior research scientist at [Salesforce AI](https://einstein.ai/). His research focuses on deep learning applications in [natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing) and [Conversational AI](). He earned his Mphil degree from Electronic & Computer Engineering at the Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk/)) and part of the Centre for Artificial Intelligence Research ([CAiRE](https://caire.ust.hk/)). He received the outstanding paper award in ACL (2019), and the best paper award in the NeurIPS ConvAI workshop (2019). He serves as program committee for various top conferences such as ACL/EMNLP/NeurIPS/ICLR/AAAI, and journals such as the IEEE/ACM Transactions on Audio Speech and Language Processing and Computer Speech and Languages.
+Chien-Sheng (Jason) Wu (吳建昇) is a senior research scientist at [Salesforce AI](https://einstein.ai/). His research focuses on deep learning applications in [natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing) and [Conversational AI](). He earned his Mphil degree from Electronic & Computer Engineering at the Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk/)) and part of the Centre for Artificial Intelligence Research ([CAiRE](https://caire.ust.hk/)). He received the outstanding paper award in ACL (2019) and the best paper award in the NeurIPS ConvAI workshop (2019). He serves as program committee for various top conferences such as ACL/EMNLP/NeurIPS/ICLR/AAAI, and journals such as the IEEE/ACM Transactions on Audio Speech and Language Processing and Computer Speech and Languages.
 
 
 ## News
