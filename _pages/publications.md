@@ -11,11 +11,11 @@ author_profile: true
 
 <b>[QAConv: Question Answering on Informative Conversations]()</b> <br> 
 C Wu, A Madotto, W Liu, P Fung, C Xiong. <i>Arxiv</i>. 
-[[PDF]](https://arxiv.org/abs/2105.06912) [[BibTeX]]() [[Code]](https://github.com/salesforce/QAConv)
+[[PDF]](https://arxiv.org/abs/2105.06912) [[BibTeX]]() [[Code]](https://github.com/salesforce/QAConv) [[Blog]](https://blog.einstein.ai/slack-your-way-to-qa/)
 
 <b>[Controllable Abstractive Dialogue Summarization withSketch Supervision]()</b> <br> 
 C Wu\*, L Liu\*, W Liu, P Stenetorp, C Xiong. <i>ACL-Findings 2021 (long)</i>. 
-[[PDF]]() [[BibTeX]]() [[Code]](https://github.com/salesforce/ConvSumm)
+[[PDF]](https://arxiv.org/abs/2105.14064) [[BibTeX]]() [[Code]](https://github.com/salesforce/ConvSumm)
 
 <b>[GraPPa: Grammar-Augmented Pre-Training for Table Semantic Parsing](/publications/grappa)</b> <br> 
 T Yu, C Wu, X Lin, B Wang, Y Tan, X Yang, D Radev, R Socher, C Xiong. <i>ICLR 2021</i>. 

@@ -10,6 +10,6 @@ author_profile: true
 575 High Street, Palo Alto, CA
 
 ## Email
-cswu@salesforce.com <br>
+wu.jason@salesforce.com <br>
 jasonwu830731@gmail.com
 
