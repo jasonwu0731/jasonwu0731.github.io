@@ -4,6 +4,20 @@ title: "More"
 author_profile: true
 ---
 
+
+
+
+## Professional Activities
+
+* Invited Keynote Talk
+	* Towards Trustworthy Evaluation and Interpretation for Summarization and Dialogue ([Eval4NLP @ EMNLP)](https://eval4nlp.github.io/program.html))
+
+* Program Committee / Discussion Leader/ Reviewer: 
+	* Journal: TACL, TASL, CSL, JAIR
+	* Conference:  ACL, ACL-demo, EMNLP, NeurIPS, ICLR, AACL, EACL, AAAI, NAACL, KDD, COLING, NLPCC
+	* Workshop: SIGDial, SEM 19, ACL-NLP4ConvAI, KDD-Converse
+	* General: ARR 
+
 ## Honors & Award
 * **Best Paper Award**:
 Conversational AI Worshop at Conference on Neural Information Processing Systems (NeurIPS). 2019.
@@ -28,24 +42,6 @@ IEEE ICSPCC. 2016.
 * **First Prize GetFresh Creativity Competition**:  
 Minister of Economics Affairs, Taiwan. 2015.
 
-## Professional Activities
-* Program Committee / Discussion Leader/ Reviewer: 
-	* TASL Journal
-	* CSL Journal
-	* ACL 20, 19
-	* EMNLP 20, 19
-	* NeurIPS 20
-	* ICLR 21
-	* AACL 20
-	* AAAI 21, 20, 19
-	* NAACL 19 
-	* KDD 20
-	* COLING 20
-	* SIGDial 20 
-	* NLPCC 20, 19
-	* SEM 19 
-	* ACL-NLP4ConvAI 20, 19 
-	* KDD-Converse 20
 
 <!--## Work Experiences 
 * Research Intern, Salesforce Research (MetaMind), California USA, Fall 2018.

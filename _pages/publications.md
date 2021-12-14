@@ -9,6 +9,14 @@ author_profile: true
 
 ### 2021
 
+<b>[DialFact: A Benchmark for Fact-Checking in Dialogue]()</b> <br> 
+P Gupta, C Wu, W Liu, C Xiong. <i>Arxiv</i>. 
+[[PDF]](https://arxiv.org/pdf/2110.08222.pdf) [[BibTeX]]() [[Code]](https://github.com/salesforce/DialFact) 
+
+<b>[MixQG: Neural Question Generation with Mixed Answer Types]()</b> <br> 
+L Murakhovs'ka, C Wu, T Niu, W Liu, C Xiong. <i>Arxiv</i>. 
+[[PDF]](https://arxiv.org/pdf/2110.08175.pdf) [[BibTeX]]() [[Code]](https://github.com/salesforce/QGen)
+
 <b>[QAConv: Question Answering on Informative Conversations]()</b> <br> 
 C Wu, A Madotto, W Liu, P Fung, C Xiong. <i>Arxiv</i>. 
 [[PDF]](https://arxiv.org/abs/2105.06912) [[BibTeX]]() [[Code]](https://github.com/salesforce/QAConv) [[Blog]](https://blog.einstein.ai/slack-your-way-to-qa/)

@@ -17,10 +17,11 @@ redirect_from:
   <img src="https://jasonwu0731.github.io/images/logo_ntu.png" width="150" hspace="20">
 </p>
 
-Chien-Sheng Jason Wu (吳建昇) is a senior research scientist at [Salesforce AI](https://einstein.ai/) Lab, Palo Alto, CA. His research focuses on [natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing) and [Conversational AI](). He received the outstanding paper award at ACL 2019, the best paper award at NLP4ConvAI@ACL 2019, and the best paper award at ConvAI@NeurIPS 2019. Jason earned his Mphil degree from Electronic & Computer Engineering at the Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk/)), and his bachelor’s degree from Electrical Engineering at the National Taiwan University ([NTU](https://www.ntu.edu.tw/english/)). He serves as program committee for various leading conferences such as ACL/EMNLP/NeurIPS/ICLR/AAAI, and journals such as the IEEE/ACM Transactions on Audio Speech and Language Processing and Computer Speech and Languages.
+Chien-Sheng (Jason) Wu is a senior research scientist and research manager at [Salesforce AI](https://www.salesforceairesearch.com) Lab, Palo Alto, CA. His research focuses on [natural language processing](), [text summarization](), and [Conversational AI](). He received the outstanding paper award at ACL 2019, the best paper award at NLP4ConvAI@ACL 2019, and the best paper award at ConvAI@NeurIPS 2019. He serves as program committee for various leading conferences such as ACL/EMNLP/NeurIPS/ICLR/AAAI, and journals such as the IEEE/ACM Transactions on Audio Speech and Language Processing and Computer Speech and Languages. Jason earned his Mphil degree from Electronic & Computer Engineering at the Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk/)), and his bachelor’s degree from Electrical Engineering at the National Taiwan University ([NTU](https://www.ntu.edu.tw/english/)).
 
 
 ## News
+- 09/2021: Our [Einstein Conversation Mining](https://www.salesforceben.com/8-new-service-cloud-features-to-supercharge-support-agents/) feature is released to identify types of interactions with customers.
 - 04/2021: Controllable dialogue summarization work is accpeted by [ACL-Fingings 2021]().
 - 01/2021: GraPPa, a table semantic parsing work, is accpeted by [ICLR 2021](https://iclr.cc/Conferences/2021/Dates).
 - 09/2020: Five new papers accepted by [EMNLP 2020](https://2020.emnlp.org/), more details [here](/publications).
