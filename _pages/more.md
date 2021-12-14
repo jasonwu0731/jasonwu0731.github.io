@@ -10,7 +10,7 @@ author_profile: true
 ## Professional Activities
 
 * Invited Keynote Talk
-	* Towards Trustworthy Evaluation and Interpretation for Summarization and Dialogue ([Eval4NLP @ EMNLP)](https://eval4nlp.github.io/program.html))
+	* Towards Trustworthy Evaluation and Interpretation for Summarization and Dialogue ([Eval4NLP @ EMNLP](https://eval4nlp.github.io/program.html))
 
 * Program Committee / Discussion Leader/ Reviewer: 
 	* Journal: TACL, TASL, CSL, JAIR
