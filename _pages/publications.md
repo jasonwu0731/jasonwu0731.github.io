@@ -9,6 +9,14 @@ author_profile: true
 
 ### 2021
 
+<b>[QAFactEval: Improved QA-Based Factual Consistency Evaluation for Summarization]()</b> <br> 
+A Fabbri, C Wu, W Liu, C Xiong. <i>Arxiv</i>. 
+[[PDF]](https://arxiv.org/pdf/2112.08542.pdf) [[BibTeX]]() [[Code]](https://github.com/salesforce/QAFactEval) 
+
+<b>[Exploring Neural Models for Query-Focused Summarization]()</b> <br> 
+J Vig, A Fabbri, WKryściński, C Wu, W Liu. <i>Arxiv</i>. 
+[[PDF]](https://arxiv.org/pdf/2112.07637.pdf) [[BibTeX]]() [[Code]](https://github.com/salesforce/query-focused-sum) 
+
 <b>[DialFact: A Benchmark for Fact-Checking in Dialogue]()</b> <br> 
 P Gupta, C Wu, W Liu, C Xiong. <i>Arxiv</i>. 
 [[PDF]](https://arxiv.org/pdf/2110.08222.pdf) [[BibTeX]]() [[Code]](https://github.com/salesforce/DialFact) 

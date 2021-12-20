@@ -17,7 +17,7 @@ redirect_from:
   <img src="https://jasonwu0731.github.io/images/logo_ntu.png" width="150" hspace="20">
 </p>
 
-Chien-Sheng (Jason) Wu is a senior research scientist and research manager at [Salesforce AI](https://www.salesforceairesearch.com) Lab, Palo Alto, CA. His research focuses on [natural language processing](), [text summarization](), and [conversational AI](). He received the outstanding paper award at ACL 2019, the best paper award at NLP4ConvAI@ACL 2019, and the best paper award at ConvAI@NeurIPS 2019. He serves as program committee for various leading conferences such as ACL/EMNLP/NeurIPS, and journals such as the IEEE/ACM TASLP, CSL, and TACL. Jason earned his Mphil degree from Electronic & Computer Engineering at the Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk/)), and his bachelor’s degree from Electrical Engineering at the National Taiwan University ([NTU](https://www.ntu.edu.tw/english/)).
+Chien-Sheng (Jason) Wu is a senior research scientist and research manager at [Salesforce AI](https://www.salesforceairesearch.com), Palo Alto, CA. His research focuses on [natural language processing](), [text summarization](), and [conversational AI](). He received the outstanding paper award at ACL 2019, the best paper award at NLP4ConvAI@ACL 2019, and the best paper award at ConvAI@NeurIPS 2019. He serves as program committee for various leading conferences such as ACL/EMNLP/NeurIPS, and journals such as the IEEE/ACM TASLP, CSL, and TACL. Jason earned his Mphil degree from Electronic & Computer Engineering at the Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk/)), and his bachelor’s degree from Electrical Engineering at the National Taiwan University ([NTU](https://www.ntu.edu.tw/english/)).
 
 
 ## News
@@ -28,6 +28,11 @@ Chien-Sheng (Jason) Wu is a senior research scientist and research manager at [S
 - 04/2020: New SOTA on conversational machine reading with EMT model at [ACL 2020]().
 - 12/2019: AOP paper got [Best Paper Award](http://alborz-geramifard.com/workshops/neurips19-Conversational-AI/Main.html) at NeurIPS ConvAI workshop.
 - 07/2019: TRADE paper is presented as the [Outstanding Paper](http://www.acl2019.org/EN/winners-of-acl-2019-best-paper-awards.xhtml) at ACL 2019.
+
+
+## We Are Hiring!
+Please check the [Salesforce AI careers](https://www.salesforceairesearch.com/careers) for our benefits and open positions. 
+
 
 <!--- - 05/2019: Two papers are accepted by [ACL 2019](http://www.acl2019.org/EN/index.xhtml) (Florence, Italy), one for multi-domain dialogue state tracking and the other for dialogue meta-learning [[Info](/publications)]. -->
 <!--- 12/2018: Global-to-local memory pointer network is presented at [NeurIPS ConvAI](http://alborz-geramifard.com/workshops/nips18-Conversational-AI/Main.html) (Montreal, Canada) and [ICLR 2019](https://iclr.cc/Conferences/2019) (New Orleans, US). [[Info]](/publications/nips18) -->
