@@ -14,8 +14,8 @@ author_profile: true
 
 * Program Committee / Discussion Leader/ Reviewer: 
 	* Journal: TACL, TASL, CSL, JAIR
-	* Conference:  ACL, ACL-demo, EMNLP, NeurIPS, ICLR, AACL, EACL, AAAI, NAACL, KDD, COLING, NLPCC
-	* Workshop: SIGDial, SEM 19, ACL-NLP4ConvAI, KDD-Converse
+	* Conference:  ACL, ACL-demo, EMNLP, NeurIPS, ICLR, AACL, EACL, AAAI, ICML, NAACL, KDD, COLING, NLPCC
+	* Workshop: SIGDial, SEM, ACL-NLP4ConvAI, KDD-Converse
 	* General: ARR 
 
 ## Honors & Award

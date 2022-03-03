@@ -17,10 +17,11 @@ redirect_from:
   <img src="https://jasonwu0731.github.io/images/logo_ntu.png" width="150" hspace="20">
 </p>
 
-Chien-Sheng (Jason) Wu is a senior research scientist and research manager at [Salesforce AI](https://www.salesforceairesearch.com), Palo Alto, CA. His research focuses on [natural language processing](), [text summarization](), and [conversational AI](). He received the outstanding paper award at ACL 2019, the best paper award at NLP4ConvAI@ACL 2019, and the best paper award at ConvAI@NeurIPS 2019. He serves as program committee for various leading conferences such as ACL/EMNLP/NeurIPS, and journals such as the IEEE/ACM TASLP, CSL, and TACL. Jason earned his Mphil degree from Electronic & Computer Engineering at the Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk/)), and his bachelor’s degree from Electrical Engineering at the National Taiwan University ([NTU](https://www.ntu.edu.tw/english/)).
+Chien-Sheng (Jason) Wu is a research manager and scientist at [Salesforce AI](https://www.salesforceairesearch.com), Palo Alto, CA. His research focuses on [natural language processing](), [text summarization](), and [conversational AI](). He received the outstanding paper award at ACL 2019, the best paper award at NLP4ConvAI@ACL 2019, and the best paper award at ConvAI@NeurIPS 2019. He serves as program committee for various leading conferences such as ACL/EMNLP/NeurIPS, and journals such as the IEEE/ACM TASLP, CSL, and TACL. Jason earned his Mphil degree from Electronic & Computer Engineering at the Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk/)), and his bachelor’s degree from Electrical Engineering at the National Taiwan University ([NTU](https://www.ntu.edu.tw/english/)).
 
 
 ## News
+- 02/2022: Two papers about conversational AI are accepted to [ACL 2022](https://www.2022.aclweb.org/).
 - 09/2021: Our [Einstein Conversation Mining](https://www.salesforceben.com/8-new-service-cloud-features-to-supercharge-support-agents/) feature is released to identify types of interactions with customers.
 - 04/2021: Controllable dialogue summarization work is accpeted by [ACL-Fingings 2021]().
 - 01/2021: GraPPa, a table semantic parsing work, is accpeted by [ICLR 2021](https://iclr.cc/Conferences/2021/Dates).

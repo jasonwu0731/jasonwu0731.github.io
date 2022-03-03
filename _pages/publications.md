@@ -7,6 +7,24 @@ author_profile: true
 <u><a href="https://scholar.google.com.hk/citations?user=1G4GV2EAAAAJ&hl" target="_blank">Google Scholar</a></u> profile
 (* denotes equal contribution)
 
+
+### 2022
+
+<b>[UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models]()</b> <br> 
+T Xie, C Wu, P Shi, R Zhong, T Scholak, M Yasunaga, C Wu, M Zhong, Pg Yin, S Wang, V Zhong, B Wang, C Li, C Boyle, A Ni, Z Yao, D Radev, C Xiong, L Kong, R Zhang, N Smith, L Zettlemoyer, T Yu. <i>Arxiv</i>. 
+[[PDF]](https://arxiv.org/pdf/2201.05966.pdf) [[BibTeX]]() [[Code]](https://github.com/hkunlp/unifiedskg) 
+
+
+<b>[QAConv: Question Answering on Informative Conversations]()</b> <br> 
+C Wu, A Madotto, W Liu, P Fung, C Xiong. <i>ACL 2022 (long)</i>. 
+[[PDF]](https://arxiv.org/abs/2105.06912) [[BibTeX]]() [[Code]](https://github.com/salesforce/QAConv) [[Blog]](https://blog.einstein.ai/slack-your-way-to-qa/)
+
+
+<b>[DialFact: A Benchmark for Fact-Checking in Dialogue]()</b> <br> 
+P Gupta, C Wu, W Liu, C Xiong. <i>ACL 2022 (long)</i>. 
+[[PDF]](https://arxiv.org/pdf/2110.08222.pdf) [[BibTeX]]() [[Code]](https://github.com/salesforce/DialFact) 
+
+
 ### 2021
 
 <b>[QAFactEval: Improved QA-Based Factual Consistency Evaluation for Summarization]()</b> <br> 
@@ -17,19 +35,11 @@ A Fabbri, C Wu, W Liu, C Xiong. <i>Arxiv</i>.
 J Vig, A Fabbri, WKryściński, C Wu, W Liu. <i>Arxiv</i>. 
 [[PDF]](https://arxiv.org/pdf/2112.07637.pdf) [[BibTeX]]() [[Code]](https://github.com/salesforce/query-focused-sum) 
 
-<b>[DialFact: A Benchmark for Fact-Checking in Dialogue]()</b> <br> 
-P Gupta, C Wu, W Liu, C Xiong. <i>Arxiv</i>. 
-[[PDF]](https://arxiv.org/pdf/2110.08222.pdf) [[BibTeX]]() [[Code]](https://github.com/salesforce/DialFact) 
-
 <b>[MixQG: Neural Question Generation with Mixed Answer Types]()</b> <br> 
 L Murakhovs'ka, C Wu, T Niu, W Liu, C Xiong. <i>Arxiv</i>. 
 [[PDF]](https://arxiv.org/pdf/2110.08175.pdf) [[BibTeX]]() [[Code]](https://github.com/salesforce/QGen)
 
-<b>[QAConv: Question Answering on Informative Conversations]()</b> <br> 
-C Wu, A Madotto, W Liu, P Fung, C Xiong. <i>Arxiv</i>. 
-[[PDF]](https://arxiv.org/abs/2105.06912) [[BibTeX]]() [[Code]](https://github.com/salesforce/QAConv) [[Blog]](https://blog.einstein.ai/slack-your-way-to-qa/)
-
-<b>[Controllable Abstractive Dialogue Summarization withSketch Supervision]()</b> <br> 
+<b>[Controllable Abstractive Dialogue Summarization with Sketch Supervision]()</b> <br> 
 C Wu\*, L Liu\*, W Liu, P Stenetorp, C Xiong. <i>ACL-Findings 2021 (long)</i>. 
 [[PDF]](https://arxiv.org/abs/2105.14064) [[BibTeX]]() [[Code]](https://github.com/salesforce/ConvSumm)
 
