@@ -79,11 +79,11 @@ analytics:
 # Site Author
 author:
   name             : "Chien-Sheng Wu"
-  avatar           : "jason_profile_2.jpg"
-  bio              : "Deep Learning, Natural Language Processing, Conversational AI"
+  avatar           : "Photography-Salesforce-AI-2021-JasonWu-head.jpg" # "jason_profile_2.jpg"
+  bio              : "Natural Language Processing, Conversational AI, Human-Computer Interaction"
   location         : 
   employer         :
-  googlescholar    : "https://scholar.google.com.hk/citations?user=1G4GV2EAAAAJ&hl=en-TW"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=1G4GV2EAAAAJ&hl"
   email            : "wu.jason@salesforce.com" #"jasonwu830731@gmail.com"
   uri              :
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "chien-sheng-jason-wu-0b8459a8/"
+  linkedin         : "chien-sheng-jason-wu/"
   orcid            : 
   pinterest        :
   soundcloud       :
