@@ -11,7 +11,7 @@ author_profile: true
 ### 2022
 
 <b>[Structure Extraction in Task-Oriented Dialogues with Slot Clustering]()</b> <br> 
-L Qiu, CS Wu, W Liu, C Xiong. <i>Arxiv</i>. 
+L Qiu, C Wu, W Liu, C Xiong. <i>Arxiv</i>. 
 [[PDF]](https://arxiv.org/pdf/2203.00073.pdf) [[Code]](https://github.com/salesforce/dialog-flow-extraction) 
 
 <b>[UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models]()</b> <br> 
