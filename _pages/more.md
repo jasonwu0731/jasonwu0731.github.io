@@ -19,6 +19,11 @@ author_profile: true
 	* General: ARR 
 
 ## Honors & Award
+
+* **Salesforce President's Award**:
+Created new insights and possibilities to better Salesforce products and contributed to Conversational AI and Chatbot portfolios, 2021.
+	* Awarded to top 1% of the Salesforce employees.
+
 * **Best Paper Award**:
 Conversational AI Worshop at Conference on Neural Information Processing Systems (NeurIPS). 2019.
 	* Awarded to 1 paper among 30 accepted papers. [[link]](http://alborz-geramifard.com/workshops/neurips19-Conversational-AI/Main.html)
@@ -28,8 +33,8 @@ Association for Computational Linguistics (ACL). 2019.
 * **Best Paper Award**:
 NLP for Conversational AI Worshop at Association for Computational Linguistics (ACL). 2019.
 	* Awarded to 3 papers among 25 accepted papers. [[link]](https://sites.google.com/view/nlp4convai/accepted-papers?authuser=0)
-* **Postgraduate Student Scholarships**:
-Hong Kong University of Science and Technology. 2017, 2018.
+<!-- * **Postgraduate Student Scholarships**:
+Hong Kong University of Science and Technology. 2017, 2018. -->
 * **Irving T. Ho Memorial Scholarship**: 
 Awarded to 3 undergrad students for outstanding academic performance and research potential. 
 National Taiwan University. 2016.
@@ -39,8 +44,8 @@ School of Engineering, Hong Kong University of Science and Technology. 2016.
 IEEE ICSPCC. 2016.
 * **First Prize Hackthon Team**: 
 34 universities across China, Taiwan, and Hong Kong. Microsoft Research Asia (MSRA). 2015.
-* **First Prize GetFresh Creativity Competition**:  
-Minister of Economics Affairs, Taiwan. 2015.
+<!-- * **First Prize GetFresh Creativity Competition**:  
+Minister of Economics Affairs, Taiwan. 2015. -->
 
 
 <!--## Work Experiences 
@@ -57,12 +62,12 @@ Minister of Economics Affairs, Taiwan. 2015.
     * This project is written in nodejs, React, Webpack, and mysql. It can automatically retrieve the referred and cited papers from your query, and visualize the structure via a directed graph.
     * Check my [Demo Video](https://www.youtube.com/watch?v=Q-Kp7wJ6xl8&t=33s).
 
-## Leadership Experiences
+<!-- ## Leadership Experiences
 * Activity Director, [NTUEE Student Association](https://www.facebook.com/ntuee.org/) , 2015.
     * Lead 50+ students to organize 10+ activities for 1000+ NTUEE students.
 * Activity Director, [NTU Wuling Student Association](https://www.facebook.com/ntuwuling/), 2014. 
 
-
+ -->
 <!-- ## Others
 Reviewer: CSL -->
 
