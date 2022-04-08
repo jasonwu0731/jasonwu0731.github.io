@@ -10,6 +10,21 @@ author_profile: true
 
 ### 2022
 
+<b>[QAFactEval: Improved QA-Based Factual Consistency Evaluation for Summarization]()</b> <br> 
+A Fabbri, C Wu, W Liu, C Xiong. <i>NAACL 2022</i>. 
+[[PDF]](https://arxiv.org/pdf/2112.08542.pdf) [[Code]](https://github.com/salesforce/QAFactEval) 
+
+<b>[Exploring Neural Models for Query-Focused Summarization]()</b> <br> 
+J Vig, A Fabbri, WKryściński, C Wu, W Liu. <i>NAACL-Findings 2022</i>. 
+[[PDF]](https://arxiv.org/pdf/2112.07637.pdf) [[Code]](https://github.com/salesforce/query-focused-sum) 
+
+<b>[MixQG: Neural Question Generation with Mixed Answer Types]()</b> <br> 
+L Murakhovs'ka, C Wu, T Niu, W Liu, C Xiong. <i>NAACL-Findings 2022 (Short)</i>. 
+[[PDF]](https://arxiv.org/pdf/2110.08175.pdf) [[Code]](https://github.com/salesforce/QGen)
+
+<b>[Quiz Design Task: Helping Teachers Create Quizzes with Automated Question Generation]()</b> <br> 
+P Laban, C Wu, L Murakhovs'ka, W Liu, C Xiong. <i>NAACL-Findings 2022 (Short)</i>. 
+
 <b>[Structure Extraction in Task-Oriented Dialogues with Slot Clustering]()</b> <br> 
 L Qiu, C Wu, W Liu, C Xiong. <i>Arxiv</i>. 
 [[PDF]](https://arxiv.org/pdf/2203.00073.pdf) [[Code]](https://github.com/salesforce/dialog-flow-extraction) 
@@ -20,56 +35,49 @@ T Xie, C Wu, P Shi, R Zhong, T Scholak, M Yasunaga, C Wu, M Zhong, Pg Yin, S Wan
 
 
 <b>[QAConv: Question Answering on Informative Conversations]()</b> <br> 
-C Wu, A Madotto, W Liu, P Fung, C Xiong. <i>ACL 2022 (long)</i>. 
+C Wu, A Madotto, W Liu, P Fung, C Xiong. <i>ACL 2022</i>. 
 [[PDF]](https://arxiv.org/abs/2105.06912) [[Code]](https://github.com/salesforce/QAConv) [[Blog]](https://blog.einstein.ai/slack-your-way-to-qa/)
 
 
 <b>[DialFact: A Benchmark for Fact-Checking in Dialogue]()</b> <br> 
-P Gupta, C Wu, W Liu, C Xiong. <i>ACL 2022 (long)</i>. 
+P Gupta, C Wu, W Liu, C Xiong. <i>ACL 2022</i>. 
 [[PDF]](https://arxiv.org/pdf/2110.08222.pdf) [[Code]](https://github.com/salesforce/DialFact) 
 
 
 ### 2021
 
-<b>[QAFactEval: Improved QA-Based Factual Consistency Evaluation for Summarization]()</b> <br> 
-A Fabbri, C Wu, W Liu, C Xiong. <i>Arxiv</i>. 
-[[PDF]](https://arxiv.org/pdf/2112.08542.pdf) [[Code]](https://github.com/salesforce/QAFactEval) 
-
-<b>[Exploring Neural Models for Query-Focused Summarization]()</b> <br> 
-J Vig, A Fabbri, WKryściński, C Wu, W Liu. <i>Arxiv</i>. 
-[[PDF]](https://arxiv.org/pdf/2112.07637.pdf) [[Code]](https://github.com/salesforce/query-focused-sum) 
-
-<b>[MixQG: Neural Question Generation with Mixed Answer Types]()</b> <br> 
-L Murakhovs'ka, C Wu, T Niu, W Liu, C Xiong. <i>Arxiv</i>. 
-[[PDF]](https://arxiv.org/pdf/2110.08175.pdf) [[Code]](https://github.com/salesforce/QGen)
-
 <b>[Controllable Abstractive Dialogue Summarization with Sketch Supervision]()</b> <br> 
-C Wu\*, L Liu\*, W Liu, P Stenetorp, C Xiong. <i>ACL-Findings 2021 (long)</i>. 
+C Wu\*, L Liu\*, W Liu, P Stenetorp, C Xiong. <i>ACL-Findings 2021</i>. 
 [[PDF]](https://arxiv.org/abs/2105.14064) [[Code]](https://github.com/salesforce/ConvSumm)
 
 <b>[GraPPa: Grammar-Augmented Pre-Training for Table Semantic Parsing](/publications/grappa)</b> <br> 
 T Yu, C Wu, X Lin, B Wang, Y Tan, X Yang, D Radev, R Socher, C Xiong. <i>ICLR 2021</i>. 
 [[PDF]](https://arxiv.org/abs/2009.13845)
 
+<b>[Robustness gym: Unifying the nlp evaluation landscape]()</b> <br> 
+K Goel, N Rajani, J Vig, S Tan, C Wu, S Zheng, C Xiong, M Bansal, C Ré. <i>Arxiv</i>. 
+[[PDF]](https://arxiv.org/abs/2101.04840)
+
+
 ### 2020 
 
 <b>[ToD-BERT: Pre-trained Natural Language Understanding for Task-Oriented Dialogues](/publications/ToD-BERT)</b> <br>
-C Wu, S Hoi, R Socher, and C Xiong. <i>EMNLP 2020 (long)</i>. [[PDF]](https://arxiv.org/abs/2004.06871) [[Code]](https://github.com/jasonwu0731/ToD-BERT) [[Slide]](/files/TODBERT-EMNLP-Presentation.pdf)
+C Wu, S Hoi, R Socher, and C Xiong. <i>EMNLP 2020</i>. [[PDF]](https://arxiv.org/abs/2004.06871) [[Code]](https://github.com/jasonwu0731/ToD-BERT) [[Slide]](/files/TODBERT-EMNLP-Presentation.pdf)
 
 <b>[Probing Task-Oriented Dialogue Representation from Language Models](/publications/tod_probe)</b> <br>
-C Wu and C Xiong. <i>EMNLP 2020 (long)</i>. 
+C Wu and C Xiong. <i>EMNLP 2020</i>. 
 [[PDF]](https://arxiv.org/pdf/2010.13912.pdf)
 
 <b>[DISCERN: Discourse-Aware Entailment Reasoning Network for Conversational Machine Reading](/publications/DISCERN)</b> <br>
-Y Gao, C Wu, J Li, S Joty, S Hoiu, C Xiong, I King, and M Lyu. <i>EMNLP 2020 (long)</i>. 
+Y Gao, C Wu, J Li, S Joty, S Hoiu, C Xiong, I King, and M Lyu. <i>EMNLP 2020</i>. 
 [[PDF]](https://arxiv.org/abs/2010.01838) [[Code]](https://github.com/Yifan-Gao/Discern)
 
 <b>[Discriminative Nearest Neighbor Few-Shot Intent Detection by Transferring Natural Language Inference](/publications/FS-Intent)</b> <br>
-J Zhang, K Hashimoto, W Liu, C Wu, Y Wan, P Yu, R Socher and C Xiong. <i>EMNLP 2020 (long)</i>. 
+J Zhang, K Hashimoto, W Liu, C Wu, Y Wan, P Yu, R Socher and C Xiong. <i>EMNLP 2020</i>. 
 [[PDF]](https://www.aclweb.org/anthology/2020.emnlp-main.411/) 
 
 <b>[Improving Limited Labeled Dialogue State Tracking with Self-Supervision](/publications/FS-DST)</b> <br>
-C Wu, S Hoi and C Xiong. <i>EMNLP-findings 2020 (long)</i>. [[PDF]](https://arxiv.org/pdf/2010.13920.pdf)
+C Wu, S Hoi and C Xiong. <i>EMNLP-findings 2020</i>. [[PDF]](https://arxiv.org/pdf/2010.13920.pdf)
 [[PDF]](https://www.aclweb.org/anthology/2020.findings-emnlp.400/)
 
 <b>[A Simple Language Model for Task-Oriented Dialogue](/publications/STOD)</b> <br>
@@ -77,7 +85,7 @@ E Hosseini-Asl, B McCann, C Wu, S Yavuz, and R Socher. <i>NeurIPS 2020 (long, <b
 [[PDF]](https://arxiv.org/abs/2005.00796) [Code](https://github.com/salesforce/simpletod)
 
 <b>[Explicit Memory Tracker with Coarse-to-Fine Reasoning for Conversational Machine Reading](/publications/EMT)</b> <br>
-Y Gao, C Wu, S Joty, C Xiong, R Socher,I King, M Lyu, and S Hoi. <i>ACL 2020 (long)</i>. 
+Y Gao, C Wu, S Joty, C Xiong, R Socher,I King, M Lyu, and S Hoi. <i>ACL 2020</i>. 
 [[PDF]](https://arxiv.org/abs/2005.12484) 
 
 <b>[Getting To Know You: User Attribute Extraction from Dialog](/publications/GettingToKnowYou)</b> <br>
@@ -90,10 +98,10 @@ C Wu, A Madotto, Z Lin, P Xu, P Fung. <i>LREC, 2020 (Oral, long) </i>.
 A Madotto, Z Lin, C Wu, J Shin, P Fung. <i>NeurIPS ConvAI Workshop, 2019 (Oral, long, <b>Best Paper Award) [1 out of 30 accepted papers]</b></i>. [[PDF]](https://arxiv.org/abs/2001.01871) 
 
 <b>[Code-switched language models using neural based synthetic data from parallel sentences](/publications/conll19)</b> <br>
-G Winata, A Madotto, C Wu, P Fung. <i>CoNLL 2019 (long)</i>. [[PDF]](https://arxiv.org/abs/1909.08582) 
+G Winata, A Madotto, C Wu, P Fung. <i>CoNLL 2019</i>. [[PDF]](https://arxiv.org/abs/1909.08582) 
 
 <b>[Clickbait? Sensational Headline Generation with Auto-tuned Reinforcement Learning](/publications/senHeadline)</b> <br>
-P Xu, C Wu, A Madotto, P Fung. <i>EMNLP 2019 (long)</i>. [[PDF]](https://arxiv.org/abs/1909.03582) [[Code]](https://github.com/HLTCHKUST/sensational_headline)
+P Xu, C Wu, A Madotto, P Fung. <i>EMNLP 2019</i>. [[PDF]](https://arxiv.org/abs/1909.03582) [[Code]](https://github.com/HLTCHKUST/sensational_headline)
 
 <b>[Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems](/publications/trade)</b> <br>
 C Wu, A Madotto, E Hosseini-Asl, C Xiong, R Socher, P Fung. <i>ACL 2019 (Oral, long, <b>Outstanding Paper Award) [top 1% accepted papers]</b></i>. [[PDF]](https://arxiv.org/abs/1905.08743) [[Code]](https://github.com/jasonwu0731/trade-dst) [[Slides]](/files/TRADE-DST-ACL-2019.pdf) [[Video]](http://www.livecongress.it/aol/indexSA.php?id=4989C85D&ticket=)
@@ -119,7 +127,7 @@ G Winata, A Madotto, C Wu, P Fung. <i>ACL 2019</i>.
 C Wu\*, N Lee\*, P Fung. <i>EMNLP 2018 (short)</i>. [[PDF]](http://aclweb.org/anthology/D18-1143) [[Poster]](/files/EMNLP2018_Poster.pdf) 
 
 <b>[Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems](https://jasonwu0731.github.io/publications/Mem2Seq)</b> <br>
-C Wu\*, A Madotto\*, P Fung. <i>ACL 2018 (long)</i>.
+C Wu\*, A Madotto\*, P Fung. <i>ACL 2018</i>.
 [[PDF]](https://arxiv.org/pdf/1804.08217.pdf) [[Poster]](/files/mem2seq-poster) [[Code]](https://github.com/HLTCHKUST/Mem2Seq) 
 
 <b>[Empathetic Dialog Systems](https://jasonwu0731.github.io/publications/LREC18)</b> <br>
