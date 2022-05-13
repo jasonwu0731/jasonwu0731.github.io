@@ -17,19 +17,19 @@ redirect_from:
   <img src="https://jasonwu0731.github.io/images/logo_ntu.png" width="150" hspace="20">
 </p>
 
-Chien-Sheng (Jason) Wu is a research manager and scientist at [Salesforce AI](https://www.salesforceairesearch.com), leading the [Interactive Intelligence]() Team. His research focuses on [Natural Language Processing](), [Conversational AI](), and [Human-Computer Interaction](). He won the Salesforce President's Award in 2021 for his research and product impact. He received the outstanding paper award at ACL 2019, the best paper award at NLP4ConvAI Workshop @ACL 2019, and the best paper award at ConvAI Workshop @NeurIPS 2019. He serves as program committee for various leading conferences such as ACL/EMNLP/NeurIPS, and journals such as the IEEE/ACM TASLP, CSL, and TACL. 
+Chien-Sheng (Jason) Wu is a senior research manager at [Salesforce AI Research](https://www.salesforceairesearch.com), leading the [Interactive Intelligence]() Team. His research focuses on [Natural Language Processing](), [Conversational AI](), and [Human-Computer Interaction](). He won the Salesforce President's Award in 2021 for his research-to-product impact. He received the outstanding paper award at ACL 2019, the best paper award at NLP4ConvAI Workshop @ACL 2019, and the best paper award at ConvAI Workshop @NeurIPS 2019. He serves as program committee for various leading conferences such as ACL/EMNLP/NeurIPS, and journals such as the IEEE/ACM TASLP, CSL, and TACL. 
 <!-- Jason earned his Mphil degree from Electronic & Computer Engineering at the Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk/)), and his bachelor’s degree from Electrical Engineering at the National Taiwan University ([NTU](https://www.ntu.edu.tw/english/)). -->
 
 
 ## News
 - 04/2022: Four papers (question generation, factual summarization, query-focused summary) are accepted to [NAACL 2022](https://2022.naacl.org/)!
-- 02/2022: Two conversational AI papers are accepted to [ACL 2022](https://www.2022.aclweb.org/)!
+- 02/2022: Two conversational AI papers (QAConv, DialFact) are accepted to [ACL 2022](https://www.2022.aclweb.org/)!
 - 01/2022: Happy to announce that I received 2021 Salesforce President's Award!
 - 11/2021: I will give a keynote presentation at [Eval4NLP @ EMNLP](https://eval4nlp.github.io/program.html). Feel free to attend!
 - 09/2021: Our [Einstein Conversation Mining](https://www.salesforceben.com/8-new-service-cloud-features-to-supercharge-support-agents/) feature is released to identify types of interactions with customers!
 - 04/2021: Controllable dialogue summarization work is accpeted by [ACL-Fingings 2021]()!
 - 01/2021: GraPPa, a table semantic parsing work, is accpeted by [ICLR 2021](https://iclr.cc/Conferences/2021/Dates)!
-- 09/2020: Five papers accepted by [EMNLP 2020](https://2020.emnlp.org/), more details [here](/publications)!
+<!-- - 09/2020: Five papers accepted by [EMNLP 2020](https://2020.emnlp.org/), more details [here](/publications)! -->
 
 <!-- - 04/2020: New SOTA on conversational machine reading with EMT model at [ACL 2020]().
 - 12/2019: AOP paper got [Best Paper Award](http://alborz-geramifard.com/workshops/neurips19-Conversational-AI/Main.html) at NeurIPS ConvAI workshop.
