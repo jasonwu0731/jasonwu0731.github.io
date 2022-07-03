@@ -9,8 +9,10 @@ author_profile: true
 
 ## Professional Activities
 
-* Invited Keynote Talk
-	* Towards Trustworthy Evaluation and Interpretation for Summarization and Dialogue ([Eval4NLP @ EMNLP](https://eval4nlp.github.io/program.html))
+* Speaker Invitation 
+	* Seminar Talk: NLP applications at Salesforce - CodeGen, Marvista, and Merlin at [Stanford AI4All](https://hai.stanford.edu/stanford-ai4all).
+	* Keynote Talk: Towards Trustworthy Evaluation and Interpretation for Summarization and Dialogue ([Eval4NLP @ EMNLP](https://eval4nlp.github.io/program.html))
+	* Seminar Talk: Conversations as Knowledge - from Question Answering to Summarization at [NUS](https://wing-nus.github.io/nlp-seminar/past/).
 
 * Program Committee / Discussion Leader/ Reviewer: 
 	* Journal: TACL, TASL, CSL, JAIR

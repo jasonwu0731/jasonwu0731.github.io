@@ -10,6 +10,14 @@ author_profile: true
 
 ### 2022
 
+<b>[Near-Negative Distinction: Giving a Second Life to Human Evaluation Datasets]()</b> <br> 
+P Laban, C Wu, W Liu, C Xiong. <i>Arxiv</i>. 
+[[PDF]](https://arxiv.org/pdf/2205.06871.pdf) 
+
+<b>[CaPE: Contrastive Parameter Ensembling for Reducing Hallucination in Abstractive Summarization]()</b> <br> 
+P Choubey, A Fabbri, J Vig, C Wu, We Liu, N Rajani. <i>Arxiv</i>. 
+[[PDF]](https://arxiv.org/abs/2110.07166) 
+
 <b>[QAFactEval: Improved QA-Based Factual Consistency Evaluation for Summarization]()</b> <br> 
 A Fabbri, C Wu, W Liu, C Xiong. <i>NAACL 2022</i>. 
 [[PDF]](https://arxiv.org/pdf/2112.08542.pdf) [[Code]](https://github.com/salesforce/QAFactEval) 
