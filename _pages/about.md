@@ -18,7 +18,7 @@ redirect_from:
 </p>
 
 Chien-Sheng (Jason) Wu is a senior research manager at [Salesforce AI Research](https://www.salesforceairesearch.com), leading the [Interactive Intelligence]() Team. His research focuses on [Natural Language Processing](), [Conversational AI](), and [Human-Computer Interaction](). He won the Salesforce President's Award in 2021 for his innovation and research-to-product impact. He received the outstanding paper award at ACL 2019, the best paper award at NLP4ConvAI Workshop @ACL 2019, and the best paper award at ConvAI Workshop @NeurIPS 2019. He serves as program committee for various leading conferences such as ACL/EMNLP/NeurIPS, and journals such as the IEEE/ACM TASLP, CSL, and TACL. 
-<!-- Jason earned his Mphil degree from Electronic & Computer Engineering at the Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk/)), and his bachelor’s degree from Electrical Engineering at the National Taiwan University ([NTU](https://www.ntu.edu.tw/english/)). -->
+Jason earned his Mphil degree from Electronic & Computer Engineering at the Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk/)), working with Prof. [Pascale Fung](https://pascale.home.ece.ust.hk/), and his bachelor’s degree from Electrical Engineering at the National Taiwan University ([NTU](https://www.ntu.edu.tw/english/)).
 
 
 ## News
