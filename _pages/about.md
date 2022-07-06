@@ -25,7 +25,7 @@ Jason earned his Mphil degree from Electronic & Computer Engineering at the Hong
 - 06/2022: Seminar talk of NLP applications at [Stanford AI4All](https://hai.stanford.edu/stanford-ai4all).
 - 04/2022: Four papers (question generation, factual summarization, query-focused summary) are accepted to [NAACL 2022](https://2022.naacl.org/)!
 - 02/2022: Two conversational AI papers (QAConv, DialFact) are accepted to [ACL 2022](https://www.2022.aclweb.org/)!
-- 01/2022: Happy to announce that I received 2021 Salesforce President's Award!
+- 01/2022: Received 2021 Salesforce President's Award for outstanding employees!
 - 11/2021: Keynote presentation at [Eval4NLP @ EMNLP](https://eval4nlp.github.io/2021/program.html) - Towards Trustworthy Evaluation and Interpretation for Summarization and Dialogue. Feel free to attend!
 - 09/2021: Our [Einstein Conversation Mining](https://www.salesforceben.com/8-new-service-cloud-features-to-supercharge-support-agents/) feature is released to identify types of interactions with customers!
 - 06/2021: Seminar talk at [NUS](https://wing-nus.github.io/nlp-seminar/past/) - Conversations as Knowledge: from Question Answering to Summarization.
