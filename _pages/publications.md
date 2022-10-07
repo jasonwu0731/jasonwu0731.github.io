@@ -11,12 +11,21 @@ author_profile: true
 ### 2022
 
 <b>[Near-Negative Distinction: Giving a Second Life to Human Evaluation Datasets]()</b> <br> 
-P Laban, C Wu, W Liu, C Xiong. <i>Arxiv</i>. 
+P Laban, C Wu, W Liu, C Xiong. <i>EMNLP 2022</i>. 
 [[PDF]](https://arxiv.org/pdf/2205.06871.pdf) 
 
-<b>[CaPE: Contrastive Parameter Ensembling for Reducing Hallucination in Abstractive Summarization]()</b> <br> 
-P Choubey, A Fabbri, J Vig, C Wu, We Liu, N Rajani. <i>Arxiv</i>. 
-[[PDF]](https://arxiv.org/abs/2110.07166) 
+<b>[Improving Factual Consistency in Summarization with Compression-Based Post-Editing]()</b> <br> 
+A, P Choubey, J Vig, C Wu, C Xiong. <i>EMNLP 2022 (short)</i>. 
+
+<b>[Discord Questions: A Computational Approach To Diversity Analysis in News Coverage.]()</b> <br> 
+P Laban, C Wu, L Murakhovs’ka, X Chen and C Xiong. <i>EMNLP-Findings 2022</i>. 
+
+<b>[Conformal Predictor for Improving Zero-Shot Text Classification Efficiency]()</b> <br> 
+P, Y Bai, C Wu, W Liu and N Rajani. <i>EMNLP 2022 (short)</i>. 
+
+<b>[UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models]()</b> <br> 
+T Xie, C Wu, P Shi, R Zhong, T Scholak, M Yasunaga, C Wu, M Zhong, Pg Yin, S Wang, V Zhong, B Wang, C Li, C Boyle, A Ni, Z Yao, D Radev, C Xiong, L Kong, R Zhang, N Smith, L Zettlemoyer, T Yu. <i>EMNLP 2022</i>. 
+[[PDF]](https://arxiv.org/pdf/2201.05966.pdf) [[Code]](https://github.com/hkunlp/unifiedskg) 
 
 <b>[QAFactEval: Improved QA-Based Factual Consistency Evaluation for Summarization]()</b> <br> 
 A Fabbri, C Wu, W Liu, C Xiong. <i>NAACL 2022</i>. 
@@ -33,23 +42,21 @@ L Murakhovs'ka, C Wu, T Niu, W Liu, C Xiong. <i>NAACL-Findings 2022 (Short)</i>.
 <b>[Quiz Design Task: Helping Teachers Create Quizzes with Automated Question Generation]()</b> <br> 
 P Laban, C Wu, L Murakhovs'ka, W Liu, C Xiong. <i>NAACL-Findings 2022 (Short)</i>. 
 
-<b>[Structure Extraction in Task-Oriented Dialogues with Slot Clustering]()</b> <br> 
-L Qiu, C Wu, W Liu, C Xiong. <i>Arxiv</i>. 
-[[PDF]](https://arxiv.org/pdf/2203.00073.pdf) [[Code]](https://github.com/salesforce/dialog-flow-extraction) 
-
-<b>[UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models]()</b> <br> 
-T Xie, C Wu, P Shi, R Zhong, T Scholak, M Yasunaga, C Wu, M Zhong, Pg Yin, S Wang, V Zhong, B Wang, C Li, C Boyle, A Ni, Z Yao, D Radev, C Xiong, L Kong, R Zhang, N Smith, L Zettlemoyer, T Yu. <i>Arxiv</i>. 
-[[PDF]](https://arxiv.org/pdf/2201.05966.pdf) [[Code]](https://github.com/hkunlp/unifiedskg) 
-
-
 <b>[QAConv: Question Answering on Informative Conversations]()</b> <br> 
 C Wu, A Madotto, W Liu, P Fung, C Xiong. <i>ACL 2022</i>. 
 [[PDF]](https://arxiv.org/abs/2105.06912) [[Code]](https://github.com/salesforce/QAConv) [[Blog]](https://blog.einstein.ai/slack-your-way-to-qa/)
 
-
 <b>[DialFact: A Benchmark for Fact-Checking in Dialogue]()</b> <br> 
 P Gupta, C Wu, W Liu, C Xiong. <i>ACL 2022</i>. 
 [[PDF]](https://arxiv.org/pdf/2110.08222.pdf) [[Code]](https://github.com/salesforce/DialFact) 
+
+<b>[CaPE: Contrastive Parameter Ensembling for Reducing Hallucination in Abstractive Summarization]()</b> <br> 
+P Choubey, A Fabbri, J Vig, C Wu, We Liu, N Rajani. <i>Arxiv</i>. 
+[[PDF]](https://arxiv.org/abs/2110.07166) 
+
+<b>[Structure Extraction in Task-Oriented Dialogues with Slot Clustering]()</b> <br> 
+L Qiu, C Wu, W Liu, C Xiong. <i>Arxiv</i>. 
+[[PDF]](https://arxiv.org/pdf/2203.00073.pdf) [[Code]](https://github.com/salesforce/dialog-flow-extraction) 
 
 
 ### 2021
@@ -89,7 +96,7 @@ C Wu, S Hoi and C Xiong. <i>EMNLP-findings 2020</i>. [[PDF]](https://arxiv.org/p
 [[PDF]](https://www.aclweb.org/anthology/2020.findings-emnlp.400/)
 
 <b>[A Simple Language Model for Task-Oriented Dialogue](/publications/STOD)</b> <br>
-E Hosseini-Asl, B McCann, C Wu, S Yavuz, and R Socher. <i>NeurIPS 2020 (long, <b>Spotlight</b>)</i>. 
+E Hosseini-Asl, B McCann, C Wu, S Yavuz, and R Socher. <i>NeurIPS 2020 (<b>Spotlight</b>)</i>. 
 [[PDF]](https://arxiv.org/abs/2005.00796) [Code](https://github.com/salesforce/simpletod)
 
 <b>[Explicit Memory Tracker with Coarse-to-Fine Reasoning for Conversational Machine Reading](/publications/EMT)</b> <br>
@@ -97,13 +104,13 @@ Y Gao, C Wu, S Joty, C Xiong, R Socher,I King, M Lyu, and S Hoi. <i>ACL 2020</i>
 [[PDF]](https://arxiv.org/abs/2005.12484) 
 
 <b>[Getting To Know You: User Attribute Extraction from Dialog](/publications/GettingToKnowYou)</b> <br>
-C Wu, A Madotto, Z Lin, P Xu, P Fung. <i>LREC, 2020 (Oral, long) </i>. 
+C Wu, A Madotto, Z Lin, P Xu, P Fung. <i>LREC, 2020 (Oral) </i>. 
 [[PDF]](https://arxiv.org/abs/1908.04621) 
 
 ### 2019
 
 <b>[Attention over Parameters for Dialogue Systems](/publications/aop)</b> <br>
-A Madotto, Z Lin, C Wu, J Shin, P Fung. <i>NeurIPS ConvAI Workshop, 2019 (Oral, long, <b>Best Paper Award) [1 out of 30 accepted papers]</b></i>. [[PDF]](https://arxiv.org/abs/2001.01871) 
+A Madotto, Z Lin, C Wu, J Shin, P Fung. <i>NeurIPS ConvAI Workshop, 2019 (Oral, <b>Best Paper Award) [1 out of 30 accepted papers]</b></i>. [[PDF]](https://arxiv.org/abs/2001.01871) 
 
 <b>[Code-switched language models using neural based synthetic data from parallel sentences](/publications/conll19)</b> <br>
 G Winata, A Madotto, C Wu, P Fung. <i>CoNLL 2019</i>. [[PDF]](https://arxiv.org/abs/1909.08582) 
@@ -112,7 +119,7 @@ G Winata, A Madotto, C Wu, P Fung. <i>CoNLL 2019</i>. [[PDF]](https://arxiv.org/
 P Xu, C Wu, A Madotto, P Fung. <i>EMNLP 2019</i>. [[PDF]](https://arxiv.org/abs/1909.03582) [[Code]](https://github.com/HLTCHKUST/sensational_headline)
 
 <b>[Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems](/publications/trade)</b> <br>
-C Wu, A Madotto, E Hosseini-Asl, C Xiong, R Socher, P Fung. <i>ACL 2019 (Oral, long, <b>Outstanding Paper Award) [top 1% accepted papers]</b></i>. [[PDF]](https://arxiv.org/abs/1905.08743) [[Code]](https://github.com/jasonwu0731/trade-dst) [[Slides]](/files/TRADE-DST-ACL-2019.pdf) [[Video]](http://www.livecongress.it/aol/indexSA.php?id=4989C85D&ticket=)
+C Wu, A Madotto, E Hosseini-Asl, C Xiong, R Socher, P Fung. <i>ACL 2019 (Oral, <b>Outstanding Paper Award) [top 1% accepted papers]</b></i>. [[PDF]](https://arxiv.org/abs/1905.08743) [[Code]](https://github.com/jasonwu0731/trade-dst) [[Slides]](/files/TRADE-DST-ACL-2019.pdf) [[Video]](http://www.livecongress.it/aol/indexSA.php?id=4989C85D&ticket=)
 
 <b>[Personalizing Dialogue Agents via Meta-Learning](/publications/DAML)</b> <br>
 A Madotto, Z Lin, C Wu, P Fung. <i>ACL 2019 (short)</i>. [[PDF]](https://arxiv.org/abs/1905.10033) [[Code]](https://github.com/HLTCHKUST/PAML) 

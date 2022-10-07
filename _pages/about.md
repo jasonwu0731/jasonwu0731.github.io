@@ -17,11 +17,12 @@ redirect_from:
   <img src="https://jasonwu0731.github.io/images/logo_ntu.png" width="150" hspace="20">
 </p>
 
-Chien-Sheng (Jason) Wu is a senior research manager at [Salesforce AI Research](https://www.salesforceairesearch.com), leading the [Interactive Intelligence]() Team. His research focuses on [Natural Language Processing](), [Conversational AI](), and [Human-Computer Interaction](). He won the Salesforce President's Award in 2021 for his innovation and research-to-product impact. He received the outstanding paper award at ACL 2019, the best paper award at NLP4ConvAI Workshop @ACL 2019, and the best paper award at ConvAI Workshop @NeurIPS 2019. He serves as program committee for various leading conferences such as ACL/EMNLP/NeurIPS, and journals such as the IEEE/ACM TASLP, CSL, and TACL. 
+Chien-Sheng (Jason) Wu is a senior research manager at [Salesforce AI Research](https://www.salesforceairesearch.com), leading the [Interactive AI]() Team. His research focuses on Deep Learning and Natural Language Processing, particularly, [Conversational AI](), [Langauge Generation](), and [Human-Computer Interaction](). He received the outstanding paper award at ACL 2019, the best paper award at NLP4ConvAI Workshop @ACL 2019, and the best paper award at ConvAI Workshop @NeurIPS 2019. He serves as program committee for various leading conferences such as ACL/EMNLP/NeurIPS, and journals such as the IEEE/ACM TASLP, CSL, and TACL. He won the Salesforce President's Award in 2021 for his innovation and research-to-product impact.
 Jason earned his Mphil degree from Electronic & Computer Engineering at the Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk/)), working with Prof. [Pascale Fung](https://pascale.home.ece.ust.hk/), and his bachelor’s degree from Electrical Engineering at the National Taiwan University ([NTU](https://www.ntu.edu.tw/english/)).
 
 
 ## News
+- 10/2022: Five papers are accepted to [EMNLP 2022](https://2022.emnlp.org/).
 - 06/2022: Seminar talk of NLP applications at [Stanford AI4All](https://hai.stanford.edu/stanford-ai4all).
 - 04/2022: Four papers (question generation, factual summarization, query-focused summary) are accepted to [NAACL 2022](https://2022.naacl.org/)!
 - 02/2022: Two conversational AI papers (QAConv, DialFact) are accepted to [ACL 2022](https://www.2022.aclweb.org/)!
