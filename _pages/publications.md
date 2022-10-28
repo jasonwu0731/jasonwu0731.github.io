@@ -15,13 +15,14 @@ P Laban, C Wu, W Liu, C Xiong. <i>EMNLP 2022</i>.
 [[PDF]](https://arxiv.org/pdf/2205.06871.pdf) 
 
 <b>[Improving Factual Consistency in Summarization with Compression-Based Post-Editing]()</b> <br> 
-A, P Choubey, J Vig, C Wu, C Xiong. <i>EMNLP 2022 (short)</i>. 
+A Fabbri, P Choubey, J Vig, C Wu, C Xiong. <i>EMNLP 2022 (short)</i>. 
 
 <b>[Discord Questions: A Computational Approach To Diversity Analysis in News Coverage.]()</b> <br> 
 P Laban, C Wu, L Murakhovs’ka, X Chen and C Xiong. <i>EMNLP-Findings 2022</i>. 
 
 <b>[Conformal Predictor for Improving Zero-Shot Text Classification Efficiency]()</b> <br> 
-P, Y Bai, C Wu, W Liu and N Rajani. <i>EMNLP 2022 (short)</i>. 
+P Choubey, Y Bai, C Wu, W Liu and N Rajani. <i>EMNLP 2022 (short)</i>. 
+[[PDF]](https://arxiv.org/pdf/2210.12619.pdf) 
 
 <b>[UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models]()</b> <br> 
 T Xie, C Wu, P Shi, R Zhong, T Scholak, M Yasunaga, C Wu, M Zhong, Pg Yin, S Wang, V Zhong, B Wang, C Li, C Boyle, A Ni, Z Yao, D Radev, C Xiong, L Kong, R Zhang, N Smith, L Zettlemoyer, T Yu. <i>EMNLP 2022</i>. 
@@ -49,6 +50,14 @@ C Wu, A Madotto, W Liu, P Fung, C Xiong. <i>ACL 2022</i>.
 <b>[DialFact: A Benchmark for Fact-Checking in Dialogue]()</b> <br> 
 P Gupta, C Wu, W Liu, C Xiong. <i>ACL 2022</i>. 
 [[PDF]](https://arxiv.org/pdf/2110.08222.pdf) [[Code]](https://github.com/salesforce/DialFact) 
+
+<b>[Model Ensemble Instead of Prompt Fusion: A Sample-specific Knowledge Transfer Method for Few-shot Prompt Tuning]()</b> <br> 
+X Peng, C Xing, P Choubey, C Wu, C Xiong. <i>Arxiv</i>. 
+[[PDF]](https://arxiv.org/abs/2210.12587) 
+
+<b>[Marvista: A Human-AI Collaborative Reading Tool]()</b> <br> 
+X Chen, C Wu, T Niu, W Liu, C Xiong. <i>Arxiv</i>. 
+[[PDF]](https://arxiv.org/pdf/2207.08401.pdf) 
 
 <b>[CaPE: Contrastive Parameter Ensembling for Reducing Hallucination in Abstractive Summarization]()</b> <br> 
 P Choubey, A Fabbri, J Vig, C Wu, We Liu, N Rajani. <i>Arxiv</i>. 

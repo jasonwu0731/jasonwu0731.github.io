@@ -55,6 +55,7 @@ Minister of Economics Affairs, Taiwan. 2015. -->
 * Teaching Assistant, Building Interactive Intelligent Systems, Hong Kong, Spring 2018, 2019.
 * R&D Intern, Raydium Semiconductor Corporation, Taiwan, Summer 2015.-->
 
+<!--
 ## Selected Student Projects
 * RealSteel Fight Game, Embedded System Lab, 2016. 
     * The project is written in Qt, QML, C++ using V-Play Engine with Raspberry Pi, Arduino and MPU-6050 6-DOF sensors. It is a interactive boxing game for two players.
@@ -63,6 +64,7 @@ Minister of Economics Affairs, Taiwan. 2015. -->
 * PaperNet, Web Programming Lab, 2016. 
     * This project is written in nodejs, React, Webpack, and mysql. It can automatically retrieve the referred and cited papers from your query, and visualize the structure via a directed graph.
     * Check my [Demo Video](https://www.youtube.com/watch?v=Q-Kp7wJ6xl8&t=33s).
+-->
 
 <!-- ## Leadership Experiences
 * Activity Director, [NTUEE Student Association](https://www.facebook.com/ntuee.org/) , 2015.

@@ -4,8 +4,7 @@ permalink: /products/
 author_profile: true
 ---
 
-### Products
-
+### Customer-facing Products
 - <b>Salesforce Einstein Conversation Mining</b> <br> <i>2021-present</i>. [[link]](https://www.salesforceben.com/8-new-service-cloud-features-to-supercharge-support-agents/)
 - <b>Salesforce/Slack Summarization</b> <br> <i>2021-present</i>. 
 - <b>Salesforce Einstein Reply Recommendations</b> <br> <i>2020</i>. [[link]](https://help.salesforce.com/s/articleView?id=sf.reply_rec_intro.htm&type=5)

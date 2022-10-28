@@ -17,7 +17,7 @@ redirect_from:
   <img src="https://jasonwu0731.github.io/images/logo_ntu.png" width="150" hspace="20">
 </p>
 
-Chien-Sheng (Jason) Wu is a Senior Research Manager at [Salesforce AI Research](https://www.salesforceairesearch.com), leading the [Interactive AI]() Team. His research focuses on deep learning and natural language processing, particularly, [Conversational AI](), [Langauge Generation](), and [Human-Computer Interaction](). He received the outstanding paper award at ACL 2019, the best paper award at NLP4ConvAI Workshop @ACL 2019, and the best paper award at ConvAI Workshop @NeurIPS 2019. He serves as program committee for various leading conferences such as ACL/EMNLP/NeurIPS, and journals such as the IEEE/ACM TASLP, CSL, and TACL. He won the Salesforce President's Award in 2021 for his innovation and research-to-product impact.
+Chien-Sheng Jason Wu (吳建昇) is a Senior Research Manager at [Salesforce AI Research](https://www.salesforceairesearch.com), leading the [Interactive AI]() Team. His research focuses on deep learning and natural language processing, particularly, [Conversational AI](), [Text Summarization](), and [Human-Computer Interaction](). He received the outstanding paper award at ACL 2019, the best paper award at NLP4ConvAI Workshop @ACL 2019, and the best paper award at ConvAI Workshop @NeurIPS 2019. He serves as program committee for various leading conferences such as ACL/EMNLP/NeurIPS/ICLR, and journals such as the IEEE/ACM TASLP, CSL, and TACL. He won the Salesforce President's Award in 2021 for his research innovation and research-to-product impact.
 Jason earned his Mphil degree from Electronic & Computer Engineering at the Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk/)), working with Prof. [Pascale Fung](https://pascale.home.ece.ust.hk/), and his bachelor’s degree from Electrical Engineering at the National Taiwan University ([NTU](https://www.ntu.edu.tw/english/)).
 
 
@@ -30,8 +30,8 @@ Jason earned his Mphil degree from Electronic & Computer Engineering at the Hong
 - 11/2021: Keynote presentation at [Eval4NLP @ EMNLP](https://eval4nlp.github.io/2021/program.html) - Towards Trustworthy Evaluation and Interpretation for Summarization and Dialogue. Feel free to attend!
 - 09/2021: Our [Einstein Conversation Mining](https://www.salesforceben.com/8-new-service-cloud-features-to-supercharge-support-agents/) feature is released to identify types of interactions with customers!
 - 06/2021: Seminar talk at [NUS](https://wing-nus.github.io/nlp-seminar/past/) - Conversations as Knowledge: from Question Answering to Summarization.
-<!-- - 04/2021: Controllable dialogue summarization work is accpeted by [ACL-Fingings 2021]()! -->
-<!-- - 01/2021: GraPPa, a table semantic parsing work, is accpeted by [ICLR 2021](https://iclr.cc/Conferences/2021/Dates)! -->
+- 04/2021: Controllable dialogue summarization work is accpeted by [ACL 2021]()!
+- 01/2021: GraPPa, a table semantic parsing work, is accpeted by [ICLR 2021](https://iclr.cc/Conferences/2021/Dates)!
 <!-- - 09/2020: Five papers accepted by [EMNLP 2020](https://2020.emnlp.org/), more details [here](/publications)! -->
 
 <!-- - 04/2020: New SOTA on conversational machine reading with EMT model at [ACL 2020]().
