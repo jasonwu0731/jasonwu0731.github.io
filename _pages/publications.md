@@ -7,6 +7,14 @@ author_profile: true
 <u><a href="https://scholar.google.com.hk/citations?user=1G4GV2EAAAAJ&hl" target="_blank">Google Scholar</a></u> profile
 (* denotes equal contribution)
 
+### 2023
+
+<b>[Designing and Evaluating Interfaces that Highlight News Coverage Diversity Using Discord Questions]()</b> <br> 
+P Laban, C Wu, L Murakhovs'ka, X Chen, C Xiong. <i>CHI 2023</i>. 
+
+<b>[Model ensemble instead of prompt fusion: a sample-specific knowledge transfer method for few-shot prompt tuning]()</b> <br> 
+X Peng, C Xing, P Choubey, C Wu, C Xiong. <i>ICLR 2023</i>. 
+[[PDF]](https://arxiv.org/abs/2210.12587) 
 
 ### 2022
 

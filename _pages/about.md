@@ -22,6 +22,8 @@ Jason earned his Mphil degree from Electronic & Computer Engineering at the Hong
 
 
 ## News
+- 01/2023: One paper is accepted to [ICLR 2023](https://iclr.cc/) about prompt fusion!
+- 01/2023: One paper is accepted to [CHI 2023](https://chi2023.acm.org/) about News coverage diversity!
 - 10/2022: Five papers are accepted to [EMNLP 2022](https://2022.emnlp.org/)!
 - 06/2022: Seminar talk of NLP applications at [Stanford AI4All](https://hai.stanford.edu/stanford-ai4all).
 - 04/2022: Four papers (question generation, factual summarization, query-focused summary) are accepted to [NAACL 2022](https://2022.naacl.org/)!
@@ -31,7 +33,7 @@ Jason earned his Mphil degree from Electronic & Computer Engineering at the Hong
 - 09/2021: Our [Einstein Conversation Mining](https://www.salesforceben.com/8-new-service-cloud-features-to-supercharge-support-agents/) feature is released to identify types of interactions with customers!
 - 06/2021: Seminar talk at [NUS](https://wing-nus.github.io/nlp-seminar/past/) - Conversations as Knowledge: from Question Answering to Summarization.
 - 04/2021: Controllable dialogue summarization work is accpeted by [ACL 2021]()!
-- 01/2021: GraPPa, a table semantic parsing work, is accpeted by [ICLR 2021](https://iclr.cc/Conferences/2021/Dates)!
+<!-- - 01/2021: GraPPa, a table semantic parsing work, is accpeted by [ICLR 2021](https://iclr.cc/Conferences/2021/Dates)! -->
 <!-- - 09/2020: Five papers accepted by [EMNLP 2020](https://2020.emnlp.org/), more details [here](/publications)! -->
 
 <!-- - 04/2020: New SOTA on conversational machine reading with EMT model at [ACL 2020]().
