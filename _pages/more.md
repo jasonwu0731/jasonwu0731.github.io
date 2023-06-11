@@ -14,7 +14,7 @@ author_profile: true
 	* Keynote Talk: Towards Trustworthy Evaluation and Interpretation for Summarization and Dialogue ([Eval4NLP @ EMNLP](https://eval4nlp.github.io/program.html))
 	* Seminar Talk: Conversations as Knowledge - from Question Answering to Summarization at [NUS](https://wing-nus.github.io/nlp-seminar/past/).
 
-* Program Committee / Discussion Leader/ Reviewer: 
+* Area Chair/ Program Committee / Discussion Leader/ Reviewer: 
 	* Journal: TACL, TASL, CSL, JAIR
 	* Conference:  ACL, ACL-demo, EMNLP, NeurIPS, ICLR, AACL, EACL, AAAI, ICML, NAACL, KDD, COLING, NLPCC
 	* Workshop: SIGDial, SEM, ACL-NLP4ConvAI, KDD-Converse
@@ -29,9 +29,11 @@ Created new insights and possibilities to better Salesforce products and contrib
 * **Best Paper Award**:
 Conversational AI Worshop at Conference on Neural Information Processing Systems (NeurIPS). 2019.
 	* Awarded to 1 paper among 30 accepted papers. [[link]](http://alborz-geramifard.com/workshops/neurips19-Conversational-AI/Main.html)
+
 * **Outstanding Paper Award**:
 Association for Computational Linguistics (ACL). 2019.
 	* Awarded to 5 papers among 660 accepted papers. [[link]](http://www.acl2019.org/EN/winners-of-acl-2019-best-paper-awards.xhtml)
+
 * **Best Paper Award**:
 NLP for Conversational AI Worshop at Association for Computational Linguistics (ACL). 2019.
 	* Awarded to 3 papers among 25 accepted papers. [[link]](https://sites.google.com/view/nlp4convai/accepted-papers?authuser=0)
@@ -40,10 +42,13 @@ Hong Kong University of Science and Technology. 2017, 2018. -->
 * **Irving T. Ho Memorial Scholarship**: 
 Awarded to 3 undergrad students for outstanding academic performance and research potential. 
 National Taiwan University. 2016.
+
 * **Dean's List Award**: 
 School of Engineering, Hong Kong University of Science and Technology. 2016.
+
 * **First Prize Student Paper Award**: 
 IEEE ICSPCC. 2016.
+
 * **First Prize Hackthon Team**: 
 34 universities across China, Taiwan, and Hong Kong. Microsoft Research Asia (MSRA). 2015.
 <!-- * **First Prize GetFresh Creativity Competition**:  

@@ -9,8 +9,29 @@ author_profile: true
 
 ### 2023
 
+<b>[Did You Read the Instructions? Rethinking the Effectiveness of Task Definitions in Instruction Learning]()</b> <br> 
+F Yin, J Vig, P Laban, S Joty, C Xiong, C Wu. <i>ACL 2023</i>. 
+[[PDF]](https://arxiv.org/pdf/2306.01150.pdf) 
+
+<b>[SWiPE: A Dataset for Document-Level Simplification of Wikipedia Pages]()</b> <br> 
+P Laban, J Vig, W Kryscinski, S Joty, C Xiong, C Wu. <i>ACL 2023</i>. 
+[[PDF]](https://arxiv.org/abs/2305.19204) 
+
+<b>[SOCRATIC Pretraining: Question-Driven Pretraining for Controllable Summarization]()</b> <br> 
+A Pagnoni, A Fabbri, W Kryscinski, C Wu. <i>ACL 2023</i>. 
+[[PDF]](https://arxiv.org/pdf/2212.10449.pdf) 
+
+<b>[Revisiting the Gold Standard: Grounding Summarization Evaluation with Robust Human Evaluation]()</b> <br> 
+Y Liu, A Fabbri, P Liu, Y Zhao, L Nan, R Han, S Han, S Joty, C Wu, C Xiong, D Radev. <i>ACL 2023</i>. 
+[[PDF]](https://arxiv.org/pdf/2212.07981.pdf) 
+
+<b>[CaPE: Contrastive Parameter Ensembling for Reducing Hallucination in Abstractive Summarization]()</b> <br> 
+P Choubey, A Fabbri, J Vig, C Wu, W Liu, N Rajani. <i>ACL-Findings 2023</i>. 
+[[PDF]](https://arxiv.org/abs/2110.07166) 
+
 <b>[Designing and Evaluating Interfaces that Highlight News Coverage Diversity Using Discord Questions]()</b> <br> 
 P Laban, C Wu, L Murakhovs'ka, X Chen, C Xiong. <i>CHI 2023</i>. 
+[[PDF]](https://arxiv.org/abs/2302.08997) 
 
 <b>[Model ensemble instead of prompt fusion: a sample-specific knowledge transfer method for few-shot prompt tuning]()</b> <br> 
 X Peng, C Xing, P Choubey, C Wu, C Xiong. <i>ICLR 2023</i>. 
@@ -24,9 +45,11 @@ P Laban, C Wu, W Liu, C Xiong. <i>EMNLP 2022</i>.
 
 <b>[Improving Factual Consistency in Summarization with Compression-Based Post-Editing]()</b> <br> 
 A Fabbri, P Choubey, J Vig, C Wu, C Xiong. <i>EMNLP 2022 (short)</i>. 
+[[PDF]](https://arxiv.org/abs/2211.06196)
 
 <b>[Discord Questions: A Computational Approach To Diversity Analysis in News Coverage.]()</b> <br> 
 P Laban, C Wu, L Murakhovs’ka, X Chen and C Xiong. <i>EMNLP-Findings 2022</i>. 
+[[PDF]](https://aclanthology.org/2022.findings-emnlp.380/)
 
 <b>[Conformal Predictor for Improving Zero-Shot Text Classification Efficiency]()</b> <br> 
 P Choubey, Y Bai, C Wu, W Liu and N Rajani. <i>EMNLP 2022 (short)</i>. 
