@@ -14,7 +14,10 @@ author_profile: true
 	* Keynote Talk: Towards Trustworthy Evaluation and Interpretation for Summarization and Dialogue ([Eval4NLP @ EMNLP](https://eval4nlp.github.io/program.html))
 	* Seminar Talk: Conversations as Knowledge - from Question Answering to Summarization at [NUS](https://wing-nus.github.io/nlp-seminar/past/).
 
-* Area Chair/ Program Committee / Discussion Leader/ Reviewer: 
+* Area Chair
+	* NeurIPS, SIGDial
+
+* Program Committee / Discussion Leader/ Reviewer: 
 	* Journal: TACL, TASL, CSL, JAIR
 	* Conference:  ACL, ACL-demo, EMNLP, NeurIPS, ICLR, AACL, EACL, AAAI, ICML, NAACL, KDD, COLING, NLPCC
 	* Workshop: SIGDial, SEM, ACL-NLP4ConvAI, KDD-Converse

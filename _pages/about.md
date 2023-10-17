@@ -17,12 +17,13 @@ redirect_from:
   <img src="https://jasonwu0731.github.io/images/logo_ntu.png" width="150" hspace="20">
 </p>
 
-Chien-Sheng Jason Wu (吳建昇) is a Senior Research Manager at [Salesforce AI Research](https://www.salesforceairesearch.com), leading the [Interactive AI]() Team. His research focuses on deep learning and natural language processing, particularly, [Trusted NLG](), [Conversational AI](), and [Human-Computer Interaction](). He received the outstanding paper award at ACL 2019, the best paper award at NLP4ConvAI Workshop @ACL 2019, and the best paper award at ConvAI Workshop @NeurIPS 2019. He serves as program committee for various leading conferences such as ACL/EMNLP/NeurIPS/ICLR, and journals such as the IEEE/ACM TASLP, CSL, and TACL. He won the Salesforce President's Award in 2021 for his research innovation and research-to-product impact.
+Chien-Sheng Jason Wu (吳建昇) is a Senior Research Manager at [Salesforce AI Research](https://www.salesforceairesearch.com), leading the [Interactive AI]() Team. His research focuses on deep learning and natural language processing, particularly, [Trusted Generative AI](), [Conversational AI and Summarization](), [AI Agents](), and [Human-Computer Interaction](). He received the outstanding paper award at ACL 2019, the best paper award at NLP4ConvAI Workshop @ACL 2019, and the best paper award at ConvAI Workshop @NeurIPS 2019. He serves as program committee for various leading conferences such as ACL/EMNLP/NeurIPS/ICLR, and journals such as the IEEE/ACM TASLP, CSL, and TACL. He won the Salesforce President's Award in 2021 for his research innovation and research-to-product impact.
 Jason earned his Mphil degree from Electronic & Computer Engineering at the Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk/)), working with Prof. [Pascale Fung](https://pascale.home.ece.ust.hk/), and his bachelor’s degree from Electrical Engineering at the National Taiwan University ([NTU](https://www.ntu.edu.tw/english/)).
 
 
 ## News
-- 01/2023: Five paper are accepted to [ACL 2023](https://2023.aclweb.org/) related to instruction learning, summarization, and simplifcation!
+- 10/2023: Five paper are accepted to [EMNLP 2023]() related to LLM factualness, evaluation, and applications.
+- 06/2023: Five paper are accepted to [ACL 2023](https://2023.aclweb.org/) related to instruction learning, summarization, and simplifcation!
 - 01/2023: One paper is accepted to [ICLR 2023](https://iclr.cc/) about prompt fusion!
 - 01/2023: One paper is accepted to [CHI 2023](https://chi2023.acm.org/) about News coverage diversity!
 - 10/2022: Five papers are accepted to [EMNLP 2022](https://2022.emnlp.org/)! Highlight [UnifiedSKG](https://arxiv.org/pdf/2201.05966.pdf) and [Discord Question](https://aclanthology.org/2022.findings-emnlp.380/)
@@ -31,8 +32,8 @@ Jason earned his Mphil degree from Electronic & Computer Engineering at the Hong
 - 02/2022: Two conversational AI papers (QAConv, DialFact) are accepted to [ACL 2022](https://www.2022.aclweb.org/)!
 - 01/2022: Received 2021 Salesforce President's Award for outstanding employees!
 - 11/2021: Keynote presentation at [Eval4NLP @ EMNLP](https://eval4nlp.github.io/2021/program.html) - Towards Trustworthy Evaluation and Interpretation for Summarization and Dialogue. Feel free to attend!
-- 09/2021: Our [Einstein Conversation Mining](https://www.salesforceben.com/8-new-service-cloud-features-to-supercharge-support-agents/) feature is released to identify types of interactions with customers!
-- 06/2021: Seminar talk at [NUS](https://wing-nus.github.io/nlp-seminar/past/) - Conversations as Knowledge: from Question Answering to Summarization.
+<!-- - 09/2021: Our [Einstein Conversation Mining](https://www.salesforceben.com/8-new-service-cloud-features-to-supercharge-support-agents/) feature is released to identify types of interactions with customers! -->
+<!-- - 06/2021: Seminar talk at [NUS](https://wing-nus.github.io/nlp-seminar/past/) - Conversations as Knowledge: from Question Answering to Summarization. -->
 <!-- - 04/2021: Controllable dialogue summarization work is accpeted by [ACL 2021]()! -->
 <!-- - 01/2021: GraPPa, a table semantic parsing work, is accpeted by [ICLR 2021](https://iclr.cc/Conferences/2021/Dates)! -->
 <!-- - 09/2020: Five papers accepted by [EMNLP 2020](https://2020.emnlp.org/), more details [here](/publications)! -->

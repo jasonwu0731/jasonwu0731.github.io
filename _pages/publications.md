@@ -9,6 +9,26 @@ author_profile: true
 
 ### 2023
 
+<b>[SummEdits: Measuring LLM Ability at Factual Reasoning Through The Lens of Summarization]()</b> <br> 
+P Laban, W Kryściński, D Agarwal, A Fabbri, C Xiong, S Joty, C Wu. <i>EMNLP 2023</i>. 
+[[PDF]](https://arxiv.org/pdf/2305.14540.pdf)
+
+<b>[Towards Interpretable and Efficient Automatic Reference-Based Summarization Evaluation]()</b> <br> 
+Y Liu, A Fabbri, Y Zhao, P Liu, S Joty, C Wu, C Xiong, D Radev. <i>EMNLP 2023</i>. 
+[[PDF]](https://arxiv.org/abs/2303.03608)
+
+<b>[INTELMO: Enhancing Models’ Adoption of Interactive Interfaces]()</b> <br> 
+C Yang, C Wu, L Murakhovs'ka, P Laban, X Chen. <i>EMNLP 2023 (Demo)</i>. 
+[[PDF]]()
+
+<b>[Salespeople vs SalesBot: Exploring the Role of Educational Value in Conversational Recommender Systems]()</b> <br> 
+L Murakhovs'ka, P Laban, T Xie, C Xiong, C Wu. <i>EMNLP 2023 (Findings)</i>. 
+[[PDF]]()
+
+<b>[Lexical Repetitions Lead to Rote Learning: Unveiling the Impact of Lexical Overlap in Train and Test Reference Summaries]()</b> <br> 
+P Choubey, A Fabri, C Xiong, C Wu. <i>EMNLP 2023 (Findings)</i>. 
+[[PDF]]()
+
 <b>[Did You Read the Instructions? Rethinking the Effectiveness of Task Definitions in Instruction Learning]()</b> <br> 
 F Yin, J Vig, P Laban, S Joty, C Xiong, C Wu. <i>ACL 2023</i>. 
 [[PDF]](https://arxiv.org/pdf/2306.01150.pdf) 
@@ -87,7 +107,7 @@ X Peng, C Xing, P Choubey, C Wu, C Xiong. <i>Arxiv</i>.
 [[PDF]](https://arxiv.org/abs/2210.12587) 
 
 <b>[Marvista: A Human-AI Collaborative Reading Tool]()</b> <br> 
-X Chen, C Wu, T Niu, W Liu, C Xiong. <i>Arxiv</i>. 
+X Chen, C Wu, T Niu, W Liu, C Xiong. <i>ACM-HCI</i>. 
 [[PDF]](https://arxiv.org/pdf/2207.08401.pdf) 
 
 <b>[CaPE: Contrastive Parameter Ensembling for Reducing Hallucination in Abstractive Summarization]()</b> <br> 
