@@ -17,12 +17,12 @@ redirect_from:
   <img src="https://jasonwu0731.github.io/images/logo_ntu.png" width="150" hspace="20">
 </p>
 
-Chien-Sheng Jason Wu (吳建昇) is a Senior Research Manager at [Salesforce AI Research](https://www.salesforceairesearch.com), leading the [Interactive AI]() Team. His research focuses on deep learning and natural language processing, particularly, [Trusted Generative AI](), [Conversational AI and Summarization](), [AI Agents](), and [Human-Computer Interaction](). He received the outstanding paper award at ACL 2019, the best paper award at NLP4ConvAI Workshop @ACL 2019, and the best paper award at ConvAI Workshop @NeurIPS 2019. He serves as program committee for various leading conferences such as ACL/EMNLP/NeurIPS/ICLR, and journals such as the IEEE/ACM TASLP, CSL, and TACL. He won the Salesforce President's Award in 2021 for his research innovation and research-to-product impact.
+Chien-Sheng Jason Wu (吳建昇) is a senior research manager at [Salesforce AI Research](https://www.salesforceairesearch.com), leading the [Interactive AI]() Team. His research focuses on deep learning and natural language processing, particularly, [Trustworthy Generative AI](), [Conversational AI and Summarization](), [AI Agents](), and [Human-Computer Interaction](). He received the outstanding paper award at ACL 2019, the best paper award at NLP4ConvAI Workshop @ACL 2019, and the best paper award at ConvAI Workshop @NeurIPS 2019. He serves as program committee for various leading conferences such as ACL/EMNLP/NeurIPS/ICLR, and journals such as the IEEE/ACM TASLP, CSL, and TACL. He won the Salesforce President's Award in 2021 for his research innovation and research-to-product impact.
 Jason earned his Mphil degree from Electronic & Computer Engineering at the Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk/)), working with Prof. [Pascale Fung](https://pascale.home.ece.ust.hk/), and his bachelor’s degree from Electrical Engineering at the National Taiwan University ([NTU](https://www.ntu.edu.tw/english/)).
 
 
 ## News
-- 10/2023: Five paper are accepted to [EMNLP 2023]() related to LLM factualness, evaluation, and applications.
+- 10/2023: Five paper are accepted to [EMNLP 2023](https://2023.emnlp.org/) related to LLM factualness, evaluation, and applications.
 - 06/2023: Five paper are accepted to [ACL 2023](https://2023.aclweb.org/) related to instruction learning, summarization, and simplifcation!
 - 01/2023: One paper is accepted to [ICLR 2023](https://iclr.cc/) about prompt fusion!
 - 01/2023: One paper is accepted to [CHI 2023](https://chi2023.acm.org/) about News coverage diversity!

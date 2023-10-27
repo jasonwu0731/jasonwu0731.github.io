@@ -9,6 +9,26 @@ author_profile: true
 
 ### 2023
 
+<b>[Beyond the Chat: Executable and Verifiable Text-Editing with LLMs]()</b> <br> 
+P Laban, J Vig, M Hearst, C Xiong, C Wu. <i>Arxiv</i>. 
+[[PDF]](https://arxiv.org/pdf/2309.15337.pdf)
+
+<b>[Art or Artifice? Large Language Models and the False Promise of Creativity]()</b> <br> 
+T Chakrabarty, P Laban, D Agarwal, S Muresan, C Wu. <i>Arxiv</i>. 
+[[PDF]](https://arxiv.org/pdf/2309.14556.pdf?mc_cid=0402ef9c78&mc_eid=c6121d4cba)
+
+<b>[Embrace Divergence for Richer Insights: A Multi-document Summarization Benchmark and a Case Study on Summarizing Diverse Information from News Articles]()</b> <br> 
+K Huang, P Laban, A Fabbri, P Choubey, S Joty, C Xiong, C Wu. <i>Arxiv</i>. 
+[[PDF]](https://arxiv.org/pdf/2309.09369.pdf)
+
+<b>[Xgen-7b Technical Report]()</b> <br> 
+Salesforce AI Research. <i>Arxiv</i>. 
+[[PDF]](https://arxiv.org/pdf/2309.03450.pdf)
+
+<b>[Next Steps for Human-Centered Generative AI: A Technical Perspective]()</b> <br> 
+X Chen, J Burke, R Du, M Hong, J Jacobs, P Laban, D Li, N Peng, K Willis, C Wu, B Zhou. <i>Arxiv</i>. 
+[[PDF]](https://arxiv.org/abs/2306.15774)
+
 <b>[SummEdits: Measuring LLM Ability at Factual Reasoning Through The Lens of Summarization]()</b> <br> 
 P Laban, W Kryściński, D Agarwal, A Fabbri, C Xiong, S Joty, C Wu. <i>EMNLP 2023</i>. 
 [[PDF]](https://arxiv.org/pdf/2305.14540.pdf)

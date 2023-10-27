@@ -15,8 +15,8 @@ main:
   - title: "More"
     url: /More/
 
-  - title: "Blog"
-    url: "https://jason-wu830731.medium.com/"
+  # - title: "Blog"
+  #   url: "https://jason-wu830731.medium.com/"
   
   # - title: "Honors"
   #   url: /honors/
