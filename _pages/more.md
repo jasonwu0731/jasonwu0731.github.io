@@ -26,7 +26,6 @@ author_profile: true
 
 * **Salesforce President's Award**:
 Created new insights and possibilities to better Salesforce products and contributed to Conversational AI and Chatbot portfolios, 2021.
-	* Awarded to top 1% of the Salesforce employees.
 
 * **Best Paper Award**:
 Conversational AI Worshop at Conference on Neural Information Processing Systems (NeurIPS). 2019. [[link]](http://alborz-geramifard.com/workshops/neurips19-Conversational-AI/Main.html)
