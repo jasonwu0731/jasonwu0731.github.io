@@ -4,15 +4,14 @@ title: "More"
 author_profile: true
 ---
 
-
-
-
 ## Professional Activities
 
 * Speaker Invitation 
-	* Seminar Talk: NLP applications at Salesforce - CodeGen, Marvista, and Merlin at [Stanford AI4All](https://hai.stanford.edu/stanford-ai4all).
-	* Keynote Talk: Towards Trustworthy Evaluation and Interpretation for Summarization and Dialogue ([Eval4NLP @ EMNLP](https://eval4nlp.github.io/program.html))
-	* Seminar Talk: Conversations as Knowledge - from Question Answering to Summarization at [NUS](https://wing-nus.github.io/nlp-seminar/past/).
+	* Theater Talk: Power the Future of Service with LAMs at [Dreamforce](https://www.linkedin.com/posts/maxcomparetto_come-see-what-my-team-and-i-have-been-working-activity-7105535434843115520-NdbE?utm_source=share&utm_medium=member_desktop)
+	* Seminar Talk: SDCASEA Technology Forum at [UCSD](https://www.sdcasea.com/2023-sdcasea-technology-forum-proceedings). 2023.
+	* Seminar Talk: NLP applications at Salesforce - CodeGen, Marvista, and Merlin at [Stanford AI4All](https://hai.stanford.edu/stanford-ai4all). 2022.
+	* Keynote Talk: Towards Trustworthy Evaluation and Interpretation for Summarization and Dialogue ([Eval4NLP @ EMNLP](https://eval4nlp.github.io)). 2022.
+	* Seminar Talk: Conversations as Knowledge - from Question Answering to Summarization at [NUS](https://wing-nus.github.io/nlp-seminar/past/). 2021.
 
 * Area Chair
 	* NeurIPS, SIGDial
@@ -30,30 +29,33 @@ Created new insights and possibilities to better Salesforce products and contrib
 	* Awarded to top 1% of the Salesforce employees.
 
 * **Best Paper Award**:
-Conversational AI Worshop at Conference on Neural Information Processing Systems (NeurIPS). 2019.
-	* Awarded to 1 paper among 30 accepted papers. [[link]](http://alborz-geramifard.com/workshops/neurips19-Conversational-AI/Main.html)
+Conversational AI Worshop at Conference on Neural Information Processing Systems (NeurIPS). 2019. [[link]](http://alborz-geramifard.com/workshops/neurips19-Conversational-AI/Main.html)
 
 * **Outstanding Paper Award**:
-Association for Computational Linguistics (ACL). 2019.
-	* Awarded to 5 papers among 660 accepted papers. [[link]](http://www.acl2019.org/EN/winners-of-acl-2019-best-paper-awards.xhtml)
+Association for Computational Linguistics (ACL). 2019. [[link]](http://www.acl2019.org/EN/winners-of-acl-2019-best-paper-awards.xhtml)
 
 * **Best Paper Award**:
-NLP for Conversational AI Worshop at Association for Computational Linguistics (ACL). 2019.
-	* Awarded to 3 papers among 25 accepted papers. [[link]](https://sites.google.com/view/nlp4convai/accepted-papers?authuser=0)
+NLP for Conversational AI Worshop at Association for Computational Linguistics (ACL). 2019. [[link]](https://sites.google.com/view/nlp4convai/accepted-papers?authuser=0)
+
+
+## Education
+I earned my Mphil degree from Electronic & Computer Engineering at the Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk/)), working with Prof. [Pascale Fung](https://pascale.home.ece.ust.hk/), and I received bachelor’s degree from Electrical Engineering at the National Taiwan University ([NTU](https://www.ntu.edu.tw/english/)).
+
+
 <!-- * **Postgraduate Student Scholarships**:
 Hong Kong University of Science and Technology. 2017, 2018. -->
-* **Irving T. Ho Memorial Scholarship**: 
+<!-- * **Irving T. Ho Memorial Scholarship**: 
 Awarded to 3 undergrad students for outstanding academic performance and research potential. 
-National Taiwan University. 2016.
+National Taiwan University. 2016. -->
 
-* **Dean's List Award**: 
-School of Engineering, Hong Kong University of Science and Technology. 2016.
-
+<!-- * **Dean's List Award**: 
+School of Engineering, Hong Kong University of Science and Technology. 2016. -->
+<!-- 
 * **First Prize Student Paper Award**: 
 IEEE ICSPCC. 2016.
 
 * **First Prize Hackthon Team**: 
-34 universities across China, Taiwan, and Hong Kong. Microsoft Research Asia (MSRA). 2015.
+34 universities across China, Taiwan, and Hong Kong. Microsoft Research Asia (MSRA). 2015. -->
 <!-- * **First Prize GetFresh Creativity Competition**:  
 Minister of Economics Affairs, Taiwan. 2015. -->
 

@@ -4,10 +4,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-<u><a href="https://scholar.google.com.hk/citations?user=1G4GV2EAAAAJ&hl" target="_blank">Google Scholar</a></u> profile
-(* denotes equal contribution)
+My latest publications are in my <u><a href="https://scholar.google.com.hk/citations?user=1G4GV2EAAAAJ&hl" target="_blank">Google Scholar</a></u> profile!
+<!-- (* denotes equal contribution) -->
 
-### 2023
+Contact me if you'd like to collaborate and brainstorm ideas with me!
+
+<!-- ### 2023
 
 <b>[Beyond the Chat: Executable and Verifiable Text-Editing with LLMs]()</b> <br> 
 P Laban, J Vig, M Hearst, C Xiong, C Wu. <i>Arxiv</i>. 
@@ -273,5 +275,5 @@ P Fung, D Bertero, Y Wan, A Dey, R Chan, F Siddique, Y Yang, C Wu, R Lin. <i>CIC
 <b>[JointRF/Baseband Grouping-based Codebook Design for Hybrid Beamforming in mmWave MIMO Systems](https://jasonwu0731.github.io/publications/ICSPCC16)</b> <br>
 C Wu, CH Chen, CR Tsai, and AY Wu. <i>ICSPCC 2016</i>.
 [[PDF]](http://access.ee.ntu.edu.tw/Publications/Conference/CA147_2016.pdf) 
-
+ -->
 

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jason Wu"
 title_separator          : "-"
 name                     : &name "Jason Wu"
-description              : &description "Research Scientist at Salesforce"
+description              : &description ""
 url                      : https://jasonwu0731.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jasonwu0731/jasonwu0731.github.io"
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chien-Sheng Wu"
+  name             : "Chien-Sheng (Jason) Wu"
   avatar           : "Photography-Salesforce-AI-2021-JasonWu-head.jpg" # "jason_profile_2.jpg"
-  bio              : "Natural Language Processing, Conversational AI, Human-Computer Interaction"
+  bio              : "Leading the Way in Trustworthy Interactive AI"
   location         : 
   employer         :
   googlescholar    : "https://scholar.google.com.hk/citations?user=1G4GV2EAAAAJ&hl"
-  email            : "wu.jason@salesforce.com" #"jasonwu830731@gmail.com"
+  email            : "jasonwu830731@gmail.com"
   uri              :
   bitbucket        :
   codepen          :

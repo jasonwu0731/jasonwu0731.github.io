@@ -1,10 +1,11 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
 
   - title: "Products/Patents"
     url: /products/    
+
+  - title: "Publications"
+    url: /publications/
 
   # - title: "Teaching"
   #   url: /teaching/    
