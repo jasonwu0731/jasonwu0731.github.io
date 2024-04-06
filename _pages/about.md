@@ -21,6 +21,12 @@ redirect_from:
 
 I'm a Director at [Salesforce AI Research](https://www.salesforceairesearch.com), leading the Interactive AI Team. My research focuses on Deep Learning and Natural Language Processing, particularly, **Conversational AI and Agents**, **Trustworthy Generative AI**, **HCI + NLP**, and **Large Language Modeling**. Our team delivers AI solutions and patents to power Salesforce products and frontier incubation, as well as publishing and presenting at top AI forums to impact [academic research](https://scholar.google.com.hk/citations?user=1G4GV2EAAAAJ&hl=en). 
 
+# Publication
+
+My latest works are in my <u><a href="https://scholar.google.com.hk/citations?user=1G4GV2EAAAAJ&hl" target="_blank">Google Scholar</a></u> profile!
+
+Contact me if you'd like to collaborate and brainstorm with me!
+
 <!-- ## News
 - 10/2023: Five paper are accepted to [EMNLP 2023](https://2023.emnlp.org/) related to LLM factualness, evaluation, and applications.
 - 06/2023: Five paper are accepted to [ACL 2023](https://2023.aclweb.org/) related to instruction learning, summarization, and simplifcation! -->

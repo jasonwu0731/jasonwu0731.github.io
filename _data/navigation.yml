@@ -4,8 +4,8 @@ main:
   - title: "Products/Patents"
     url: /products/    
 
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
   # - title: "Teaching"
   #   url: /teaching/    
