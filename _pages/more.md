@@ -7,14 +7,18 @@ author_profile: true
 ## Professional Activities
 
 * Speaker Invitation 
-	* Theater Talk: Power the Future of Service with LAMs at [Dreamforce](https://www.linkedin.com/posts/maxcomparetto_come-see-what-my-team-and-i-have-been-working-activity-7105535434843115520-NdbE?utm_source=share&utm_medium=member_desktop)
+	* Keynote: Generative AI for Business - From Human Assistants to Agentforce at [UTHF](https://www.uthf.net/). 2024.
+	* Theater Talk: The Future of Communication with AI - Write Smarter. Read Faster.
+ at [Dreamforce](https://www.linkedin.com/posts/maxcomparetto_come-see-what-my-team-and-i-have-been-working-activity-7105535434843115520-NdbE?utm_source=share&utm_medium=member_desktop). 2024.
+	* Guest Lecture: LLM Background, Challenges, and Opportunities for HCI and Agents at [UCLA ECE 188](https://uclahci.notion.site/2024-Spring-ECE-188-Applied-Interactive-Machine-Learning-8ffa1b7d35ea42b79214da52bb8cd7f9). 2024.
+	* Theater Talk: Power the Future of Service with LAMs at [Dreamforce](https://www.linkedin.com/posts/maxcomparetto_come-see-what-my-team-and-i-have-been-working-activity-7105535434843115520-NdbE?utm_source=share&utm_medium=member_desktop). 2023.
 	* Seminar Talk: SDCASEA Technology Forum at [UCSD](https://www.sdcasea.com/2023-sdcasea-technology-forum-proceedings). 2023.
 	* Seminar Talk: NLP applications at Salesforce - CodeGen, Marvista, and Merlin at [Stanford AI4All](https://hai.stanford.edu/stanford-ai4all). 2022.
 	* Keynote Talk: Towards Trustworthy Evaluation and Interpretation for Summarization and Dialogue ([Eval4NLP @ EMNLP](https://eval4nlp.github.io)). 2022.
 	* Seminar Talk: Conversations as Knowledge - from Question Answering to Summarization at [NUS](https://wing-nus.github.io/nlp-seminar/past/). 2021.
 
 * Area Chair
-	* NeurIPS, SIGDial
+	* NeurIPS, ICML, SIGDial
 
 * Program Committee / Discussion Leader/ Reviewer: 
 	* Journal: TACL, TASL, CSL, JAIR

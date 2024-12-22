@@ -6,6 +6,8 @@ author_profile: true
 
 ### Product Innovation
 
+- **Agentforce** in 2024-present: [Page](https://www.salesforce.com/agentforce/)
+
 - **Trust Layer** in 2023-present: [Page](https://www.salesforce.com/products/secure-ai/) and [Demo](https://www.youtube.com/watch?v=JYWBnPEtkoc)
 
 - **Sales Cloud Einstein Conversation Insights** in 2023-present: [Page](https://www.salesforce.com/products/sales-conversation-intelligence/) and [Demo](https://www.youtube.com/watch?v=4QlLTlM9of8)
@@ -22,6 +24,11 @@ author_profile: true
 
 
 ### Patents
+- [Systems and methods for multi-modal conversation summarization on a conversation platform](https://patents.google.com/patent/US20240160837A1/en)
+
+- [Systems and methods for structured conversation summarization](https://patentimages.storage.googleapis.com/04/bf/5f/1f2812fbcc2e5c/US20240242022A1.pdf)
+
+- [SYSTEMS AND METHODS FOR FACTUAL NATURAL LANGAUGE PROCESSING](https://www.freepatentsonline.com/y2024/0394539.html)
 
 - [Systems and methods for a reading and comprehension assistance tool](https://patents.google.com/patent/US20240095464A1/en)
 
