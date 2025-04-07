@@ -28,6 +28,9 @@ author_profile: true
 
 ## Honors & Award
 
+* **Best Paper Honorable Mentioned Award**:
+Conference on Human Factors in Computing Systems (CHI). 2025.
+
 * **Salesforce Great Manager Award**:
 The award celebrates the outstanding People Leaders who exemplify the core values and consistently demonstrate the Salesforce behaviors for people leaders. There are only 43 selected winners in 2024.
 

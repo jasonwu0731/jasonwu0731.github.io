@@ -21,9 +21,9 @@ redirect_from:
 
 I'm a Director at [Salesforce AI Research](https://www.salesforceairesearch.com), leading the Interactive AI Team. My research focuses on Deep Learning and Natural Language Processing, particularly, **Agentic AI**, **Trustworthy and Human-Centric AI**, **Conversational AI**, and **Large Language Modeling**. Our team delivers AI solutions and patents to power Salesforce [products](/products/) and frontier incubation, as well as publishing and presenting at top AI forums to impact [academic research](https://scholar.google.com.hk/citations?user=1G4GV2EAAAAJ&hl=en). 
 
-## Open to Chat
+## Talk to Me
 
-Feel free to contact me by email, or I have an [open slot to chat]((https://calendly.com/jason-wu830731/30min)) every week for any discussion!
+Feel free to contact me by email, or I have an [open meeting slot]((https://calendly.com/jason-wu830731/30min)) every week for any discussion!
 
 <!-- ## News
 - 10/2023: Five paper are accepted to [EMNLP 2023](https://2023.emnlp.org/) related to LLM factualness, evaluation, and applications.
