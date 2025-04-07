@@ -18,7 +18,7 @@ author_profile: true
 	* Seminar Talk: Conversations as Knowledge - from Question Answering to Summarization at [NUS](https://wing-nus.github.io/nlp-seminar/past/). 2021.
 
 * Area Chair
-	* NeurIPS, ICML, SIGDial
+	* *CL (ARR), NeurIPS, ICML, SIGDial
 
 * Program Committee / Discussion Leader/ Reviewer: 
 	* Journal: TACL, TASL, CSL, JAIR
@@ -27,6 +27,9 @@ author_profile: true
 	* General: ARR 
 
 ## Honors & Award
+
+* **Salesforce Great Manager Award**:
+The award celebrates the outstanding People Leaders who exemplify the core values and consistently demonstrate the Salesforce behaviors for people leaders. There are only 43 selected winners in 2024.
 
 * **Salesforce President's Award**:
 Created new insights and possibilities to better Salesforce products and contributed to Conversational AI and Chatbot portfolios, 2021.

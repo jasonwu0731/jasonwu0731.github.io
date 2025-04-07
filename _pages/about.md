@@ -19,11 +19,11 @@ redirect_from:
 
 <!-- Chien-Sheng Jason Wu (<font face="KAI">中文：吳建昇</font>) is a Director at [Salesforce AI Research](https://www.salesforceairesearch.com), leading the Interactive AI Team. His research focuses on deep learning and natural language processing, particularly, [Conversational AI and Agents](), [Trustworthy Generative AI](), and [Human-Computer Interaction + NLP](). He received the outstanding paper award at ACL 2019, the best paper award at NLP4ConvAI Workshop @ACL 2019, and the best paper award at ConvAI Workshop @NeurIPS 2019. He serves as program committee for various leading conferences such as ACL/EMNLP/NeurIPS/ICLR, and journals such as the IEEE/ACM TASLP, CSL, and TACL. He won the Salesforce President's Award in 2021 for his research innovation and research-to-product impact. Jason earned his Mphil degree from Electronic & Computer Engineering at the Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk/)), working with Prof. [Pascale Fung](https://pascale.home.ece.ust.hk/), and his bachelor’s degree from Electrical Engineering at the National Taiwan University ([NTU](https://www.ntu.edu.tw/english/)). -->
 
-I'm a Director at [Salesforce AI Research](https://www.salesforceairesearch.com), leading the Interactive AI Team. My research focuses on Deep Learning and Natural Language Processing, particularly, **Conversational AI**, **Trustworthy AI**, **Agentic AI**, **Human-Centric NLP**, and **Large Language Modeling**. Our team delivers AI solutions and patents to power [Salesforce products](/products/) and frontier incubation, as well as publishing and presenting at top AI forums to impact [academic research](https://scholar.google.com.hk/citations?user=1G4GV2EAAAAJ&hl=en). 
+I'm a Director at [Salesforce AI Research](https://www.salesforceairesearch.com), leading the Interactive AI Team. My research focuses on Deep Learning and Natural Language Processing, particularly, **Agentic AI**, **Trustworthy and Human-Centric AI**, **Conversational AI**, and **Large Language Modeling**. Our team delivers AI solutions and patents to power Salesforce [products](/products/) and frontier incubation, as well as publishing and presenting at top AI forums to impact [academic research](https://scholar.google.com.hk/citations?user=1G4GV2EAAAAJ&hl=en). 
 
-## Publication
+## Open to Chat
 
-My latest works are in my <u><a href="https://scholar.google.com.hk/citations?user=1G4GV2EAAAAJ&hl" target="_blank">Google Scholar</a></u> profile. Feel free to contact me for collaboration or professional service!
+Feel free to contact me by email, or I have an [open slot to chat]((https://calendly.com/jason-wu830731/30min)) every week for any discussion!
 
 <!-- ## News
 - 10/2023: Five paper are accepted to [EMNLP 2023](https://2023.emnlp.org/) related to LLM factualness, evaluation, and applications.

@@ -8,7 +8,7 @@ author_profile: true
 
 - **Agentforce** in 2024-present: [Page](https://www.salesforce.com/agentforce/)
 
-- **Trust Layer** in 2023-present: [Page](https://www.salesforce.com/products/secure-ai/) and [Demo](https://www.youtube.com/watch?v=JYWBnPEtkoc)
+- **Trust Layer and Guardrail** in 2023-2024: [Page](https://www.salesforce.com/products/secure-ai/) and [Demo](https://www.youtube.com/watch?v=JYWBnPEtkoc)
 
 - **Sales Cloud Einstein Conversation Insights** in 2023-present: [Page](https://www.salesforce.com/products/sales-conversation-intelligence/) and [Demo](https://www.youtube.com/watch?v=4QlLTlM9of8)
 
@@ -24,6 +24,13 @@ author_profile: true
 
 
 ### Patents
+
+- [Systems and methods near negative distinction for evaluating NLP models](https://patentimages.storage.googleapis.com/b3/04/ae/8539fb989875a1/US12223270.pdf)
+
+- [Systems and methods for text summarization](https://patentimages.storage.googleapis.com/e9/7b/a1/a319944b545796/US12204847.pdf)
+
+- [SYSTEMS AND METHODS FOR A NEURAL NETWORK BASED SHOPPING AGENT BOT](https://www.freepatentsonline.com/y2024/0428068.html)
+
 - [Systems and methods for multi-modal conversation summarization on a conversation platform](https://patents.google.com/patent/US20240160837A1/en)
 
 - [Systems and methods for structured conversation summarization](https://patentimages.storage.googleapis.com/04/bf/5f/1f2812fbcc2e5c/US20240242022A1.pdf)
