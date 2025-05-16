@@ -23,7 +23,7 @@ I'm a Director at [Salesforce AI Research](https://www.salesforceairesearch.com)
 
 ## Talk to Me
 
-Feel free to contact me by email, or I have an [open meeting slot](https://calendly.com/jason-wu830731/30min) every week for any discussion!
+Feel free to contact me by email, or I have an [open meeting slot](https://calendly.com/wu-jason-salesforce/30min) every week for any discussion!
 
 <!-- ## News
 - 10/2023: Five paper are accepted to [EMNLP 2023](https://2023.emnlp.org/) related to LLM factualness, evaluation, and applications.
