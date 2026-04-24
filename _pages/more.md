@@ -4,6 +4,12 @@ title: "More"
 author_profile: true
 ---
 
+## Blog
+
+* https://www.salesforce.com/blog/author/chien-sheng-wu/ 
+
+* https://medium.com/@jason-wu830731 
+
 ## Professional Activities
 
 * Speaker Invitation 
