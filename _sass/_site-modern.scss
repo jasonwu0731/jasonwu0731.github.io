@@ -174,3 +174,61 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 0;
   font-weight: 500;
 }
+
+/* Medium “latest post” preview (More page, fed by _data/medium_latest.json) */
+.page__content .medium-latest {
+  margin: 1.25rem 0 0 0;
+  padding: 1rem 1.1rem;
+  border: 1px solid $border-color;
+  border-radius: 10px;
+  background: rgba($lighter-gray, 0.35);
+  max-width: 36rem;
+}
+
+.page__content .medium-latest__image-link {
+  display: block;
+  border-radius: 6px;
+  overflow: hidden;
+  margin: 0 0 0.9rem 0;
+  line-height: 0;
+
+  &:hover img {
+    opacity: 0.92;
+  }
+}
+
+.page__content .medium-latest__image {
+  width: 100%;
+  height: auto;
+  max-height: 12rem;
+  object-fit: cover;
+  display: block;
+}
+
+.page__content .medium-latest__body {
+  margin: 0;
+}
+
+.page__content .medium-latest__meta {
+  margin: 0 0 0.25rem 0;
+  font-size: 0.9rem;
+  color: $gray;
+}
+
+.page__content .medium-latest__title {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.05rem;
+  font-weight: 600;
+  line-height: 1.4;
+
+  a {
+    color: $darker-gray;
+  }
+}
+
+.page__content .medium-latest__excerpt {
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: $dark-gray;
+}

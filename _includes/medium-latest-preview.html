@@ -1,0 +1,32 @@
+{% assign m = site.data.medium_latest %}
+{% if m and m.title != nil and m.title != "" %}
+<aside class="medium-latest" role="complementary" aria-label="Latest post on Medium">
+  {% if m.image != nil and m.image != "" %}
+  <a class="medium-latest__image-link" href="{{ m.url }}">
+    <img
+      class="medium-latest__image"
+      src="{{ m.image }}"
+      alt=""
+      loading="lazy"
+      decoding="async" />
+  </a>
+  {% endif %}
+  <div class="medium-latest__body">
+    {% if m.date_display != nil and m.date_display != "" %}
+    <p class="medium-latest__meta">
+      {% if m.date_iso != nil and m.date_iso != "" %}
+      <time class="medium-latest__date" datetime="{{ m.date_iso }}">{{ m.date_display | escape }}</time>
+      {% else %}
+      <span class="medium-latest__date">{{ m.date_display | escape }}</span>
+      {% endif %}
+    </p>
+    {% endif %}
+    <p class="medium-latest__title">
+      <a href="{{ m.url }}">{{ m.title | escape }}</a>
+    </p>
+    {% if m.excerpt != nil and m.excerpt != "" %}
+    <p class="medium-latest__excerpt">{{ m.excerpt | escape }}</p>
+    {% endif %}
+  </div>
+</aside>
+{% endif %}

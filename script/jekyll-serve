@@ -1,0 +1,19 @@
+#!/usr/bin/env sh
+# Local preview with Ruby 3.2+; loads taint_ruby3_shim (github-pages does not run _plugins/).
+# If you see "Address already in use" on 4000, free the port or: ./script/jekyll-serve --port 4001
+set -e
+# Prefer Homebrew ruby so we don't use macOS /usr/bin/bundle (Ruby 2.6). Apple: /opt/homebrew; Intel: /usr/local.
+if [ -d /opt/homebrew/opt/ruby/bin ]; then
+  export PATH="/opt/homebrew/opt/ruby/bin:$PATH"
+elif [ -d /usr/local/opt/ruby/bin ]; then
+  export PATH="/usr/local/opt/ruby/bin:$PATH"
+fi
+cd "$(dirname "$0")/.."
+export RUBYOPT="-I${PWD} -r taint_ruby3_shim ${RUBYOPT:-}"
+# Need Ruby 3+ (not macOS /usr/bin/ruby 2.6) and a Bundler for this Ruby.
+if ! ruby -e 'a=RUBY_VERSION.split(%q{.})[0].to_i; exit a < 3 ? 1 : 0' 2>/dev/null; then
+  echo "jekyll-serve: need Ruby 3+ on PATH. Example: brew install ruby" >&2
+  echo "  which ruby: $(command -v ruby 2>/dev/null)  $(ruby -v 2>/dev/null || echo 'ruby missing')" >&2
+  exit 1
+fi
+exec bundle exec jekyll serve --config _config.yml,_config.dev.yml "$@"

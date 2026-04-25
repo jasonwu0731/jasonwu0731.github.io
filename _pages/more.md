@@ -10,6 +10,8 @@ author_profile: true
 
 * [Personal Blog](https://medium.com/@jason-wu830731)
 
+{% include medium-latest-preview.html %}
+
 ## Professional Activities
 
 * Speaker Invitation 

@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+> Technology ends in humanity; Commerce begins with trust.
+
 <figure class="page__hero-banner" style="margin: 0 0 1.25em;">
-  <img src="/images/Gemini_Generated_Image_8ksnn68ksnn68ksn.png" alt="Banner" style="max-width: min(720px, 78%); width: 100%; height: auto; display: block; margin: 0 auto;" />
+  <img src="/images/getsitecontrol__convert-video-to-gif__free-ezgif.com-speed.gif" alt="Banner" style="max-width: min(720px, 78%); width: 100%; height: auto; display: block; margin: 0 auto;" />
 </figure>
 
 <!-- ## Welcome! -->
@@ -39,8 +41,6 @@ My team delivers AI solutions and patents that power Salesforce [products](/prod
 
 ## Talk to Me
 I enjoy connecting with the community (researchers, journalists, startups, etc). Feel free to reach out via email, or book a time through my weekly [open meeting slot](https://calendly.com/wu-jason-salesforce/30min) for a discussion!
-
-<!-- {% include recent-social-feed.html %} -->
 
 
 <!-- ## News
