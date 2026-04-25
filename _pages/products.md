@@ -8,7 +8,9 @@ author_profile: true
 
 - **Agentforce** in 2024-present: [Page](https://www.salesforce.com/agentforce/)
 
-- **Trust Layer and Guardrail** in 2023-2024: [Page](https://www.salesforce.com/products/secure-ai/) and [Demo](https://www.youtube.com/watch?v=JYWBnPEtkoc)
+- **Data Cloud Deep Research** in 2025-present: [Page](https://help.salesforce.com/s/articleView?id=data.c360_a_notebook_ai_research_analyze.htm&type=5)
+
+- **Trust Layer and Guardrail** in 2023-present: [Page](https://www.salesforce.com/products/secure-ai/) and [Demo](https://www.youtube.com/watch?v=JYWBnPEtkoc)
 
 - **Sales Cloud Einstein Conversation Insights** in 2023-present: [Page](https://www.salesforce.com/products/sales-conversation-intelligence/) and [Demo](https://www.youtube.com/watch?v=4QlLTlM9of8)
 

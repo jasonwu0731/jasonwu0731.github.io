@@ -6,9 +6,9 @@ author_profile: true
 
 ## Blog
 
-* https://www.salesforce.com/blog/author/chien-sheng-wu/ 
+* [Salesforce Blog](https://www.salesforce.com/blog/author/chien-sheng-wu/)
 
-* https://medium.com/@jason-wu830731 
+* [Personal Blog](https://medium.com/@jason-wu830731)
 
 ## Professional Activities
 

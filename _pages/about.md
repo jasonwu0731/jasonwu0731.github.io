@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+<figure class="page__hero-banner" style="margin: 0 0 1.25em;">
+  <img src="/images/Gemini_Generated_Image_8ksnn68ksnn68ksn.png" alt="Banner" style="max-width: min(720px, 78%); width: 100%; height: auto; display: block; margin: 0 auto;" />
+</figure>
+
 <!-- ## Welcome! -->
 
 <!-- <p align="center">
@@ -19,11 +23,25 @@ redirect_from:
 
 <!-- Chien-Sheng Jason Wu (<font face="KAI">中文：吳建昇</font>) is a Director at [Salesforce AI Research](https://www.salesforceairesearch.com), leading the Interactive AI Team. His research focuses on deep learning and natural language processing, particularly, [Conversational AI and Agents](), [Trustworthy Generative AI](), and [Human-Computer Interaction + NLP](). He received the outstanding paper award at ACL 2019, the best paper award at NLP4ConvAI Workshop @ACL 2019, and the best paper award at ConvAI Workshop @NeurIPS 2019. He serves as program committee for various leading conferences such as ACL/EMNLP/NeurIPS/ICLR, and journals such as the IEEE/ACM TASLP, CSL, and TACL. He won the Salesforce President's Award in 2021 for his research innovation and research-to-product impact. Jason earned his Mphil degree from Electronic & Computer Engineering at the Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk/)), working with Prof. [Pascale Fung](https://pascale.home.ece.ust.hk/), and his bachelor’s degree from Electrical Engineering at the National Taiwan University ([NTU](https://www.ntu.edu.tw/english/)). -->
 
-I'm a Senior Director at [Salesforce AI Research](https://www.salesforceairesearch.com), leading the Interactive AI Team. My research focuses on Deep Learning, particularly, **Agentic AI**, **RL Simulation**, **Long-Horizon and Self Evolving Agents**, **Trustworthy, Interactive, and Human-Centric AI**. Our team delivers AI solutions and patents to power Salesforce [products](/products/) and frontier incubation, as well as publishing and presenting at top AI forums to impact [academic research](https://scholar.google.com.hk/citations?user=1G4GV2EAAAAJ&hl=en). 
+
+
+I am a Senior Director at [Salesforce AI Research](https://www.salesforceairesearch.com), where I lead the Interactive AI Team. I have been incredibly fortunate to be mentored by brilliant leaders including [Silvio Savarase](https://en.wikipedia.org/wiki/Silvio_Savarese), [Caiming Xiong](https://www.linkedin.com/in/caiming-xiong-150a1417), [Richard Socher](https://www.socher.org/), [Pascale Fung](https://pascale.home.ece.ust.hk/), and [An-Yeu (Andy) Wu](https://access.ee.ntu.edu.tw/), and I am privileged to collaborate with world-class AI researchers and product teams.
+
+My research sits at the nexus of **AI, humanity, and commerce** -- pushing the boundaries of frontier AI to create meaningful human progress and tangible economic growth. Recently, my primary focus areas include:
+- **Agentic AI**
+- **Long-Horizon and Self-Evolving AI**
+- **AI Simulation and Reinforcement Learning**
+- **Trustworthy and Human-Centric AI**
+
+My technical journey began in Electrical Engineering with a focus on circuit design and speech understanding. It has since evolved through Natural Language Processing (NLP) and dialogue systems to general large language modeling (LLM) and human-computer interaction (HCI). Today, my work centers on frontier agentic and multimodal AI.
+
+My team delivers AI solutions and patents that power Salesforce [products](/products/) and frontier incubations. We also actively contribute to the scientific community by publishing at top-tier AI forums to advance [academic research](https://scholar.google.com.hk/citations?user=1G4GV2EAAAAJ&hl=en) with award-winning records.
 
 ## Talk to Me
+I enjoy connecting with the community (researchers, journalists, startups, etc). Feel free to reach out via email, or book a time through my weekly [open meeting slot](https://calendly.com/wu-jason-salesforce/30min) for a discussion!
 
-Feel free to contact me by email, or I have an [open meeting slot](https://calendly.com/wu-jason-salesforce/30min) every week for any discussion!
+<!-- {% include recent-social-feed.html %} -->
+
 
 <!-- ## News
 - 10/2023: Five paper are accepted to [EMNLP 2023](https://2023.emnlp.org/) related to LLM factualness, evaluation, and applications.
