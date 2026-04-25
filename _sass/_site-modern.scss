@@ -43,6 +43,13 @@ h1, h2, h3, h4, h5, h6 {
     border-radius: $border-radius;
     transition: background-color 0.15s ease, color 0.15s ease;
 
+    /* Navicon bars default to #fff in utilities (for legacy dark button). Match text color. */
+    .navicon,
+    .navicon:before,
+    .navicon:after {
+      background: currentColor;
+    }
+
     &:hover,
     &:focus {
       background-color: $lighter-gray;
