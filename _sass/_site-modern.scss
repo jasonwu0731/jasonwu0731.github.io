@@ -1,0 +1,176 @@
+/* ==========================================================================
+   Site — modern editorial UI (narrower reading measure, calmer chrome)
+   ========================================================================== */
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.65;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+}
+
+/* Masthead: airy bar, editorial site title */
+.masthead {
+  border-bottom: 1px solid $border-color;
+  background: rgba($body-color, 0.92);
+  backdrop-filter: blur(8px);
+
+  &__inner-wrap {
+    padding: 1.1em 1.25em;
+  }
+}
+
+.masthead__menu-item--lg a {
+  font-family: $header-font-family;
+  font-weight: 600;
+  font-size: 1.2rem;
+  letter-spacing: -0.02em;
+  color: $darker-gray;
+}
+
+/* Greedy nav: neutral menu button, subtle active line */
+.greedy-nav {
+  button {
+    background-color: transparent;
+    color: $masthead-link-color;
+    border-radius: $border-radius;
+    transition: background-color 0.15s ease, color 0.15s ease;
+
+    &:hover,
+    &:focus {
+      background-color: $lighter-gray;
+      color: $masthead-link-color-hover;
+    }
+  }
+
+  .visible-links {
+    li:not(:first-child) a {
+      font-weight: 400;
+      font-size: 0.9375rem;
+      letter-spacing: 0.02em;
+      text-transform: none;
+    }
+
+    a:before {
+      height: 1px;
+      bottom: 0.2em;
+      background: currentColor;
+    }
+  }
+
+  .hidden-links {
+    border-radius: $border-radius;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08);
+    border-color: $border-color;
+  }
+}
+
+#main {
+  margin-top: 2.5rem;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+
+/* Page title: large serif, tight tracking */
+.page__title {
+  font-family: $header-font-family;
+  font-weight: 600;
+  /* Raw CSS: legacy Sass cannot add rem + vw inside clamp() */
+  font-size: unquote("clamp(1.85rem, 2.5vw + 1rem, 2.65rem)");
+  letter-spacing: -0.03em;
+  line-height: 1.15;
+  color: $darker-gray;
+}
+
+.page__lead {
+  font-size: 1.125rem;
+  color: $dark-gray;
+  line-height: 1.55;
+}
+
+.page__content {
+  h2 {
+    font-family: $header-font-family;
+    font-weight: 600;
+    font-size: 1.35rem;
+    letter-spacing: -0.02em;
+    border-bottom-color: $border-color;
+    padding-bottom: 0.4em;
+    margin-top: 2.25rem;
+  }
+
+  h3 {
+    font-weight: 600;
+    letter-spacing: -0.01em;
+  }
+
+  a {
+    text-decoration: none;
+    text-underline-offset: 0.18em;
+
+    &:hover {
+      text-decoration: underline;
+      text-decoration-color: rgba($link-color-hover, 0.45);
+    }
+  }
+
+  a:has(img) {
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
+}
+
+/* Comfortable measure for long-form pages */
+@include breakpoint($large) {
+  .page .page__inner-wrap {
+    max-width: 44rem;
+  }
+}
+
+/* Author block: softer card, no heavy ring */
+.author__avatar img {
+  border-radius: 12px;
+  border: 1px solid $border-color;
+  box-shadow: none;
+}
+
+@include breakpoint($large) {
+  .author__avatar img {
+    border-radius: 14px;
+  }
+}
+
+.sidebar {
+  @include breakpoint($large) {
+    opacity: 1;
+  }
+}
+
+/* Footer: flat, minimal */
+.page__footer {
+  margin-top: 4rem;
+  background-color: $body-color;
+  color: $gray;
+  border-top: 1px solid $border-color;
+
+  footer {
+    margin-top: 2.5rem;
+    padding-bottom: 2.5rem;
+  }
+}
+
+.page__footer-follow li {
+  text-transform: none;
+  letter-spacing: 0;
+  font-weight: 500;
+}

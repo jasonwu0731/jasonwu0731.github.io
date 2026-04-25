@@ -1,10 +1,12 @@
 {% include base_path %}
 
 <!-- begin SEO -->
+{% comment %}Avoid `default: site.github.url` (eager eval triggers jekyll-github-metadata).{% endcomment %}
 {% if site.url %}
   {% assign seo_url = site.url | append: site.baseurl %}
+{% else %}
+  {% assign seo_url = site.github.url %}
 {% endif %}
-{% assign seo_url = seo_url | default: site.github.url %}
 
 {% if page.title %}
   {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
