@@ -1,0 +1,38 @@
+# Pulls your latest Medium story into _data/medium_latest.json (RSS, no API key).
+#
+# Manual run: Actions → "Update latest Medium post" → Run workflow.
+name: Update latest Medium post
+
+on:
+  schedule:
+    - cron: "20 15 * * *" # daily, offset from the X workflow
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-latest-medium
+  cancel-in-progress: true
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch Medium RSS
+        run: |
+          python3 script/fetch-latest-medium-post.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _data/medium_latest.json
+          if git diff --staged --quiet; then
+            echo "No changes to medium_latest.json"
+          else
+            git commit -m "chore: refresh latest Medium post [skip ci]"
+            git push
+          fi
