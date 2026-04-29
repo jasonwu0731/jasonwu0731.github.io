@@ -29,7 +29,7 @@ redirect_from:
 
 I am a Senior Director at [Salesforce AI Research](https://www.salesforceairesearch.com), where I lead the Interactive AI Team. I have been incredibly fortunate to be mentored by brilliant leaders including [Silvio Savarase](https://en.wikipedia.org/wiki/Silvio_Savarese), [Caiming Xiong](https://www.linkedin.com/in/caiming-xiong-150a1417), [Richard Socher](https://www.socher.org/), [Pascale Fung](https://pascale.home.ece.ust.hk/), and [An-Yeu (Andy) Wu](https://access.ee.ntu.edu.tw/), and I am privileged to collaborate with world-class AI researchers and product teams.
 
-My research sits at the nexus of **AI, humanity, and commerce** -- pushing the boundaries of frontier AI to create meaningful human progress and tangible economic growth. Recently, my primary focus areas include:
+My research sits at the nexus of **AI, Humanity, and Business** -- pushing the boundaries of frontier AI to create meaningful human progress and tangible economic growth. Recently, my primary focus areas include:
 - **Agentic AI**
 - **Long-Horizon and Self-Evolving AI**
 - **AI Simulation and Reinforcement Learning**
