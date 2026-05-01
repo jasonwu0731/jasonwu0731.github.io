@@ -1,7 +1,7 @@
-# Pulls your latest Medium story into _data/medium_latest.json (RSS, no API key).
+# Pulls latest posts into _data/medium_latest.json and _data/salesforce_blog_latest.json (RSS, no API keys).
 #
-# Manual run: Actions → "Update latest Medium post" → Run workflow.
-name: Update latest Medium post
+# Manual run: Actions → "Update latest blog previews" → Run workflow.
+name: Update latest blog previews
 
 on:
   schedule:
@@ -12,7 +12,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: update-latest-medium
+  group: update-latest-blog-previews
   cancel-in-progress: true
 
 jobs:
@@ -21,18 +21,19 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch Medium RSS
+      - name: Fetch blog RSS feeds
         run: |
           python3 script/fetch-latest-medium-post.py
+          python3 script/fetch-latest-salesforce-blog-post.py
 
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add _data/medium_latest.json
+          git add _data/medium_latest.json _data/salesforce_blog_latest.json
           if git diff --staged --quiet; then
-            echo "No changes to medium_latest.json"
+            echo "No changes to blog preview JSON"
           else
-            git commit -m "chore: refresh latest Medium post [skip ci]"
+            git commit -m "chore: refresh latest blog previews [skip ci]"
             git push
           fi

@@ -1,0 +1,52 @@
+# Pulls your latest original X post into _data/latest_tweet.json once per day.
+#
+# Setup (one-time):
+# 1. https://developer.x.com — create a project/app with read access (API v2 needs credits / a paid tier if X returns CreditsDepleted).
+# 2. Regenerate / copy the Bearer Token (OAuth 2.0, app-only).
+# 3. Repo → Settings → Secrets and variables → Actions → New repository secret:
+#    Name: TWITTER_BEARER_TOKEN   Value: <your bearer token>
+#
+# Manual run: Actions → "Update latest X post" → Run workflow.
+name: Update latest X post
+
+on:
+  schedule:
+    # Daily at 14:15 UTC (~morning US time, avoids midnight spikes)
+    - cron: "15 14 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-latest-tweet
+  cancel-in-progress: true
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch latest tweet
+        env:
+          TWITTER_BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }}
+        run: |
+          if [ -z "${TWITTER_BEARER_TOKEN}" ]; then
+            echo "::error::Repository secret TWITTER_BEARER_TOKEN is not set. See the comment block at the top of this workflow file."
+            exit 1
+          fi
+          chmod +x script/fetch-latest-tweet.sh
+          script/fetch-latest-tweet.sh
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _data/latest_tweet.json
+          if git diff --staged --quiet; then
+            echo "No changes to latest_tweet.json"
+          else
+            git commit -m "chore: refresh latest X post data [skip ci]"
+            git push
+          fi

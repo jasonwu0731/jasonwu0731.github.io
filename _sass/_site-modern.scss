@@ -182,9 +182,9 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 500;
 }
 
-/* Medium “latest post” preview (More page, fed by _data/medium_latest.json) */
+/* Latest-post previews (More page: _data/medium_latest.json, salesforce_blog_latest.json) */
 .page__content .medium-latest {
-  margin: 1.25rem 0 0 0;
+  margin: 1.25rem 0 1.25rem 0;
   padding: 1rem 1.1rem;
   border: 1px solid $border-color;
   border-radius: 10px;

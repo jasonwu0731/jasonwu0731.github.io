@@ -8,6 +8,8 @@ author_profile: true
 
 * [Salesforce Blog](https://www.salesforce.com/blog/author/chien-sheng-wu/)
 
+{% include salesforce-latest-preview.html %}
+
 * [Personal Blog](https://medium.com/@jason-wu830731)
 
 {% include medium-latest-preview.html %}

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-> Technology ends in humanity; Commerce begins with trust.
+> Technology ends in humanity; Business begins with trust.
 
 <figure class="page__hero-banner" style="margin: 0 0 1.25em;">
   <img src="/images/getsitecontrol__convert-video-to-gif__free-ezgif.com-reverse-5mb.gif" alt="Banner" style="max-width: min(720px, 78%); width: 100%; height: auto; display: block; margin: 0 auto;" />
