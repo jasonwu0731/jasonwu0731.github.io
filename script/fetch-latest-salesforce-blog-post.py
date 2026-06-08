@@ -77,7 +77,17 @@ def main() -> int:
 
     block = first_item_block(raw)
     if not block:
-        print("No <item> in feed", file=sys.stderr)
+        # Salesforce occasionally serves HTML for author feed URLs.
+        # Keep the existing JSON to avoid failing scheduled site maintenance.
+        print(f"No <item> in feed from {url}; keeping existing JSON if present", file=sys.stderr)
+        if out.exists():
+            try:
+                with open(out, "r", encoding="utf-8") as f:
+                    json.load(f)
+                print(f"Keeping existing {out}")
+                return 0
+            except (OSError, json.JSONDecodeError):
+                print(f"Existing {out} is unreadable; cannot keep stale data", file=sys.stderr)
         return 1
 
     title = field_cdata_or_plain(block, "title")

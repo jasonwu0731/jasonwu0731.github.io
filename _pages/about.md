@@ -27,7 +27,7 @@ redirect_from:
 
 
 
-I am a Senior Director at [Salesforce AI Research](https://www.salesforceairesearch.com), where I lead the Interactive AI Team. I have been incredibly fortunate to be mentored by brilliant leaders including [Silvio Savarase](https://en.wikipedia.org/wiki/Silvio_Savarese), [Caiming Xiong](https://www.linkedin.com/in/caiming-xiong-150a1417), [Richard Socher](https://www.socher.org/), [Pascale Fung](https://pascale.home.ece.ust.hk/), and [An-Yeu (Andy) Wu](https://access.ee.ntu.edu.tw/), and I am privileged to collaborate with world-class AI researchers and product teams.
+I am a Senior Director at [Salesforce AI Research](https://www.salesforceairesearch.com), where I lead the Interactive AI Team. I have been incredibly fortunate to be mentored by brilliant leaders including [Silvio Savarase](https://en.wikipedia.org/wiki/Silvio_Savarese), [Caiming Xiong](https://www.linkedin.com/in/caiming-xiong-150a1417), [Richard Socher](https://www.socher.org/), [Pascale Fung](https://pascale.home.ece.ust.hk/), [Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php) and [An-Yeu (Andy) Wu](https://access.ee.ntu.edu.tw/), and I am privileged to collaborate with world-class AI researchers and product teams.
 
 My research sits at the nexus of **AI, Humanity, and Business** -- pushing the boundaries of frontier AI to create meaningful human progress and tangible economic growth. Recently, my primary focus areas include:
 - **Agentic AI**
@@ -35,7 +35,7 @@ My research sits at the nexus of **AI, Humanity, and Business** -- pushing the b
 - **AI Simulation and Reinforcement Learning**
 - **Trustworthy and Human-Centric AI**
 
-My technical journey began in Electrical Engineering with a focus on circuit design and speech understanding. It has since evolved through Natural Language Processing (NLP) and dialogue systems to general large language modeling (LLM) and human-computer interaction (HCI). Today, my work centers on frontier agentic and multimodal AI.
+My technical journey began in Electrical Engineering with a focus on circuit design and signal processing. It has since evolved through Natural Language Processing (NLP) and dialogue systems to general large language modeling (LLM) and human-computer interaction (HCI). Today, my work centers on frontier agentic and multimodal AI.
 
 My team delivers AI solutions and patents that power Salesforce [products](/products/) and frontier incubations. We also actively contribute to the scientific community by publishing at top-tier AI forums to advance [academic research](https://scholar.google.com.hk/citations?user=1G4GV2EAAAAJ&hl=en) with award-winning records.
 
